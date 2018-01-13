@@ -35,7 +35,7 @@
 
 ### External Resources
 
-**Looking forward to fill this in**
+> **Looking forward to fill this in**
 
 
 ### Community
@@ -44,26 +44,26 @@
 - [Official Forum](http://forum.quasar-framework.org/)
 - [Official Chat Room](https://gitter.im/quasarframework/Lobby)
 
-**Looking forward to fill in with community chat rooms**
+> **Looking forward to fill in with community chat rooms**
 
 ### Tutorials
 
-**Looking forward to fill this in**
+> **Looking forward to fill this in**
 
 # Projects Using Quasar
 
 ### Open Source
 
-**Looking forward to fill this in**
+> **Looking forward to fill this in**
 
 ### Websites
 
-**Looking forward to fill this in**
+> **Looking forward to fill this in**
 
 ### Mobile Apps
 
-**Looking forward to fill this in**
+> **Looking forward to fill this in**
 
 ### Electron Apps
 
-**Looking forward to fill this in**
+> **Looking forward to fill this in**
