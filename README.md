@@ -54,7 +54,7 @@
 
 ### Websites
 
-- [Alighieri](https://zuck.github.io/alighieri) - Online book editor ![Quasar](https://img.shields.io/badge/Quasar-v0.14-green.svg?style=flat)
+- [Alighieri](https://zuck.github.io/alighieri) - Online book editor (Q v0.14)
 
 ### Mobile Apps
 
