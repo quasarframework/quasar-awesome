@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img width="400" src="https://cdn.rawgit.com/quasarframework/quasar-art/863c14bd/dist/svg/quasar-logo-full-inline.svg" alt="logo of quasar-awesome repository">
+  <img src="https://cdn.rawgit.com/quasarframework/quasar-art/863c14bd/dist/svg/quasar-logo-full-inline.svg" alt="logo of quasar-awesome repository">
   <br>
   <br>
 </p>
@@ -14,7 +14,6 @@
     - [External Resources](#external-resources)
     - [Community](#community)
     - [Tutorials](#tutorials)
-    - [Examples](#examples)
 - [Projects Using Quasar](#projects-using-quasar)
   - [Open Source](#open-source)
   - [Websites](#websites)
@@ -36,7 +35,7 @@
 
 ### External Resources
 
-**Looking forward to fill this in with tutorials, videos, articles, etc**
+**Looking forward to fill this in**
 
 
 ### Community
@@ -46,3 +45,25 @@
 - [Official Chat Room](https://gitter.im/quasarframework/Lobby)
 
 **Looking forward to fill in with community chat rooms**
+
+### Tutorials
+
+**Looking forward to fill this in**
+
+# Projects Using Quasar
+
+### Open Source
+
+**Looking forward to fill this in**
+
+### Websites
+
+**Looking forward to fill this in**
+
+### Mobile Apps
+
+**Looking forward to fill this in**
+
+### Electron Apps
+
+**Looking forward to fill this in**
