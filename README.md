@@ -52,13 +52,9 @@
 
 # Projects Using Quasar
 
-### Open Source
-
-> **Looking forward to fill this in**
-
 ### Websites
 
-> **Looking forward to fill this in**
+- [Alighieri](https://zuck.github.io/alighieri) - Online book editor ![Quasar](https://img.shields.io/badge/Quasar-v0.14-green.svg?style=flat)
 
 ### Mobile Apps
 
