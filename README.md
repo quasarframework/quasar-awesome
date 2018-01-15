@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img src="https://cdn.rawgit.com/quasarframework/quasar-art/863c14bd/dist/svg/quasar-logo-full-inline.svg" alt="logo of quasar-awesome repository">
+  <img src="https://cdn.rawgit.com/quasarframework/quasar-art/master/dist/svg/quasar-awesome-logo-full-inline.svg" alt="logo of quasar-awesome repository">
   <br>
   <br>
 </p>
