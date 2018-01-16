@@ -44,7 +44,7 @@
 - [Official Forum](http://forum.quasar-framework.org/)
 - [Official Chat Room](https://gitter.im/quasarframework/Lobby)
 
-> **Looking forward to fill in with community chat rooms**
+> **Looking forward to fill in with your local community chat rooms**
 
 ### Tutorials
 
