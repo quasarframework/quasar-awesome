@@ -8,7 +8,7 @@
 
 ### Projects using Quasar
 
-Make sure you put things in the right category. Since Quasar allows you to build for multiple platforms from same base-code, you might want to add your entry in multiple categories.
+Make sure you put things in the right category. Since Quasar allows you to build for multiple platforms from the same code-base, you might want to add your entry in multiple categories.
 
 Specify which Quasar version u're using, if it's opensource, if it's a website or mobile app or electron app, and add a link.
 
