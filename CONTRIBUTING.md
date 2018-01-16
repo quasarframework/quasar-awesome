@@ -22,7 +22,7 @@ You should put your project in this category if the following conditions are tru
 - The project accepts contributions.
 
 The link provided should be the link of the github repository, not the demo.
-If you consider your project finished, and it does not need any contributions, consider the apps/website category.
+**If you consider your project finished, and it does not need any contributions, consider the apps/website categories. But include a link to Github also.**
 
 #### Apps/Websites
 
