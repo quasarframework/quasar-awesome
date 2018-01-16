@@ -7,7 +7,7 @@
 
 ## Awesome Quasar [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of awesome things related to Quasar
+> A list of awesome things related to Quasar
 
 - [Resources](#resources)
     - [Official Resources](#official-resources)
@@ -51,6 +51,10 @@
 > **Looking forward to fill this in**
 
 # Projects Using Quasar
+
+### Open Source
+
+> **Looking forward to fill this in**
 
 ### Websites
 
