@@ -56,7 +56,7 @@
 
 > **Looking forward to fill this in**
 
-### Websites
+### Websites and/or PWA
 
 - [Alighieri](https://zuck.github.io/alighieri) - Alighieri, a distraction-free writer tool (Q v0.14)
 - [Brotheld](https://brotheld.de) ([WebApp](https://webapp.brotheld.de)) - Brotheld (Bread Hero), a german app for hobby bakers (Q v0.13)
