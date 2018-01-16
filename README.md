@@ -60,10 +60,12 @@
 
 - [Alighieri](https://zuck.github.io/alighieri) - Alighieri, a distraction-free writer tool (Q v0.14)
 - [Brotheld](https://brotheld.de) ([WebApp](https://webapp.brotheld.de)) - Brotheld (Bread Hero), a german app for hobby bakers (Q v0.13)
+- [MyClinic](https://www.myclinic.today) ([Web App](https://app.myclinic.today)) - an application for displaying and managing medical clinic examination room status. (Q v0.14)
 
 ### Mobile Apps
 
 - Brotheld [Android](https://play.google.com/store/apps/details?id=de.sopamo.brotheld) / [iOS](https://itunes.apple.com/de/app/brotheld/id1193619132?l=de&ls=1&mt=8) - Brotheld (Bread Hero), a german app for hobby bakers (Q v0.13)
+- MyClinic [Android](https://play.google.com/store/apps/details?id=today.myclinic.mobileapp&hl=en) / [iOS](https://itunes.apple.com/us/app/myclinic/id1311703491?ls=1&mt=8) - an application for displaying and managing medical clinic examination room status. (Q v0.14)
 
 ### Electron Apps
 
