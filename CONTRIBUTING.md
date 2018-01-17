@@ -8,26 +8,50 @@
 
 ### Projects using Quasar
 
-Make sure you put things in the right category. Since Quasar allows you to build for multiple platforms from the same code-base, you might want to add your entry in multiple categories.
+Since Quasar allows you to build for multiple platforms from the same code-base, please specify a link to each of the build modes (website, pwa, android, ios, electron).
+If it's an opensource project, then also add a link to its github address.
 
-Specify which Quasar version u're using, if it's opensource, if it's a website or mobile app or electron app, and add a link.
+Also please specify which Quasar version has been used for your product.
 
-#### Open source
+Example of addition:
+```
+| Name | [github](https://github.com/quasarframework/quasar), [website](http://quasar-framework.org) | Description | v0.14 |
+```
 
-Open Source section gives the possibility for developers to contribute and be a part of an opensource project using their knowledge of the vuejs.
-You should put your project in this category if the following conditions are true:
+Please don't specify a website unless it is using Quasar.
+
+#### Github link
+
+Specifying a Github link gives the possibility for developers to contribute and be a part of an opensource project using their knowledge of the Vue and Quasar.
+
+You should put your Github link if the following conditions are true:
 - The documentation (README) contains a description of the project, illustration of the project with a demo or screenshots and a CONTRIBUTING section.
-- The documentation is in English.
 - The project is active and maintained.
 - The project accepts contributions.
 
 The link provided should be the link of the github repository, not the demo.
-**If you consider your project finished, and it does not need any contributions, consider the apps/website categories. But include a link to Github also.**
 
-#### Apps/Websites
+#### Website/PWA link
 
-Apps/Websites gives the opportunity to showcase the awesome things we can build with Quasar.
-You should put your app/website in this category if the following conditions are true:
-- The app/website is available without errors or ssl certificate problems, and load in a reasonable amount of time.
-- The app/website has been created with Quasar.
-- The app/website is original and not too simple.
+Website/PWA links give the opportunity to showcase the awesome things we can build with Quasar.
+
+You should put a website/PWA link if the following conditions are true:
+- The website/PWA has been created with Quasar.
+- The website/PWA is available without errors or ssl certificate problems, and load in a reasonable amount of time.
+- The website/PWA is original and not too simple.
+
+#### Mobile links
+
+Mobile links (Android, iOS) give the opportunity to showcase the awesome mobile apps we can build with Quasar. The links themselves must point to your app's Google Play Store / Apple App Store page.
+
+You should put a mobile link if the following conditions are true:
+- The mobile app has been created with Quasar.
+- The mobile app is original and not too simple.
+
+#### Electron links
+
+Electron links give the opportunity to showcase the awesome Electron apps we can build with Quasar. The links themselves must point to a website built specifically for your product. The website itself is not required to be written with Quasar too.
+
+You should put an Electron link if the following conditions are true:
+- The Electron app has been created with Quasar.
+- The Electron app is original and not too simple.
