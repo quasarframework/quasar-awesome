@@ -54,5 +54,5 @@
 | Name | Links | Description | Quasar |
 | --- | --- | --- | --- |
 | Alighieri | [github](https://github.com/zuck/alighieri/), [website](https://zuck.github.io/alighieri) | A distraction-free writer tool | v0.14 |
-| Brotheld | [android](https://play.google.com/store/apps/details?id=de.sopamo.brotheld), [iOS](https://itunes.apple.com/de/app/brotheld/id1193619132?l=de&ls=1&mt=8) | Brotheld (Bread Hero), a german app for hobby bakers | v0.014 |
-| MyClinic | [android](https://play.google.com/store/apps/details?id=today.myclinic.mobileapp&hl=en), [iOS](https://itunes.apple.com/us/app/myclinic/id1311703491?ls=1&mt=8) | Application for displaying and managing medical clinic examination room status | v0.14 |
+| Brotheld | [android](https://play.google.com/store/apps/details?id=de.sopamo.brotheld), [ios](https://itunes.apple.com/de/app/brotheld/id1193619132?l=de&ls=1&mt=8) | Brotheld (Bread Hero), a german app for hobby bakers | v0.014 |
+| MyClinic | [android](https://play.google.com/store/apps/details?id=today.myclinic.mobileapp&hl=en), [ios](https://itunes.apple.com/us/app/myclinic/id1311703491?ls=1&mt=8) | Application for displaying and managing medical clinic examination room status | v0.14 |
