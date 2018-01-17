@@ -40,11 +40,11 @@
 
 ### Community
 
-- [Twitter](https://twitter.com/quasarframework)
+- [Official Twitter](https://twitter.com/quasarframework)
 - [Official Forum](http://forum.quasar-framework.org/)
 - [Official Chat Room](https://gitter.im/quasarframework/Lobby)
 
-> **Looking forward to fill in with your local community chat rooms**
+- [Quasar Brazil Telegram Channel](https://t.me/quasarframeworkbrasil)
 
 ### Tutorials
 
