@@ -59,8 +59,6 @@
 ### Websites and/or PWA
 
 - Alighieri ([website](https://zuck.github.io/alighieri)) - a distraction-free writer tool (Q v0.14)
-- Brotheld (Bread Hero) ([website](https://brotheld.de)) - a german app for hobby bakers (Q v0.13)
-- MyClinic ([website](https://www.myclinic.today)) - an application for displaying and managing medical clinic examination room status. (Q v0.14)
 
 ### Mobile Apps
 
