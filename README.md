@@ -12,13 +12,10 @@
 - [Resources](#resources)
     - [Official Resources](#official-resources)
     - [External Resources](#external-resources)
-    - [Community](#community)
+    - [Official Community](#official-community)
+    - [Local Communities](#local-communities)
     - [Tutorials](#tutorials)
 - [Projects Using Quasar](#projects-using-quasar)
-  - [Open Source](#open-source)
-  - [Websites](#websites)
-  - [Mobile Apps](#mobile-apps)
-  - [Electron Apps](#electron-apps)
 
 # Resources
 
@@ -31,20 +28,22 @@
 - [Showcase with iOS Theme](http://quasar-framework.org/quasar-play/apple/index.html#/)
 - [Quasar GitHub Repo](https://github.com/quasarframework/quasar)
 - [Quasar CLI GitHub Repo](https://github.com/quasarframework/quasar-cli)
-- [Release Notes](https://github.com/quasarframework/quasar/releases)
+- [Quasar Release Notes](https://github.com/quasarframework/quasar/releases)
 
 ### External Resources
 
 > **Looking forward to fill this in**
 
 
-### Community
+### Official Community
 
 - [Official Twitter](https://twitter.com/quasarframework)
 - [Official Forum](http://forum.quasar-framework.org/)
 - [Official Chat Room](https://gitter.im/quasarframework/Lobby)
 
-- [Quasar Brazil Telegram Channel](https://t.me/quasarframeworkbrasil)
+### Local Communities
+
+- [Quasar Brazil - Telegram Channel](https://t.me/quasarframeworkbrasil)
 
 ### Tutorials
 
@@ -52,19 +51,8 @@
 
 # Projects Using Quasar
 
-### Open Source
-
-> **Looking forward to fill this in**
-
-### Websites and/or PWA
-
-- Alighieri ([website](https://zuck.github.io/alighieri)) - a distraction-free writer tool (Q v0.14)
-
-### Mobile Apps
-
-- Brotheld ([Android](https://play.google.com/store/apps/details?id=de.sopamo.brotheld) / [iOS](https://itunes.apple.com/de/app/brotheld/id1193619132?l=de&ls=1&mt=8)) - Brotheld (Bread Hero), a german app for hobby bakers (Q v0.13)
-- MyClinic ([Android](https://play.google.com/store/apps/details?id=today.myclinic.mobileapp&hl=en) / [iOS](https://itunes.apple.com/us/app/myclinic/id1311703491?ls=1&mt=8)) - an application for displaying and managing medical clinic examination room status. (Q v0.14)
-
-### Electron Apps
-
-> **Looking forward to fill this in**
+| Name | Links | Description | Quasar |
+| --- | --- | --- | --- |
+| Alighieri | [github](https://github.com/zuck/alighieri/), [website](https://zuck.github.io/alighieri) | A distraction-free writer tool | v0.14 |
+| Brotheld | [android](https://play.google.com/store/apps/details?id=de.sopamo.brotheld), [iOS](https://itunes.apple.com/de/app/brotheld/id1193619132?l=de&ls=1&mt=8) | Brotheld (Bread Hero), a german app for hobby bakers | v0.014 |
+| MyClinic | [android](https://play.google.com/store/apps/details?id=today.myclinic.mobileapp&hl=en), [iOS](https://itunes.apple.com/us/app/myclinic/id1311703491?ls=1&mt=8) | Application for displaying and managing medical clinic examination room status | v0.14 |
