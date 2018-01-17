@@ -22,7 +22,7 @@ Please don't specify a website unless it is using Quasar.
 
 #### Github link
 
-Specifying a Github link gives the possibility for developers to contribute and be a part of an opensource project using their knowledge of the Vue and Quasar.
+Specifying a Github link gives the possibility for developers to contribute and be a part of an opensource project using their knowledge of Vue and Quasar.
 
 You should put your Github link if the following conditions are true:
 - The documentation (README) contains a description of the project, illustration of the project with a demo or screenshots and a CONTRIBUTING section.
