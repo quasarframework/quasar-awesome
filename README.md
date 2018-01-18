@@ -57,3 +57,4 @@
 | Brotheld | [android](https://play.google.com/store/apps/details?id=de.sopamo.brotheld), [ios](https://itunes.apple.com/de/app/brotheld/id1193619132?l=de&ls=1&mt=8) | Brotheld (Bread Hero), a german app for hobby bakers | v0.14 |
 | MyClinic | [android](https://play.google.com/store/apps/details?id=today.myclinic.mobileapp&hl=en), [ios](https://itunes.apple.com/us/app/myclinic/id1311703491?ls=1&mt=8) | Application for displaying and managing medical clinic examination room status | v0.14 |
 | Weacast | [github](https://github.com/weacast/weacast), [website](https://weacast.gitbooks.io/weacast-docs/) | Open source platform to gather, expose and make use of weather forecast data | v0.13.10 |
+| CryptoPrice | [github](https://github.com/lmfresneda/crypto-price), [android](https://play.google.com/store/apps/details?id=com.es.cryptoprice) | An app to inform us of price (USD & EUR) of the main crypto-coins | v0.14.4 |
