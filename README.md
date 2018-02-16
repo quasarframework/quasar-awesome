@@ -63,3 +63,4 @@
 | 2018 Quarterly Tax Estimator | [android](https://play.google.com/store/apps/details?id=com.codingfriend.quarterlytaxes) | Estimates quarterly taxes and taxes to save per paycheck | v0.14 |
 | Go2See | [website](https://m.go2see.ru) | Russian online travel service | v0.14.7 |
 | Karrot (Foodsaving Worldwide) | [github](https://github.com/yunity/karrot-frontend), [website](https://karrot.world) | A web-app to support foodsaving groups worldwide, with the goal to save our common resources as much as possible | v0.14.8 |
+| onvif-nvt-snapshot-vue-sample | [github](https://github.com/hawkeye64/onvif-nvt-snapshot-vue-sample) | An onvif-nvt (package) sample project for snapshots and PTZ using Vue 2.5 and Quasar 0.14.7 | v0.14.7 |
