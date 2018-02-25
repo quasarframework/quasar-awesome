@@ -65,4 +65,4 @@
 | Karrot (Foodsaving Worldwide) | [github](https://github.com/yunity/karrot-frontend), [website](https://karrot.world) | A web-app to support foodsaving groups worldwide, with the goal to save our common resources as much as possible | v0.14.8 |
 | onvif-nvt-snapshot-vue-sample | [github](https://github.com/hawkeye64/onvif-nvt-snapshot-vue-sample) | An onvif-nvt (package) sample project for snapshots and PTZ using Vue 2.5 and Quasar 0.14.7 | v0.14.7 |
 | Banimatic | [website](https://www.banimatic.com/) | Web banner generator | v0.14.1 |
-| Finca Report | [website](https://fincareport.com/) | Web banner generator | v0.15.3 |
+| Finca Report | [website/android/ios](https://fincareport.com/) | Web banner generator | v0.15.3 |
