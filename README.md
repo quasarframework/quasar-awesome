@@ -38,8 +38,8 @@
 ### Official Community
 
 - [Official Twitter](https://twitter.com/quasarframework)
+- [Official Chat Room - Discord](https://discord.gg/5TDhbDg)
 - [Official Forum](http://forum.quasar-framework.org/)
-- [Official Chat Room](https://gitter.im/quasarframework/Lobby)
 
 ### Local Communities
 
