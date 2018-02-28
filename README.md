@@ -81,3 +81,4 @@
 | Voting Daap | [github](https://github.com/Vishwas1/voting-daap-2017) | E-voting | v0.14 |
 | Kanttum | [website](https://app.kanttum.com/) | Teacher training without complication | v0.14.8 |
 | Stock Scanner | [github](https://github.com/vikramIde/stock_scan1) | Working Demo of Barcode/QR code scanner using VueJs+Quasar+Cordova | v0.13.4 |
+| ShockPro | [ios](https://itunes.apple.com/us/app/shockpro/id1244901518?mt=8) | Maintenance Interval Tracking | v0.12 |
