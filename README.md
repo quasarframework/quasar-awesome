@@ -82,3 +82,4 @@
 | Kanttum | [website](https://app.kanttum.com/) | Teacher training without complication | v0.14.8 |
 | Stock Scanner | [github](https://github.com/vikramIde/stock_scan1) | Working Demo of Barcode/QR code scanner using VueJs+Quasar+Cordova | v0.13.4 |
 | ShockPro | [ios](https://itunes.apple.com/us/app/shockpro/id1244901518?mt=8) | Maintenance Interval Tracking | v0.12 |
+| My Spells | [website](http://myspells.netlify.com/) | 5e Personal Spellbook | v0.13.9 |
