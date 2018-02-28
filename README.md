@@ -72,3 +72,4 @@
 | Booly | [website](https://boolyapp.com/) | A people-matching tool | v0.14.6 |
 | Takista | [android](https://play.google.com/store/apps/details?id=io.sergiuneagu.taskista), [github](https://github.com/sergiuwd/Taskista) | To Do Lists Manager | v0.13.4 |
 | Blinga! | [website](https://app.blinga.club/), [android](https://play.google.com/store/apps/details?id=club.blinga.app), [ios](https://itunes.apple.com/us/app/blinga/id1219393599?l=pt&ls=1&mt=8) | A points program and guide for selling products and services in cities. | v0.14.0 |
+| Charging Stations | [github](https://github.com/nestebe/charging-stations-tracker) | Charging stations viewer hybrid app | v0.14 |
