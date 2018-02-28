@@ -70,3 +70,4 @@
 | MyBibou | [android](https://play.google.com/store/apps/details?id=io.benovea.mybibou&hl=fr), [ios](https://itunes.apple.com/fr/app/mybibou/id1319283569) | MyBibou is an iOS & Android mobile application that simplifies the life of parents for successful family outings. The app geolocates users on a map and give them relevant information based on their needs and situation. | v0.14.7 |
 | Budgex | [pwa](https://budgex-e481b.firebaseapp.com) | Budget and expense tracker | v0.15.1 |
 | Booly | [website](https://boolyapp.com/) | A people-matching tool | v0.14.6 |
+| Takista | [android](https://play.google.com/store/apps/details?id=io.sergiuneagu.taskista), [github](https://github.com/sergiuwd/Taskista) | To Do Lists Manager | v0.13.4 |
