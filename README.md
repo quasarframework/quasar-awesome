@@ -71,3 +71,4 @@
 | Budgex | [pwa](https://budgex-e481b.firebaseapp.com) | Budget and expense tracker | v0.15.1 |
 | Booly | [website](https://boolyapp.com/) | A people-matching tool | v0.14.6 |
 | Takista | [android](https://play.google.com/store/apps/details?id=io.sergiuneagu.taskista), [github](https://github.com/sergiuwd/Taskista) | To Do Lists Manager | v0.13.4 |
+| Blingal | [website](https://app.blinga.club/) | | v0.14.0 |
