@@ -79,3 +79,4 @@
 | TMdb | [website](https://codingstones.github.io/tmdb-quasar/#/popular_films), [github](https://github.com/codingstones/tmdb-quasar) | Quasar app with The Movie DB catalog | v0.14.7 |
 | Take Action | [android](https://play.google.com/store/apps/details?id=com.stephensuess.takeaction), [ios](https://itunes.apple.com/us/app/takeaction-me/id1276844461) | v0.14.5 |
 | Voting Daap | [github](https://github.com/Vishwas1/voting-daap-2017) | E-voting | v0.14 |
+| Kanttum | [website](https://app.kanttum.com/) | Teacher training without complication | v0.14.8 |
