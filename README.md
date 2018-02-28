@@ -76,3 +76,4 @@
 | Carpool 3D | [website](https://carpol.picktype.com/v/truck) | Carpool 3D Truck | v0.14.7 |
 | The Amusing Development | [website](https://portfolio-site-78a03.firebaseapp.com) | Portfolio website | v0.14.7 |
 | Habot | [github](https://github.com/ghys/habot) | A chatbot for openHAB using machine-learning natural language processing from OpenNLP | v0.14.6 |
+| TMdb | [website](https://codingstones.github.io/tmdb-quasar/#/popular_films), [github](https://github.com/codingstones/tmdb-quasar) | Quasar app with The Movie DB catalog | v0.14.7 |
