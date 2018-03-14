@@ -16,6 +16,7 @@
     - [Local Communities](#local-communities)
     - [Tutorials](#tutorials)
 - [Projects Using Quasar](#projects-using-quasar)
+- [Community Components and Tools](#community-components-and-tools)
 
 # Resources
 
@@ -83,3 +84,9 @@
 | Stock Scanner | [github](https://github.com/vikramIde/stock_scan1) | Working Demo of Barcode/QR code scanner using VueJs+Quasar+Cordova | v0.13.4 |
 | ShockPro | [ios](https://itunes.apple.com/us/app/shockpro/id1244901518?mt=8) | Maintenance Interval Tracking | v0.12 |
 | My Spells | [website](http://myspells.netlify.com/) | 5e Personal Spellbook | v0.13.9 |
+
+# Community Components and Tools
+
+| Name | Links | Description | Quasar |
+| --- | --- | --- | --- |
+| Quasar calendar | [github](https://github.com/stormseed/quasar-calendar) | A full calendar display in multiple formats that accepts event data and display it in month, week, multi-day, single day and agenda views | v0.15.6 |
