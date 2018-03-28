@@ -54,6 +54,7 @@
 
 | Name | Links | Description | Quasar |
 | --- | --- | --- | --- |
+| dockJob | [github](https://github.com/rmetcalf9/dockJob), [docker hub](https://hub.docker.com/r/metcarob/dockjob/) | Job scheduler with a web UI - designed to run inside a container. | v0.15.5 |
 | Alighieri | [github](https://github.com/zuck/alighieri/), [website](https://zuck.github.io/alighieri) | A distraction-free writer tool | v0.14 |
 | Brotheld | [android](https://play.google.com/store/apps/details?id=de.sopamo.brotheld), [ios](https://itunes.apple.com/de/app/brotheld/id1193619132?l=de&ls=1&mt=8) | Brotheld (Bread Hero), a german app for hobby bakers | v0.14 |
 | MyClinic | [android](https://play.google.com/store/apps/details?id=today.myclinic.mobileapp&hl=en), [ios](https://itunes.apple.com/us/app/myclinic/id1311703491?ls=1&mt=8) | Application for displaying and managing medical clinic examination room status | v0.14 |
