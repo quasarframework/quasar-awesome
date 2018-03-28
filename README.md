@@ -54,7 +54,6 @@
 
 | Name | Links | Description | Quasar |
 | --- | --- | --- | --- |
-| dockJob | [github](https://github.com/rmetcalf9/dockJob), [docker hub](https://hub.docker.com/r/metcarob/dockjob/) | Job scheduler with a web UI - designed to run inside a container. | v0.15.5 |
 | Alighieri | [github](https://github.com/zuck/alighieri/), [website](https://zuck.github.io/alighieri) | A distraction-free writer tool | v0.14 |
 | Brotheld | [android](https://play.google.com/store/apps/details?id=de.sopamo.brotheld), [ios](https://itunes.apple.com/de/app/brotheld/id1193619132?l=de&ls=1&mt=8) | Brotheld (Bread Hero), a german app for hobby bakers | v0.14 |
 | MyClinic | [android](https://play.google.com/store/apps/details?id=today.myclinic.mobileapp&hl=en), [ios](https://itunes.apple.com/us/app/myclinic/id1311703491?ls=1&mt=8) | Application for displaying and managing medical clinic examination room status | v0.14 |
@@ -87,6 +86,7 @@
 | My Spells | [website](http://myspells.netlify.com/) | 5e Personal Spellbook | v0.13.9 |
 | Tigris | [github](https://github.com/jogral/tigris-desktop-ui) | Micro-learning for professionals | v0.13 |
 | Pilgrim Songbook and Wanderer's Songbook | [android](https://play.google.com/store/apps/details?id=com.maxprog.songbooks) | Mobile Application Songbooks has been created for one of the biggest Protestant Church. | v0.15.12 |
+| dockJob | [github](https://github.com/rmetcalf9/dockJob), [docker hub](https://hub.docker.com/r/metcarob/dockjob/) | Job scheduler with a web UI - designed to run inside a container. | v0.15.5 |
 
 # Community Components and Tools
 
