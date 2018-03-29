@@ -85,7 +85,7 @@
 | ShockPro | [ios](https://itunes.apple.com/us/app/shockpro/id1244901518?mt=8) | Maintenance Interval Tracking | v0.12 |
 | My Spells | [website](http://myspells.netlify.com/) | 5e Personal Spellbook | v0.13.9 |
 | Tigris | [github](https://github.com/jogral/tigris-desktop-ui) | Micro-learning for professionals | v0.13 |
-| Pilgrim Songbook and Wanderer's Songbook | [android](https://play.google.com/store/apps/details?id=com.maxprog.songbooks) | Mobile Application Songbooks has been created for one of the biggest Protestant Church. | v0.15.12 |
+| Pilgrim and Wanderer's Songbook |App Store - ios,  [android](https://play.google.com/store/apps/details?id=com.maxprog.songbooks) | Mobile Application Songbooks has been created for one of the biggest Protestant Church. | v0.15.12 |
 | dockJob | [github](https://github.com/rmetcalf9/dockJob), [docker hub](https://hub.docker.com/r/metcarob/dockjob/) | Job scheduler with a web UI - designed to run inside a container. | v0.15.5 |
 
 # Community Components and Tools
