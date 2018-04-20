@@ -88,6 +88,7 @@
 | Pilgrim and Wanderer's Songbook | [android](https://play.google.com/store/apps/details?id=com.maxprog.songbooks), [ios](https://itunes.apple.com/pl/app/%C5%9Bpiewnik-pielgrzyma-w%C4%99drowca/id1364666898?l=pl&mt=8) | Mobile Application Songbooks has been created for one of the biggest Protestant Church. | v0.15.12 |
 | dockJob | [github](https://github.com/rmetcalf9/dockJob), [docker hub](https://hub.docker.com/r/metcarob/dockjob/) | Job scheduler with a web UI - designed to run inside a container. | v0.15.5 |
 | Chronocross | [android](https://play.google.com/store/apps/details?id=org.yevlabs.chronocross) | Productivity tool that combines Pomodoro Technique and Eisenhower Matrix. | v0.15.10 |
+| Jornal Pelicano | [android](https://play.google.com/store/apps/details?id=com.cordova.jornalpelicano&hl=pt) | Mobile application for a Navy Web Journal | v0.14.1 |
 
 # Community Components and Tools
 
