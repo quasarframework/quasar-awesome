@@ -94,6 +94,7 @@
 | Chronocross | [android](https://play.google.com/store/apps/details?id=org.yevlabs.chronocross) | Productivity tool that combines Pomodoro Technique and Eisenhower Matrix. | v0.15.10 |
 | Jornal Pelicano | [android](https://play.google.com/store/apps/details?id=com.cordova.jornalpelicano&hl=pt) | Mobile application for a Navy Web Journal | v0.14.1 |
 | Vuenote | [github](https://github.com/ExNG/vuenote) | Vuenote is the simplest note app. | v0.15.10 |
+| Sifà | [pwa](https://sifapp.com) | Social platform for buyer groups | v0.15.10 |
 
 # Community Components and Tools
 
