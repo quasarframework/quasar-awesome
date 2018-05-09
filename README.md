@@ -96,10 +96,10 @@
 | Vuenote | [github](https://github.com/ExNG/vuenote) | Vuenote is the simplest note app. | v0.15.10 |
 | Sifà | [pwa](https://sifapp.com) | Social platform for buyer groups | v0.15.10 |
 | Realworld Conduit | [github](https://github.com/geoidesic/realworld-quasar/) | Medium.com clone | v0.15.10 |
-| Laqu-l | [github](https://github.com/laqul/laqul/) | A complete starter kit that allows you create amazing apps that look native thanks to the Quasar Framework. Powered by an API developed in Laravel Framework using the easy GraphQL queries language. And ready to use the Google Firebase features. | v0.15.10 |
 
 # Community Components and Tools
 
 | Name | Links | Description | Quasar |
 | --- | --- | --- | --- |
 | Quasar calendar | [github](https://github.com/stormseed/quasar-calendar) | A full calendar display in multiple formats that accepts event data and display it in month, week, multi-day, single day and agenda views | v0.15.6 |
+| Laqu-l | [github](https://github.com/laqul/laqul/) | A complete starter kit that allows you create amazing apps that look native thanks to the Quasar Framework. Powered by an API developed in Laravel Framework using the easy GraphQL queries language. And ready to use the Google Firebase features. | v0.15.10 |
