@@ -9,7 +9,6 @@
 
 > A list of awesome things related to Quasar
 
-  - [Awesome Quasar ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-quasar-awesomehttps---githubcom-sindresorhus-awesome)
 - [Resources](#resources)
     - [Official Resources](#official-resources)
     - [External Resources](#external-resources)
