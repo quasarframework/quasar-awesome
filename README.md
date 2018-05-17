@@ -9,6 +9,7 @@
 
 > A list of awesome things related to Quasar
 
+  - [Awesome Quasar ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-quasar-awesomehttps---githubcom-sindresorhus-awesome)
 - [Resources](#resources)
     - [Official Resources](#official-resources)
     - [External Resources](#external-resources)
@@ -96,6 +97,7 @@
 | Vuenote | [github](https://github.com/ExNG/vuenote) | Vuenote is the simplest note app. | v0.15.10 |
 | Sifà | [pwa](https://sifapp.com) | Social platform for buyer groups | v0.15.10 |
 | Realworld Conduit | [github](https://github.com/geoidesic/realworld-quasar/) | Medium.com clone | v0.15.10 |
+| vue-quasar-admin | [website](http://jaycewu.coding.me/vue-quasar-admin),[github](https://github.com/wjkang/vue-quasar-admin) | admin-dashboard | v0.15.14 |
 
 # Community Components and Tools
 
