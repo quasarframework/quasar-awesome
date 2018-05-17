@@ -97,6 +97,7 @@
 | Sifà | [pwa](https://sifapp.com) | Social platform for buyer groups | v0.15.10 |
 | Realworld Conduit | [github](https://github.com/geoidesic/realworld-quasar/) | Medium.com clone | v0.15.10 |
 | vue-quasar-admin | [website](http://jaycewu.coding.me/vue-quasar-admin),[github](https://github.com/wjkang/vue-quasar-admin) | admin-dashboard | v0.15.14 |
+| letsbutterfly(tm) | [pwa](https://app.letsbutterfly.com) | Real estate platform in your pocket. https://letsbutterfly.com | v0.15.10 |
 
 # Community Components and Tools
 
