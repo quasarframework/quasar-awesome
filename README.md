@@ -99,6 +99,8 @@
 | vue-quasar-admin | [website](http://jaycewu.coding.me/vue-quasar-admin),[github](https://github.com/wjkang/vue-quasar-admin) | admin-dashboard | v0.15.14 |
 | letsbutterfly(tm) | [pwa](https://app.letsbutterfly.com) | Real estate platform in your pocket. https://letsbutterfly.com | v0.15.10 |
 | quasar-documentation++ | [github](https://github.com/slowaways/quasar-documentation-pp) | All-in-one Quasar Documentation | v0.16.0 |
+| Dolphin Note | [website](https://www.donote.info) | A Simple and Elegant markdown note application. | v0.15.14 |
+| Quicknote | [website](https://quick.donote.info) | A Simple and Elegant markdown quicknote DApp. | v0.15.14 |
 
 # Community Components and Tools
 
