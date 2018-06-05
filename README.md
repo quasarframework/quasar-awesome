@@ -101,6 +101,7 @@
 | quasar-documentation++ | [github](https://github.com/slowaways/quasar-documentation-pp) | All-in-one Quasar Documentation | v0.16.0 |
 | Dolphin Note | [website](https://www.donote.info) | A Simple and Elegant markdown note application. | v0.15.14 |
 | Quicknote | [website](https://quick.donote.info) | A Simple and Elegant markdown quicknote DApp. | v0.15.14 |
+| T9N Manager | [website](http://t9n.ist) | Translation manager for developers | v0.16.0 |
 
 # Community Components and Tools
 
