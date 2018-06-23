@@ -102,6 +102,7 @@
 | Dolphin Note | [website](https://www.donote.info) | A Simple and Elegant markdown note application. | v0.15.14 |
 | Quicknote | [website](https://quick.donote.info) | A Simple and Elegant markdown quicknote DApp. | v0.15.14 |
 | T9N Manager | [website](http://t9n.ist) | Translation manager for developers | v0.16.0 |
+| Musical Data | [website](https://musicaldata.com) | Access Spotify's data of your favorite music. | v0.16.4 |
 
 # Community Components and Tools
 
