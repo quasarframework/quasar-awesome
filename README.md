@@ -102,7 +102,8 @@
 | Dolphin Note | [website](https://www.donote.info) | A Simple and Elegant markdown note application. | v0.15.14 |
 | Quicknote | [website](https://quick.donote.info) | A Simple and Elegant markdown quicknote DApp. | v0.15.14 |
 | T9N Manager | [website](http://t9n.ist) | Translation manager for developers | v0.16.0 |
-| Kicktrack | [website](https://kicktrack.app), [Android](https://play.google.com/store/apps/details?id=kicktrack.app), [iOS](https://itunes.apple.com/us/app/kicktrack/id1397163195?mt=8) | Foosball score keeper | v0.16.4 |
+| Kicktrack | [website](https://kicktrack.app), [Android](https://play.google.com/store/apps/details?id=kicktrack.app), [iOS](https://itunes.apple.com/us/app/kicktrack/id1397163195?mt=8) | Foosball score keeper | v0.16.0 |
+| Musical Data | [website](https://musicaldata.com) | Access Spotify's data of your favorite music. | v0.16.0 |
 
 # Community Components and Tools
 
