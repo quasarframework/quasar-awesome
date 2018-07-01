@@ -105,6 +105,7 @@
 | Kicktrack | [website](https://kicktrack.app), [Android](https://play.google.com/store/apps/details?id=kicktrack.app), [iOS](https://itunes.apple.com/us/app/kicktrack/id1397163195?mt=8) | Foosball score keeper | v0.16.0 |
 | Musical Data | [website](https://musicaldata.com) | Access Spotify's data of your favorite music. | v0.16.0 |
 | Nebide | [website](https://nebide.block2100.com) | Cross-platform Nebulas smart contract IDE. | v0.16.0 |
+| Nebide | [website](https://nickzuccarelli.com.au) | A portfolio website for Nick Zuccarelli (a.k.a: me!) | v0.16.0 |
 
 # Community Components and Tools
 
