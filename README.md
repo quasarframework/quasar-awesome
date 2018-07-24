@@ -108,7 +108,7 @@
 | Nick Zuccarelli | [website](https://nickzuccarelli.com.au) | A portfolio website for Nick Zuccarelli (a.k.a: me!) | v0.16.0 |
 | jQuizzer | [android](https://play.google.com/store/apps/details?id=org.yevlabs.jquizzer) | Simple Java 8 Quiz / Trainer App | v0.16.0 |
 | SA Email Builder | [website](https://sa-email-builder.kevingermain.com/emails/new) | Email template builder | v0.15.10 |
-
+| Boid.com | [website](https://www.boid.com) | A blockchain based social computing platform. Homepage and web/electron app are pure Quasar. | v0.16.4 |
 # Community Components and Tools
 
 | Name | Links | Description | Quasar |
