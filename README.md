@@ -110,6 +110,7 @@
 | SA Email Builder | [website](https://sa-email-builder.kevingermain.com/emails/new) | Email template builder | v0.15.10 |
 | Boid.com | [website](https://www.boid.com) | A blockchain based social computing platform. Homepage and web/electron app are pure Quasar. | v0.16.4 |
 | Dappos Ethereum POS | [github](https://github.com/Dappos/Dappos), [website](http://dappos.app) | A Point of Sale (POS) app like Square! For Ethereum payments. Open in a Mobile wallet and receive customer's payments with an intuitive UI. | v0.17 |
+| INTI | [website](https://byinti.com) | Online white-label ticketing system with CRM and custom Applications | Latest |
 
 # Community Components and Tools
 
