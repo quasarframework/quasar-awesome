@@ -111,6 +111,7 @@
 | Boid.com | [website](https://www.boid.com) | A blockchain based social computing platform. Homepage and web/electron app are pure Quasar. | v0.16.4 |
 | Dappos Ethereum POS | [github](https://github.com/Dappos/Dappos), [website](http://dappos.app) | A Point of Sale (POS) app like Square! For Ethereum payments. Open in a Mobile wallet and receive customer's payments with an intuitive UI. | v0.17 |
 | INTI | [website](https://byinti.com) | Online white-label ticketing system with CRM and custom Applications | Latest |
+| Movie Scores: Find great movies | [ios](https://itunes.apple.com/us/app/movie-scores-find-great-movies/id1424159261?mt=8), [android](https://play.google.com/store/apps/details?id=com.dannyconnell.moviescores.mobile), [mac](https://itunes.apple.com/app/id1404845461?mt=12), [website](http://moviescores.dconnell.co.uk) | Find out if a movie is any good, instantly. Metacritic, Rotten Tomatoes & IMDb ratings in one place | v0.17.0 |
 
 # Community Components and Tools
 
