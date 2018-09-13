@@ -114,6 +114,7 @@
 | Movie Scores: Find great movies | [ios](https://itunes.apple.com/us/app/movie-scores-find-great-movies/id1424159261?mt=8), [android](https://play.google.com/store/apps/details?id=com.dannyconnell.moviescores.mobile), [mac](https://itunes.apple.com/app/id1404845461?mt=12), [windows](https://www.microsoft.com/en-us/p/movie-scores-find-great-movies-metacritic-rotten-tomatoes-imdb-ratings/9pp2gptvsxjs), [website](http://moviescores.dconnell.co.uk) | Find out if a movie is any good, instantly. Metacritic, Rotten Tomatoes & IMDb ratings in one place | v0.17.0 |
 | Fastient | [PWA](https://fastient.com) | A journaling and stats tracking application for extended fasts. | v0.17.10 |
 | Squync | [SPA](https://www.squync.com) | Music library. | v0.14 |
+| CidadeMOB | [pwa](https://m.cidademob.com.br/), [android](https://play.google.com/store/apps/details?id=br.com.cidademob), [ios](https://itunes.apple.com/br/app/cidademob/id1154262726?l=en&mt=8) | (Brazil) Application that offers services of the city hall for citizens | v0.17.16 |
 
 # Community Components and Tools
 
