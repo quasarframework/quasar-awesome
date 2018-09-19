@@ -115,6 +115,7 @@
 | Fastient | [PWA](https://fastient.com) | A journaling and stats tracking application for extended fasts. | v0.17.10 |
 | Squync | [SPA](https://www.squync.com) | Music library. | v0.14 |
 | CidadeMOB | [pwa](https://m.cidademob.com.br/), [android](https://play.google.com/store/apps/details?id=br.com.cidademob), [ios](https://itunes.apple.com/br/app/cidademob/id1154262726?l=en&mt=8) | (Brazil) Application that offers services of the city hall for citizens | v0.17.13 |
+| GH Follower | [android](https://play.google.com/store/apps/details?id=com.eladcohen.ghfollower) | Simple app to get push notifications on a GitHub repository new release | v0.17.5 |
 
 # Community Components and Tools
 
