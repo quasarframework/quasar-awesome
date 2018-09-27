@@ -118,6 +118,7 @@
 | GH Follower | [android](https://play.google.com/store/apps/details?id=com.eladcohen.ghfollower) | Simple app to get push notifications on a GitHub repository new release | v0.17.5 |
 | Omnia Livestream | [SPA](https://omnia-app.org) | Free & affordable livestream provider for churches and ministries. Livestream to your website, Facebook, and YouTube, worldwide CDN, and Auto-Archiving.  | v0.15.14 |
 | Romi | [PWA](https://romionline.com), [Android](https://play.google.com/store/apps/details?id=com.romionline) | eCommerce applications | v0.17.9 |
+| Blockswing | [website](https://www.blockswing.com) | A cryptocurrency trading simulation. | v0.17.16 |
 
 # Community Components and Tools
 
