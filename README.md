@@ -48,7 +48,10 @@
 
 ### Tutorials
 
-> **Looking forward to fill this in**
+| Author | Links | Description | Quasar |
+| --- | --- | --- | --- |
+| [hawkeye64](https://github.com/hawkeye64) | [Medium](https://medium.com/quasar-framework/building-an-electron-file-explorer-with-quasar-and-vue-7bf94f1bbf6), [github](https://github.com/hawkeye64/electron-quasar-file-explorer) | Building an Electron File Explorer with Quasar (and Vue) | v0.17.18 |
+
 
 # Projects Using Quasar
 
