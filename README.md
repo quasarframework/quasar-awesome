@@ -127,6 +127,7 @@
 | StemQ | [website](https://www.stemq.io) | Q&A application dedicated to STEM subjects and powered by the Steem blockchain. | v0.17.17 |
 | Neolink | [website](http://poltava.neolink.com.ua/) | Online store. | v0.17.17 |
 | Tenpin Toolkit | [iOS](https://itunes.apple.com/app/apple-store/id1390556454?pt=119111623&mt=8), [Android](https://play.google.com/store/apps/details?id=com.tenpintoolkit.app) | App featuring a collection of tools to help tenpin bowlers and coaches develop their skills and improve their games. | v0.17.17 |
+| Trainero.com | [website](https://trainero.com), [iOS](https://itunes.apple.com/fi/app/trainerocomtrainerapp/id1439762339), [android](https://play.google.com/store/apps/details?id=com.trainero.app_trainer) | All-in-one App for a Personal Trainer with +35000 users world-wide | v0.17.18 |
 
 
 # Community Components and Tools
