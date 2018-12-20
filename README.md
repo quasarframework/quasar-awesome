@@ -74,7 +74,6 @@
 | Banimatic | [website](https://www.banimatic.com/) | Web banner generator | v0.14.1 |
 | Finca Report | [website/android/ios](https://fincareport.com/) | Sistema de informacion para el cultivo de palma africana| v0.15.3 |
 | SoFoot | [android](https://play.google.com/store/apps/details?id=com.sofoot), [ios](https://itunes.apple.com/fr/app/so-foot/id591043947?mt=8) | SO FOOT is an iOS & Android mobile football news application, seen differently. With original and offbeat content, the app is based on real time and smart content feed to make it simple and accessible with a scroll. | v0.14.7 |
-| HyperSign | [Youtube](https://www.youtube.com/watch?v=Slhwunm4oT0), [GitHub](https://github.com/vikramIde/hypersign-mobile) | Hypersign is a cryptography based SingleSignOn Solution that enables users to securely access [Web/Blockchain/Federated] applications without providing their access credentials [usernames and passwords]. | v0.02 |
 | PaintTubeTV | [website](https://painttube.tv) | Shop, library, streaming video player, real time chat | v0.15.9 |
 | MyBibou | [android](https://play.google.com/store/apps/details?id=io.benovea.mybibou&hl=fr), [ios](https://itunes.apple.com/fr/app/mybibou/id1319283569) | MyBibou is an iOS & Android mobile application that simplifies the life of parents for successful family outings. The app geolocates users on a map and give them relevant information based on their needs and situation. | v0.14.7 |
 | Budgex | [pwa](https://budgex-e481b.firebaseapp.com) | Budget and expense tracker | v0.15.1 |
@@ -129,7 +128,7 @@
 | Neolink | [website](http://poltava.neolink.com.ua/) | Online store. | v0.17.17 |
 | Tenpin Toolkit | [iOS](https://itunes.apple.com/app/apple-store/id1390556454?pt=119111623&mt=8), [Android](https://play.google.com/store/apps/details?id=com.tenpintoolkit.app) | App featuring a collection of tools to help tenpin bowlers and coaches develop their skills and improve their games. | v0.17.17 |
 | Trainero.com | [website](https://trainero.com), [iOS](https://itunes.apple.com/fi/app/trainerocomtrainerapp/id1439762339), [android](https://play.google.com/store/apps/details?id=com.trainero.app_trainer) | All-in-one App for a Personal Trainer with +35000 users world-wide | v0.17.18 |
-
+| HyperSign | [Youtube](https://www.youtube.com/watch?v=Slhwunm4oT0), [GitHub](https://github.com/vikramIde/hypersign-mobile) | Hypersign is a cryptography based SingleSignOn Solution that enables users to securely access [Web/Blockchain/Federated] applications without providing their access credentials [usernames and passwords]. | v0.02 |
 
 
 # Community Components and Tools
