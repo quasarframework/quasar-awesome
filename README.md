@@ -129,6 +129,7 @@
 | Trainero.com | [website](https://trainero.com), [iOS](https://itunes.apple.com/fi/app/trainerocomtrainerapp/id1439762339), [android](https://play.google.com/store/apps/details?id=com.trainero.app_trainer) | All-in-one App for a Personal Trainer with +35000 users world-wide | v0.17.18 |
 | HyperSign | [Youtube](https://www.youtube.com/watch?v=Slhwunm4oT0), [GitHub](https://github.com/vikramIde/hypersign-mobile) | Hypersign is a cryptography based SingleSignOn Solution that enables users to securely access [Web/Blockchain/Federated] applications without providing their access credentials [usernames and passwords]. | v0.02 |
 | schild.report | [github](https://github.com/hmt/schild.report), [German article](https://gist.github.com/hmt/391e5614189f9a4df34e0e1e9571bbd3) | This electron app is a report generator that works with schild data (German student administration)| v0.17.18 |
+| P4wnP1_aloa | [website](https://github.com/mame82/P4wnP1_aloa) | Pentesting Framework for the Rapsberry Pi Zero W | v0.17.16 |
 # Community Components and Tools
 
 | Name | Links | Description | Quasar |
