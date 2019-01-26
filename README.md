@@ -130,6 +130,8 @@
 | HyperSign | [Youtube](https://www.youtube.com/watch?v=Slhwunm4oT0), [GitHub](https://github.com/vikramIde/hypersign-mobile) | Hypersign is a cryptography based SingleSignOn Solution that enables users to securely access [Web/Blockchain/Federated] applications without providing their access credentials [usernames and passwords]. | v0.02 |
 | schild.report | [github](https://github.com/hmt/schild.report), [German article](https://gist.github.com/hmt/391e5614189f9a4df34e0e1e9571bbd3) | This electron app is a report generator that works with schild data (German student administration)| v0.17.18 |
 | P4wnP1_aloa | [website](https://github.com/mame82/P4wnP1_aloa) | Pentesting Framework for the Rapsberry Pi Zero W | v0.17.16 |
+| CineMatch | [website](https://cine-match.com), [iOS](https://itunes.apple.com/jp/app/cinematch/id1448631386?l=en&mt=8), [android](https://play.google.com/store/apps/details?id=com.lucaban.cinematch) | A list app to organise films, tv shows and make shared watchlists! | v0.17.18 |
+
 # Community Components and Tools
 
 | Name | Links | Description | Quasar |
