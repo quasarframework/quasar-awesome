@@ -52,6 +52,7 @@
 | --- | --- | --- | --- |
 | [hawkeye64](https://github.com/hawkeye64) | [Medium](https://medium.com/quasar-framework/building-an-electron-file-explorer-with-quasar-and-vue-7bf94f1bbf6), [github](https://github.com/hawkeye64/electron-quasar-file-explorer) | Building an Electron File Explorer with Quasar (and Vue) | v0.17.18 |
 | [Patrick Monteiro](https://github.com/patrickmonteiro) | [Youtube](https://www.youtube.com/playlist?list=PLBjvYfV_TvwJlOctQ49KiOrxrFwJGqAdr)| Introduction to the Quasar Framework | v0.17.18 |
+| [Patrick Monteiro](https://github.com/patrickmonteiro) | [Article](http://viladosilicio.com.br/testes-e2e-com-cypress-no-quasar-framework)| E2E Test with Cypress in the Quasar Framework(pt-br) | v0.17.18 |
 
 
 # Projects Using Quasar
