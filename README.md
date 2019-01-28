@@ -132,6 +132,7 @@
 | schild.report | [github](https://github.com/hmt/schild.report), [German article](https://gist.github.com/hmt/391e5614189f9a4df34e0e1e9571bbd3) | This electron app is a report generator that works with schild data (German student administration)| v0.17.18 |
 | P4wnP1_aloa | [website](https://github.com/mame82/P4wnP1_aloa) | Pentesting Framework for the Rapsberry Pi Zero W | v0.17.16 |
 | CineMatch | [website](https://cine-match.com), [iOS](https://itunes.apple.com/jp/app/cinematch/id1448631386?l=en&mt=8), [android](https://play.google.com/store/apps/details?id=com.lucaban.cinematch) | A list app to organise films, tv shows and make shared watchlists! | v0.17.18 |
+| RankUp | [website](https://rankup.gg) | RankUp is a website that allows you to find teammates on cooperative and competitive video games like Overwatch or Rainbow Six Siege (more to come), build your team, and stay updated about video game news | v0.17.19 |
 
 # Community Components and Tools
 
