@@ -112,7 +112,7 @@
 | Nebide | [website](https://nebide.block2100.com) | Cross-platform Nebulas smart contract IDE. | v0.16.0 |
 | Nick Zuccarelli | [website](https://nickzuccarelli.com.au) | A portfolio website for Nick Zuccarelli (a.k.a: me!) | v0.16.0 |
 | jQuizzer | [android](https://play.google.com/store/apps/details?id=org.yevlabs.jquizzer) | Simple Java 8 Quiz / Trainer App | v0.16.0 |
-| SA Email Builder | [website](https://sa-email-builder.kevingermain.com/emails/new) | Email template builder 2 | v0.17.10 |
+| SA Email Builder | [website](https://sa-email-builder.kevingermain.com/) | Email template builder v3 | v0.17.19 |
 | Boid.com | [website](https://www.boid.com) | A blockchain based social computing platform. Homepage and web/electron app are pure Quasar. | v0.16.4 |
 | Dappos Ethereum POS | [github](https://github.com/Dappos/Dappos), [website](http://dappos.app) | A Point of Sale (POS) app like Square! For Ethereum payments. Open in a Mobile wallet and receive customer's payments with an intuitive UI. | v0.17 |
 | INTI | [website](https://byinti.com) | Online white-label ticketing system with CRM and custom Applications | Latest |
@@ -136,7 +136,6 @@
 
 # Community Components and Tools
 
-| Name | Links | Description | Quasar |
 | --- | --- | --- | --- |
 | Quasar calendar | [github](https://github.com/stormseed/quasar-calendar) | A full calendar display in multiple formats that accepts event data and display it in month, week, multi-day, single day and agenda views | v0.15.6 |
 | Laqu-l | [github](https://github.com/laqul/laqul/) | A complete starter kit that allows you create amazing apps that look native thanks to the Quasar Framework. Powered by an API developed in Laravel Framework using the easy GraphQL queries language. And ready to use the Google Firebase features. | v0.15.10 |
