@@ -51,8 +51,9 @@
 | Author | Links | Description | Quasar |
 | --- | --- | --- | --- |
 | [hawkeye64](https://github.com/hawkeye64) | [Medium](https://medium.com/quasar-framework/building-an-electron-file-explorer-with-quasar-and-vue-7bf94f1bbf6), [github](https://github.com/hawkeye64/electron-quasar-file-explorer) | Building an Electron File Explorer with Quasar (and Vue) | v0.17.18 |
-| [Patrick Monteiro](https://github.com/patrickmonteiro) | [Youtube](https://www.youtube.com/playlist?list=PLBjvYfV_TvwJlOctQ49KiOrxrFwJGqAdr)| Introduction to the Quasar Framework | v0.17.18 |
+| [Patrick Monteiro](https://github.com/patrickmonteiro) | [YouTube](https://www.youtube.com/playlist?list=PLBjvYfV_TvwJlOctQ49KiOrxrFwJGqAdr)| Introduction to the Quasar Framework | v0.17.18 |
 | [Patrick Monteiro](https://github.com/patrickmonteiro) | [Article](http://viladosilicio.com.br/testes-e2e-com-cypress-no-quasar-framework)| E2E Test with Cypress in the Quasar Framework(pt-br) | v0.17.18 |
+| Danny Connell | [YouTube](https://www.youtube.com/watch?v=iml3hDVboHk&t=287s)| Quasar Framework: Create a Vue js app & deploy to web, mobile app & desktop app in 30 minutes! | v0.17.20 |
 
 
 # Projects Using Quasar
@@ -133,9 +134,12 @@
 | P4wnP1_aloa | [website](https://github.com/mame82/P4wnP1_aloa) | Pentesting Framework for the Rapsberry Pi Zero W | v0.17.16 |
 | CineMatch | [website](https://cine-match.com), [iOS](https://itunes.apple.com/jp/app/cinematch/id1448631386?l=en&mt=8), [android](https://play.google.com/store/apps/details?id=com.lucaban.cinematch) | A list app to organise films, tv shows and make shared watchlists! | v0.17.18 |
 | RankUp | [website](https://rankup.gg) | RankUp is a website that allows you to find teammates on cooperative and competitive video games like Overwatch or Rainbow Six Siege (more to come), build your team, and stay updated about video game news | v0.17.19 |
+| Email Snippets | [mac](https://itunes.apple.com/us/app/email-snippets/id1439319487?mt=12), [ios](https://itunes.apple.com/us/app/email-snippets/id1442836840?mt=8) | Replying to the same emails over and over again? Do it in a snip with Email Snippets! Just choose your snippet to copy it to your clipboard, then paste into your Email app. | v0.17.20 |
+| Counter Calculator | [ios](https://itunes.apple.com/us/app/counter-calculator-clicker/id1446418542?mt=8) | Need a counter / tally app that also lets you do those difficult calculations? Counter Calculator is the app for you! | v0.17.20 |
 
 # Community Components and Tools
 
+| Name | Links | Description | Quasar |
 | --- | --- | --- | --- |
 | Quasar calendar | [github](https://github.com/stormseed/quasar-calendar) | A full calendar display in multiple formats that accepts event data and display it in month, week, multi-day, single day and agenda views | v0.15.6 |
 | Laqu-l | [github](https://github.com/laqul/laqul/) | A complete starter kit that allows you create amazing apps that look native thanks to the Quasar Framework. Powered by an API developed in Laravel Framework using the easy GraphQL queries language. And ready to use the Google Firebase features. | v0.15.10 |
