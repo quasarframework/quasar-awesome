@@ -51,6 +51,9 @@
 | Author | Links | Description | Quasar |
 | --- | --- | --- | --- |
 | [hawkeye64](https://github.com/hawkeye64) | [Medium](https://medium.com/quasar-framework/building-an-electron-file-explorer-with-quasar-and-vue-7bf94f1bbf6), [github](https://github.com/hawkeye64/electron-quasar-file-explorer) | Building an Electron File Explorer with Quasar (and Vue) | v0.17.18 |
+| [Patrick Monteiro](https://github.com/patrickmonteiro) | [YouTube](https://www.youtube.com/playlist?list=PLBjvYfV_TvwJlOctQ49KiOrxrFwJGqAdr)| Introduction to the Quasar Framework | v0.17.18 |
+| [Patrick Monteiro](https://github.com/patrickmonteiro) | [Article](http://viladosilicio.com.br/testes-e2e-com-cypress-no-quasar-framework)| E2E Test with Cypress in the Quasar Framework(pt-br) | v0.17.18 |
+| Danny Connell | [YouTube](https://www.youtube.com/watch?v=iml3hDVboHk&t=287s)| Quasar Framework: Create a Vue js app & deploy to web, mobile app & desktop app in 30 minutes! | v0.17.20 |
 
 
 # Projects Using Quasar
@@ -110,7 +113,7 @@
 | Nebide | [website](https://nebide.block2100.com) | Cross-platform Nebulas smart contract IDE. | v0.16.0 |
 | Nick Zuccarelli | [website](https://nickzuccarelli.com.au) | A portfolio website for Nick Zuccarelli (a.k.a: me!) | v0.16.0 |
 | jQuizzer | [android](https://play.google.com/store/apps/details?id=org.yevlabs.jquizzer) | Simple Java 8 Quiz / Trainer App | v0.16.0 |
-| SA Email Builder | [website](https://sa-email-builder.kevingermain.com/emails/new) | Email template builder 2 | v0.17.10 |
+| SA Email Builder | [website](https://sa-email-builder.kevingermain.com/) | Email template builder v3 | v0.17.19 |
 | Boid.com | [website](https://www.boid.com) | A blockchain based social computing platform. Homepage and web/electron app are pure Quasar. | v0.16.4 |
 | Dappos Ethereum POS | [github](https://github.com/Dappos/Dappos), [website](http://dappos.app) | A Point of Sale (POS) app like Square! For Ethereum payments. Open in a Mobile wallet and receive customer's payments with an intuitive UI. | v0.17 |
 | INTI | [website](https://byinti.com) | Online white-label ticketing system with CRM and custom Applications | Latest |
@@ -121,9 +124,18 @@
 | GH Follower | [android](https://play.google.com/store/apps/details?id=com.eladcohen.ghfollower) | Simple app to get push notifications on a GitHub repository new release | v0.17.5 |
 | Omnia Livestream | [SPA](https://omnia-app.org) | Free & affordable livestream provider for churches and ministries. Livestream to your website, Facebook, and YouTube, worldwide CDN, and Auto-Archiving.  | v0.15.14 |
 | Romi | [PWA](https://romionline.com), [Android](https://play.google.com/store/apps/details?id=com.romionline) | eCommerce applications | v0.17.9 |
-| Blockswing | [website](https://www.blockswing.com) | A cryptocurrency trading simulation. | v0.17.16 |
 | Just Go Vote! | [website/PWA](https://justgovote.org), [ios](https://itunes.apple.com/us/app/just-go-vote/id1414331023), [android](https://play.google.com/store/apps/details?id=com.stephensuess.gotv.app) | App makes it easier for people to vote, and encourages them to do so in the upcoming mid-terms. | v0.17.17 |
 | StemQ | [stemq.io](https://stemq.io) | Questions and Answers app dedicated to STEM topics and rewarding contributors with [Steem](https://www.steem.com) cryptocurrency. | v0.17.16 |
+| Neolink | [website](http://poltava.neolink.com.ua/) | Online store. | v0.17.17 |
+| Tenpin Toolkit | [iOS](https://itunes.apple.com/app/apple-store/id1390556454?pt=119111623&mt=8), [Android](https://play.google.com/store/apps/details?id=com.tenpintoolkit.app) | App featuring a collection of tools to help tenpin bowlers and coaches develop their skills and improve their games. | v0.17.17 |
+| Trainero.com | [website](https://trainero.com), [iOS](https://itunes.apple.com/fi/app/trainerocomtrainerapp/id1439762339), [android](https://play.google.com/store/apps/details?id=com.trainero.app_trainer) | All-in-one App for a Personal Trainer with +35000 users world-wide | v0.17.18 |
+| HyperSign | [Youtube](https://www.youtube.com/watch?v=Slhwunm4oT0), [GitHub](https://github.com/vikramIde/hypersign-mobile) | Hypersign is a cryptography based SingleSignOn Solution that enables users to securely access [Web/Blockchain/Federated] applications without providing their access credentials [usernames and passwords]. | v0.13 |
+| schild.report | [github](https://github.com/hmt/schild.report), [German article](https://gist.github.com/hmt/391e5614189f9a4df34e0e1e9571bbd3) | This electron app is a report generator that works with schild data (German student administration)| v0.17.18 |
+| P4wnP1_aloa | [website](https://github.com/mame82/P4wnP1_aloa) | Pentesting Framework for the Rapsberry Pi Zero W | v0.17.16 |
+| CineMatch | [website](https://cine-match.com), [iOS](https://itunes.apple.com/jp/app/cinematch/id1448631386?l=en&mt=8), [android](https://play.google.com/store/apps/details?id=com.lucaban.cinematch) | A list app to organise films, tv shows and make shared watchlists! | v0.17.18 |
+| RankUp | [website](https://rankup.gg) | RankUp is a website that allows you to find teammates on cooperative and competitive video games like Overwatch or Rainbow Six Siege (more to come), build your team, and stay updated about video game news | v0.17.19 |
+| Email Snippets | [mac](https://itunes.apple.com/us/app/email-snippets/id1439319487?mt=12), [ios](https://itunes.apple.com/us/app/email-snippets/id1442836840?mt=8) | Replying to the same emails over and over again? Do it in a snip with Email Snippets! Just choose your snippet to copy it to your clipboard, then paste into your Email app. | v0.17.20 |
+| Counter Calculator | [ios](https://itunes.apple.com/us/app/counter-calculator-clicker/id1446418542?mt=8) | Need a counter / tally app that also lets you do those difficult calculations? Counter Calculator is the app for you! | v0.17.20 |
 
 # Community Components and Tools
 
@@ -132,4 +144,5 @@
 | Quasar calendar | [github](https://github.com/stormseed/quasar-calendar) | A full calendar display in multiple formats that accepts event data and display it in month, week, multi-day, single day and agenda views | v0.15.6 |
 | Laqu-l | [github](https://github.com/laqul/laqul/) | A complete starter kit that allows you create amazing apps that look native thanks to the Quasar Framework. Powered by an API developed in Laravel Framework using the easy GraphQL queries language. And ready to use the Google Firebase features. | v0.15.10 |
 | Quasar Cloud | [github](https://github.com/mstaack/quasar-cloud-demo) | An online file manager project (like dropbox) showing usage of axios, vuex, validation, authentication | v0.15.10 |
+| Quasar Snippets | [github](https://github.com/Abdelaziz18003/vscode-quasar-snippets), [Marketplace](https://marketplace.visualstudio.com/items?itemName=abdelaziz18003.quasar-snippets) | Quasar components' snippets for VSCode that can increase your productivity working on Quasar projects. | v0.17.x |
 | Quasar Steem Beneficiaries | [github](https://github.com/irelandscape/qv-steem-beneficiaries)<br/>[npm](https://www.npmjs.com/package/qv-steem-beneficiaries) | A Quasar/Vue component for easily adding beneficiaries support to your Steem dapp. | v0.17.16 |
