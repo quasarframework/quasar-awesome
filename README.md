@@ -123,6 +123,7 @@
 | Romi | [PWA](https://romionline.com), [Android](https://play.google.com/store/apps/details?id=com.romionline) | eCommerce applications | v0.17.9 |
 | Blockswing | [website](https://www.blockswing.com) | A cryptocurrency trading simulation. | v0.17.16 |
 | Just Go Vote! | [website/PWA](https://justgovote.org), [ios](https://itunes.apple.com/us/app/just-go-vote/id1414331023), [android](https://play.google.com/store/apps/details?id=com.stephensuess.gotv.app) | App makes it easier for people to vote, and encourages them to do so in the upcoming mid-terms. | v0.17.17 |
+| StemQ | [stemq.io](https://stemq.io) | Questions and Answers app dedicated to STEM topics and rewarding contributors with [Steem](https://www.steem.com) cryptocurrency. | v0.17.16 |
 
 # Community Components and Tools
 
@@ -131,3 +132,4 @@
 | Quasar calendar | [github](https://github.com/stormseed/quasar-calendar) | A full calendar display in multiple formats that accepts event data and display it in month, week, multi-day, single day and agenda views | v0.15.6 |
 | Laqu-l | [github](https://github.com/laqul/laqul/) | A complete starter kit that allows you create amazing apps that look native thanks to the Quasar Framework. Powered by an API developed in Laravel Framework using the easy GraphQL queries language. And ready to use the Google Firebase features. | v0.15.10 |
 | Quasar Cloud | [github](https://github.com/mstaack/quasar-cloud-demo) | An online file manager project (like dropbox) showing usage of axios, vuex, validation, authentication | v0.15.10 |
+| Quasar Steem Beneficiaries | [github](https://github.com/irelandscape/qv-steem-beneficiaries)<br/>[npm](https://www.npmjs.com/package/qv-steem-beneficiaries) | A Quasar/Vue component for easily adding beneficiaries support to your Steem dapp. | v0.17.16 |
