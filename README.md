@@ -138,6 +138,9 @@
 | Counter Calculator | [ios](https://itunes.apple.com/us/app/counter-calculator-clicker/id1446418542?mt=8) | Need a counter / tally app that also lets you do those difficult calculations? Counter Calculator is the app for you! | v0.17.20 |
 | Map Marker Generator | [website](https://map-marker-generator.firebaseapp.com/) | A Free Online Tool To Generate Custom Map Icons On The Fly | v0.17.19 |
 | spoonacular | [website](https://spoonacular.com), [Android](https://play.google.com/store/apps/details?id=app.com.spoonacular), [iOS](https://itunes.apple.com/us/app/spoonacular-food-companion/id1406527413) | spoonacular food companion, meal planner, and shopping list | v0.17.20 |
+| +Economicas | [Android](https://play.google.com/store/apps/details?id=buromar.maseconomicas), [iOS](https://itunes.apple.com/us/app/economicas/id1415417683) | An unofficial student made app for public univeristy students from the [Faculty of Economic Sciences, University of Buenos Aires, Argentina.](https://www.economicas.uba.ar/) | v0.16.4 |
+| +FADU | [Android](https://play.google.com/store/apps/details?id=io.masfadu), [iOS](https://itunes.apple.com/ar/app/fadu/id1358520979) | An unofficial student made app for public univeristy students from the [Faculty of Architecture, Design and Urbanism, University of Buenos Aires, Argentina.](http://www.fadu.uba.ar/) | v0.17.9 |
+| Monocle Reader | [website](https://monoclereader.com/) | A modern and elegant RSS Reader. Feedly meets Pocket. | v0.17.23 |
 
 # Community Components and Tools
 
