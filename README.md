@@ -73,7 +73,6 @@
 | Guitar Workshop | [website](https://guitarworkshop.digital) | E-commerce shop, library, streaming video player, real time chat | v0.15.9 |
 | Karrot (Foodsaving Worldwide) | [github](https://github.com/yunity/karrot-frontend), [website](https://karrot.world) | A web-app to support foodsaving groups worldwide, with the goal to save our common resources as much as possible | v0.14.8 |
 | onvif-nvt-snapshot-vue-sample | [github](https://github.com/hawkeye64/onvif-nvt-snapshot-vue-sample) | An onvif-nvt (package) sample project for snapshots and PTZ using Vue 2.5 and Quasar 0.14.7 | v0.14.7 |
-| Banimatic | [website](https://www.banimatic.com/) | Web banner generator | v0.14.1 |
 | Finca Report | [website/android/ios](https://fincareport.com/) | Sistema de informacion para el cultivo de palma africana| v0.15.3 |
 | SoFoot | [android](https://play.google.com/store/apps/details?id=com.sofoot), [ios](https://itunes.apple.com/fr/app/so-foot/id591043947?mt=8) | SO FOOT is an iOS & Android mobile football news application, seen differently. With original and offbeat content, the app is based on real time and smart content feed to make it simple and accessible with a scroll. | v0.14.7 |
 | PaintTubeTV | [website](https://painttube.tv) | Shop, library, streaming video player, real time chat | v0.15.9 |
