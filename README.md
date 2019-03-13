@@ -141,6 +141,7 @@
 | +FADU | [Android](https://play.google.com/store/apps/details?id=io.masfadu), [iOS](https://itunes.apple.com/ar/app/fadu/id1358520979) | An unofficial student made app for public univeristy students from the [Faculty of Architecture, Design and Urbanism, University of Buenos Aires, Argentina.](http://www.fadu.uba.ar/) | v0.17.9 |
 | Monocle Reader | [website](https://monoclereader.com/) | A modern and elegant RSS Reader. Feedly meets Pocket. | v0.17.23 |
 | Blue Moon Camera and Machine | [website](https://bluemooncamera.com/) | Custom E-Commerce with realtime POS system inventory integration via API. | v0.17.22 |
+| NotaCL Note-taking like chat messages | [Android](https://play.google.com/store/apps/details?id=com.jaeven.notaclPro) | Note taking with multiple chat rooms with different colors. | 1.0.0-beta.2 |
 
 # Community Components and Tools
 
