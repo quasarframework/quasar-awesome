@@ -44,7 +44,7 @@
 
 ### Local Communities
 
-- ~~[Quasar Brazil - Telegram Channel](https://t.me/quasarframeworkbrasil)~~ Moved to [Official Discord](https://discord.gg/5TDhbDg) in #brazil channel.
+- [Quasar Brazil - Telegram Channel](https://t.me/quasarframeworkbrasil) - Similar with #brazil channel at [Official Discord](https://discord.gg/5TDhbDg).
 
 ### Tutorials
 
