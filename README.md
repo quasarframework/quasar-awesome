@@ -16,7 +16,7 @@
     - [Local Communities](#local-communities)
     - [Tutorials](#tutorials)
 - [Projects Using Quasar](#projects-using-quasar)
-- [Community Components and Tools](#community-components-and-tools)
+- [Community Extensions, Components and Tools](#community-extensions-components-and-tools)
 
 # Resources
 
