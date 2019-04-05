@@ -130,7 +130,7 @@
 | HyperSign | [Youtube](https://www.youtube.com/watch?v=Slhwunm4oT0), [GitHub](https://github.com/vikramIde/hypersign-mobile) | Hypersign is a cryptography based SingleSignOn Solution that enables users to securely access [Web/Blockchain/Federated] applications without providing their access credentials [usernames and passwords]. | v0.13 |
 | schild.report | [github](https://github.com/hmt/schild.report), [German article](https://gist.github.com/hmt/391e5614189f9a4df34e0e1e9571bbd3) | This electron app is a report generator that works with schild data (German student administration)| v0.17.18 |
 | P4wnP1_aloa | [website](https://github.com/mame82/P4wnP1_aloa) | Pentesting Framework for the Rapsberry Pi Zero W | v0.17.16 |
-| CineMatch | [website](https://cine-match.com), [iOS](https://itunes.apple.com/jp/app/cinematch/id1448631386?l=en&mt=8), [android](https://play.google.com/store/apps/details?id=com.lucaban.cinematch) | A list app to organise films, tv shows and make shared watchlists! | v0.17.18 |
+| CineMatch | [website](https://cine-match.com), [iOS](https://itunes.apple.com/jp/app/cinematch/id1448631386?l=en&mt=8), [android](https://play.google.com/store/apps/details?id=com.lucaban.cinematch) | A list app to organise films, tv shows and make shared watchlists! | v1-beta.15 |
 | RankUp | [website](https://rankup.gg) | RankUp is a website that allows you to find teammates on cooperative and competitive video games like Overwatch or Rainbow Six Siege (more to come), build your team, and stay updated about video game news | v0.17.19 |
 | Email Snippets | [mac](https://itunes.apple.com/us/app/email-snippets/id1439319487?mt=12), [ios](https://itunes.apple.com/us/app/email-snippets/id1442836840?mt=8) | Replying to the same emails over and over again? Do it in a snip with Email Snippets! Just choose your snippet to copy it to your clipboard, then paste into your Email app. | v0.17.20 |
 | Counter Calculator | [ios](https://itunes.apple.com/us/app/counter-calculator-clicker/id1446418542?mt=8) | Need a counter / tally app that also lets you do those difficult calculations? Counter Calculator is the app for you! | v0.17.20 |
@@ -143,7 +143,7 @@
 | NotaCL Note-taking like chat messages | [Android](https://play.google.com/store/apps/details?id=com.jaeven.notaclPro) | Note taking with multiple chat rooms with different colors. | 1.0.0-beta.2 |
 | Johnson Lai's Portfolio | [pwa](https://wenghan.me?q=github) | Portfolio Website for Johnson Lai. | 1.0.0-beta.11 |
 
-# Community Components and Tools
+# Community Extensions, Components and Tools
 
 | Name | Links | Description | Quasar |
 | --- | --- | --- | --- |
@@ -154,3 +154,4 @@
 | Quasar Steem Beneficiaries | [github](https://github.com/irelandscape/qv-steem-beneficiaries)<br/>[npm](https://www.npmjs.com/package/qv-steem-beneficiaries) | A Quasar/Vue component for easily adding beneficiaries support to your Steem dapp. | v0.17.16 |
 | Quasar Auth Starter | [github](https://github.com/stefanvanherwijnen/quasar-auth-starter) | Starter kit for token based authentication | v1.0.0-beta.1 |
 | QInputEx Component | [github](https://github.com/snowyu/qinputex) | The Advance Input Component for Quasar is used as single-line input box for date, time, password, color, select etc. | v1.0.0-beta.1 |
+| swipe-to-close | [github](https://github.com/mesqueeb/quasar-app-extension-swipe-to-close/) | A Quasar Framework app extension that allows you to close dialogs by swiping. | v1.0.0-beta.15
