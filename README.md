@@ -15,8 +15,8 @@
     - [Official Community](#official-community)
     - [Local Communities](#local-communities)
     - [Tutorials](#tutorials)
+- [Community App Extensions, Components and Tools](#community-app-extensions-components-and-tools)
 - [Projects Using Quasar](#projects-using-quasar)
-- [Community Components and Tools](#community-components-and-tools)
 
 # Resources
 
@@ -55,6 +55,18 @@
 | [Patrick Monteiro](https://github.com/patrickmonteiro) | [Article](http://viladosilicio.com.br/testes-e2e-com-cypress-no-quasar-framework)| E2E Test with Cypress in the Quasar Framework(pt-br) | v0.17.18 |
 | Danny Connell | [YouTube](https://www.youtube.com/watch?v=iml3hDVboHk&t=287s)| Quasar Framework: Create a Vue js app & deploy to web, mobile app & desktop app in 30 minutes! | v0.17.20 |
 
+# Community App Extensions, Components and Tools
+
+| Name | Links | Description | Quasar |
+| --- | --- | --- | --- |
+| Quasar calendar | [github](https://github.com/stormseed/quasar-calendar) | A full calendar display in multiple formats that accepts event data and display it in month, week, multi-day, single day and agenda views | v0.15.6 |
+| Laqu-l | [github](https://github.com/laqul/laqul/) | A complete starter kit that allows you create amazing apps that look native thanks to the Quasar Framework. Powered by an API developed in Laravel Framework using the easy GraphQL queries language. And ready to use the Google Firebase features. | v0.15.10 |
+| Quasar Cloud | [github](https://github.com/mstaack/quasar-cloud-demo) | An online file manager project (like dropbox) showing usage of axios, vuex, validation, authentication | v0.15.10 |
+| Quasar Snippets | [github](https://github.com/Abdelaziz18003/vscode-quasar-snippets), [Marketplace](https://marketplace.visualstudio.com/items?itemName=abdelaziz18003.quasar-snippets) | Quasar components' snippets for VSCode that can increase your productivity working on Quasar projects. | v0.17.x |
+| Quasar Steem Beneficiaries | [github](https://github.com/irelandscape/qv-steem-beneficiaries)<br/>[npm](https://www.npmjs.com/package/qv-steem-beneficiaries) | A Quasar/Vue component for easily adding beneficiaries support to your Steem dapp. | v0.17.16 |
+| Quasar Auth Starter | [github](https://github.com/stefanvanherwijnen/quasar-auth-starter) | Starter kit for token based authentication | v1.0.0-beta.1 |
+| QInputEx Component | [github](https://github.com/snowyu/qinputex) | The Advance Input Component for Quasar is used as single-line input box for date, time, password, color, select etc. | v1.0.0-beta.1 |
+| swipe-to-close | [github](https://github.com/mesqueeb/quasar-app-extension-swipe-to-close/) | A Quasar Framework app extension that allows you to close dialogs by swiping. | v1.0.0-beta.15
 
 # Projects Using Quasar
 
@@ -73,7 +85,6 @@
 | Guitar Workshop | [website](https://guitarworkshop.digital) | E-commerce shop, library, streaming video player, real time chat | v0.15.9 |
 | Karrot (Foodsaving Worldwide) | [github](https://github.com/yunity/karrot-frontend), [website](https://karrot.world) | A web-app to support foodsaving groups worldwide, with the goal to save our common resources as much as possible | v0.14.8 |
 | onvif-nvt-snapshot-vue-sample | [github](https://github.com/hawkeye64/onvif-nvt-snapshot-vue-sample) | An onvif-nvt (package) sample project for snapshots and PTZ using Vue 2.5 and Quasar 0.14.7 | v0.14.7 |
-| Banimatic | [website](https://www.banimatic.com/) | Web banner generator | v0.14.1 |
 | Finca Report | [website/android/ios](https://fincareport.com/) | Sistema de informacion para el cultivo de palma africana| v0.15.3 |
 | SoFoot | [android](https://play.google.com/store/apps/details?id=com.sofoot), [ios](https://itunes.apple.com/fr/app/so-foot/id591043947?mt=8) | SO FOOT is an iOS & Android mobile football news application, seen differently. With original and offbeat content, the app is based on real time and smart content feed to make it simple and accessible with a scroll. | v0.14.7 |
 | PaintTubeTV | [website](https://painttube.tv) | Shop, library, streaming video player, real time chat | v0.15.9 |
@@ -113,11 +124,10 @@
 | Nebide | [website](https://nebide.block2100.com) | Cross-platform Nebulas smart contract IDE. | v0.16.0 |
 | Nick Zuccarelli | [website](https://nickzuccarelli.com.au) | A portfolio website for Nick Zuccarelli (a.k.a: me!) | v0.16.0 |
 | jQuizzer | [android](https://play.google.com/store/apps/details?id=org.yevlabs.jquizzer) | Simple Java 8 Quiz / Trainer App | v0.16.0 |
-| SA Email Builder | [website](https://sa-email-builder.kevingermain.com/) | Email template builder v3 | v0.17.19 |
+| SA Email Builder | [website](https://sa-email-builder.kevingermain.com/) | Email template builder v4 | v1.0.0-beta.11 |
 | Boid.com | [website](https://www.boid.com) | A blockchain based social computing platform. Homepage and web/electron app are pure Quasar. | v0.16.4 |
 | Dappos Ethereum POS | [github](https://github.com/Dappos/Dappos), [website](http://dappos.app) | A Point of Sale (POS) app like Square! For Ethereum payments. Open in a Mobile wallet and receive customer's payments with an intuitive UI. | v0.17 |
 | INTI | [website](https://byinti.com) | Online white-label ticketing system with CRM and custom Applications | Latest |
-| Movie Scores: Find great movies | [ios](https://itunes.apple.com/us/app/movie-scores-find-great-movies/id1424159261?mt=8), [android](https://play.google.com/store/apps/details?id=com.dannyconnell.moviescores.mobile), [mac](https://itunes.apple.com/app/id1404845461?mt=12), [windows](https://www.microsoft.com/en-us/p/movie-scores-find-great-movies-metacritic-rotten-tomatoes-imdb-ratings/9pp2gptvsxjs), [website](http://moviescores.dconnell.co.uk) | Find out if a movie is any good, instantly. Metacritic, Rotten Tomatoes & IMDb ratings in one place | v0.17.0 |
 | Fastient | [PWA](https://fastient.com) | A journaling and stats tracking application for extended fasts. | v0.17.10 |
 | Squync | [SPA](https://www.squync.com) | Music library. | v0.14 |
 | CidadeMOB | [pwa](https://m.cidademob.com.br/), [android](https://play.google.com/store/apps/details?id=br.com.cidademob), [ios](https://itunes.apple.com/br/app/cidademob/id1154262726?l=en&mt=8) | (Brazil) Application that offers services of the city hall for citizens | v0.17.13 |
@@ -132,19 +142,15 @@
 | HyperSign | [Youtube](https://www.youtube.com/watch?v=Slhwunm4oT0), [GitHub](https://github.com/vikramIde/hypersign-mobile) | Hypersign is a cryptography based SingleSignOn Solution that enables users to securely access [Web/Blockchain/Federated] applications without providing their access credentials [usernames and passwords]. | v0.13 |
 | schild.report | [github](https://github.com/hmt/schild.report), [German article](https://gist.github.com/hmt/391e5614189f9a4df34e0e1e9571bbd3) | This electron app is a report generator that works with schild data (German student administration)| v0.17.18 |
 | P4wnP1_aloa | [website](https://github.com/mame82/P4wnP1_aloa) | Pentesting Framework for the Rapsberry Pi Zero W | v0.17.16 |
-| CineMatch | [website](https://cine-match.com), [iOS](https://itunes.apple.com/jp/app/cinematch/id1448631386?l=en&mt=8), [android](https://play.google.com/store/apps/details?id=com.lucaban.cinematch) | A list app to organise films, tv shows and make shared watchlists! | v0.17.18 |
+| CineMatch | [website](https://cine-match.com), [iOS](https://itunes.apple.com/jp/app/cinematch/id1448631386?l=en&mt=8), [android](https://play.google.com/store/apps/details?id=com.lucaban.cinematch) | A list app to organise films, tv shows and make shared watchlists! | v1-beta.15 |
 | RankUp | [website](https://rankup.gg) | RankUp is a website that allows you to find teammates on cooperative and competitive video games like Overwatch or Rainbow Six Siege (more to come), build your team, and stay updated about video game news | v0.17.19 |
 | Email Snippets | [mac](https://itunes.apple.com/us/app/email-snippets/id1439319487?mt=12), [ios](https://itunes.apple.com/us/app/email-snippets/id1442836840?mt=8) | Replying to the same emails over and over again? Do it in a snip with Email Snippets! Just choose your snippet to copy it to your clipboard, then paste into your Email app. | v0.17.20 |
 | Counter Calculator | [ios](https://itunes.apple.com/us/app/counter-calculator-clicker/id1446418542?mt=8) | Need a counter / tally app that also lets you do those difficult calculations? Counter Calculator is the app for you! | v0.17.20 |
 | Map Marker Generator | [website](https://map-marker-generator.firebaseapp.com/) | A Free Online Tool To Generate Custom Map Icons On The Fly | v0.17.19 |
 | spoonacular | [website](https://spoonacular.com), [Android](https://play.google.com/store/apps/details?id=app.com.spoonacular), [iOS](https://itunes.apple.com/us/app/spoonacular-food-companion/id1406527413) | spoonacular food companion, meal planner, and shopping list | v0.17.20 |
-
-# Community Components and Tools
-
-| Name | Links | Description | Quasar |
-| --- | --- | --- | --- |
-| Quasar calendar | [github](https://github.com/stormseed/quasar-calendar) | A full calendar display in multiple formats that accepts event data and display it in month, week, multi-day, single day and agenda views | v0.15.6 |
-| Laqu-l | [github](https://github.com/laqul/laqul/) | A complete starter kit that allows you create amazing apps that look native thanks to the Quasar Framework. Powered by an API developed in Laravel Framework using the easy GraphQL queries language. And ready to use the Google Firebase features. | v0.15.10 |
-| Quasar Cloud | [github](https://github.com/mstaack/quasar-cloud-demo) | An online file manager project (like dropbox) showing usage of axios, vuex, validation, authentication | v0.15.10 |
-| Quasar Snippets | [github](https://github.com/Abdelaziz18003/vscode-quasar-snippets), [Marketplace](https://marketplace.visualstudio.com/items?itemName=abdelaziz18003.quasar-snippets) | Quasar components' snippets for VSCode that can increase your productivity working on Quasar projects. | v0.17.x |
-| Quasar Steem Beneficiaries | [github](https://github.com/irelandscape/qv-steem-beneficiaries)<br/>[npm](https://www.npmjs.com/package/qv-steem-beneficiaries) | A Quasar/Vue component for easily adding beneficiaries support to your Steem dapp. | v0.17.16 |
+| +Economicas | [Android](https://play.google.com/store/apps/details?id=buromar.maseconomicas), [iOS](https://itunes.apple.com/us/app/economicas/id1415417683) | An unofficial student made app for public univeristy students from the [Faculty of Economic Sciences, University of Buenos Aires, Argentina.](https://www.economicas.uba.ar/) | v0.16.4 |
+| +FADU | [Android](https://play.google.com/store/apps/details?id=io.masfadu), [iOS](https://itunes.apple.com/ar/app/fadu/id1358520979) | An unofficial student made app for public univeristy students from the [Faculty of Architecture, Design and Urbanism, University of Buenos Aires, Argentina.](http://www.fadu.uba.ar/) | v0.17.9 |
+| Monocle Reader | [website](https://monoclereader.com/) | A modern and elegant RSS Reader. Feedly meets Pocket. | v0.17.23 |
+| Blue Moon Camera and Machine | [website](https://bluemooncamera.com/) | Custom E-Commerce with realtime POS system inventory integration via API. | v0.17.22 |
+| NotaCL Note-taking like chat messages | [Android](https://play.google.com/store/apps/details?id=com.jaeven.notaclPro) | Note taking with multiple chat rooms with different colors. | 1.0.0-beta.2 |
+| Johnson Lai's Portfolio | [pwa](https://wenghan.me?q=github) | Portfolio Website for Johnson Lai. | 1.0.0-beta.11 |
