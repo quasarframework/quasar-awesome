@@ -155,3 +155,4 @@
 | NotaCL Note-taking like chat messages | [Android](https://play.google.com/store/apps/details?id=com.jaeven.notaclPro) | Note taking with multiple chat rooms with different colors. | 1.0.0-beta.2 |
 | Johnson Lai's Portfolio | [pwa](https://wenghan.me?q=github) | Portfolio Website for Johnson Lai. | 1.0.0-beta.11 |
 | mempal | [website](https://mempal.io) | An app that helps you to remember everything you read and learn. | v0.17.20 |
+| Agency «Day & Night» | [website](http://www.rent-poltava.com.ua/) | Apartment agency. | v1.0.0-beta |
