@@ -22,13 +22,8 @@
 
 ### Official Resources
 
-- [Official Documentation](http://quasar-framework.org)
-- [Official Guide](http://quasar-framework.org/guide/)
-- [Official Components](http://quasar-framework.org/components/)
-- [Showcase with Material Design Theme](http://quasar-framework.org/quasar-play/android/index.html#/)
-- [Showcase with iOS Theme](http://quasar-framework.org/quasar-play/apple/index.html#/)
+- [Official Documentation](https://quasar.dev)
 - [Quasar GitHub Repo](https://github.com/quasarframework/quasar)
-- [Quasar CLI GitHub Repo](https://github.com/quasarframework/quasar-cli)
 - [Quasar Release Notes](https://github.com/quasarframework/quasar/releases)
 
 ### External Resources
@@ -39,8 +34,8 @@
 ### Official Community
 
 - [Official Twitter](https://twitter.com/quasarframework)
-- [Official Chat Room - Discord](https://discord.gg/5TDhbDg)
-- [Official Forum](http://forum.quasar-framework.org/)
+- [Official Chat Room - Discord](https://chat.quasar.dev)
+- [Official Forum](https://forum.quasar.dev/)
 
 ### Local Communities
 
