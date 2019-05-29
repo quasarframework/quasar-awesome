@@ -15,7 +15,8 @@
     - [Official Community](#official-community)
     - [Local Communities](#local-communities)
     - [Tutorials](#tutorials)
-- [Community App Extensions, Components and Tools](#community-app-extensions-components-and-tools)
+- [Community App Extensions](#community-app-extensions)
+- [Other Community Components and Tools](#other-community-components-and-tools)
 - [Projects Using Quasar](#projects-using-quasar)
 
 # Resources
@@ -51,18 +52,29 @@
 | Danny Connell | [YouTube](https://www.youtube.com/watch?v=iml3hDVboHk&t=287s)| Quasar Framework: Create a Vue js app & deploy to web, mobile app & desktop app in 30 minutes! | v0.17.20 |
 | Danny Connell | [YouTube](https://www.youtube.com/watch?v=opmng7llVJ0&list=PLAiDzIdBfy8iu_MZrq3IPuSFcRgCQ0iL0&index=1)| Quasar Framework V1 Course Preview: Create a Real-World, Cross-Platform App | v1.0.0-beta.19 |
 
-# Community App Extensions, Components and Tools
+# Community App Extensions
+
+| Name | Description |
+| --- | --- |
+| [qmodeltd](https://www.npmjs.com/package/quasar-app-extension-qmodeltd) | QModelTd is an UI app extension for Quasar that simplifies the usage of editable or selectable QTd |
+| [remote-dev-tools](https://github.com/bloodf/quasar-remote-dev-tools) | Vue remote devtools for Cordova and Electron apps made with Quasar |
+| [alpaca-forms](https://github.com/221B-io/quasar-alpaca-form-builder#readme) | Alpaca form builder built for Quasar |
+| [draggable](https://github.com/mesqueeb/quasar-app-extension-draggable) | A Quasar extension that makes elements draggable and movable with keyboard. |
+| [swipe-to-close](https://github.com/mesqueeb/quasar-app-extension-swipe-to-close/) | A Quasar Framework app extension that allows you to close dialogs by swiping. |
+| [qdatetimepicker](https://github.com/TobyMosque/app-extension-qdatetimepicker#readme) | QDatetimePicker for Quasar |
+
+# Other Community Components and Tools
+> For older Quasar versions or not supplied through a Quasar App Extension
 
 | Name | Links | Description | Quasar |
 | --- | --- | --- | --- |
+| Quasar Auth Starter | [github](https://github.com/stefanvanherwijnen/quasar-auth-starter) | Starter kit for token based authentication | v1.0.0-beta.1 |
+| QInputEx Component | [github](https://github.com/snowyu/qinputex) | The Advance Input Component for Quasar is used as single-line input box for date, time, password, color, select etc. | v1.0.0-beta.1 |
+| Quasar Snippets | [github](https://github.com/Abdelaziz18003/vscode-quasar-snippets), [Marketplace](https://marketplace.visualstudio.com/items?itemName=abdelaziz18003.quasar-snippets) | Quasar components' snippets for VSCode that can increase your productivity working on Quasar projects. | v0.17.x |
+| Quasar Steem Beneficiaries | [github](https://github.com/irelandscape/qv-steem-beneficiaries)<br/>[npm](https://www.npmjs.com/package/qv-steem-beneficiaries) | A Quasar/Vue component for easily adding beneficiaries support to your Steem dapp. | v0.17.16 |
 | Quasar calendar | [github](https://github.com/stormseed/quasar-calendar) | A full calendar display in multiple formats that accepts event data and display it in month, week, multi-day, single day and agenda views | v0.15.6 |
 | Laqu-l | [github](https://github.com/laqul/laqul/) | A complete starter kit that allows you create amazing apps that look native thanks to the Quasar Framework. Powered by an API developed in Laravel Framework using the easy GraphQL queries language. And ready to use the Google Firebase features. | v0.15.10 |
 | Quasar Cloud | [github](https://github.com/mstaack/quasar-cloud-demo) | An online file manager project (like dropbox) showing usage of axios, vuex, validation, authentication | v0.15.10 |
-| Quasar Snippets | [github](https://github.com/Abdelaziz18003/vscode-quasar-snippets), [Marketplace](https://marketplace.visualstudio.com/items?itemName=abdelaziz18003.quasar-snippets) | Quasar components' snippets for VSCode that can increase your productivity working on Quasar projects. | v0.17.x |
-| Quasar Steem Beneficiaries | [github](https://github.com/irelandscape/qv-steem-beneficiaries)<br/>[npm](https://www.npmjs.com/package/qv-steem-beneficiaries) | A Quasar/Vue component for easily adding beneficiaries support to your Steem dapp. | v0.17.16 |
-| Quasar Auth Starter | [github](https://github.com/stefanvanherwijnen/quasar-auth-starter) | Starter kit for token based authentication | v1.0.0-beta.1 |
-| QInputEx Component | [github](https://github.com/snowyu/qinputex) | The Advance Input Component for Quasar is used as single-line input box for date, time, password, color, select etc. | v1.0.0-beta.1 |
-| swipe-to-close | [github](https://github.com/mesqueeb/quasar-app-extension-swipe-to-close/) | A Quasar Framework app extension that allows you to close dialogs by swiping. | v1.0.0-beta.15
 
 # Projects Using Quasar
 
