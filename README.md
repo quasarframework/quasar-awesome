@@ -166,3 +166,4 @@
 | Agency «Day & Night» | [website](http://www.rent-poltava.com.ua/) | Apartment agency. | v1.0.0-beta |
 | Kawal Pemilu (PILPRES) | [android](https://play.google.com/store/apps/details?id=org.sholeh.kawalpemilu&rdid=org.sholeh.kawalpemilu) | Election Guard In Indonesia. | v1.0.0-beta.17 |
 | Cashier | [app](http://cashier.alensiljak.ml/), [source](https://gitlab.com/alensiljak/cashier) | An app for creating ledger/hledger transactions | 1.0.0.beta24 |
+| Exorcism | [github](https://github.com/siamx/exorcism) | Desktop wallpaper manager | 1.0.0-rc.6 |
