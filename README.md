@@ -62,6 +62,7 @@
 | [draggable](https://github.com/mesqueeb/quasar-app-extension-draggable) | A Quasar extension that makes elements draggable and movable with keyboard. |
 | [swipe-to-close](https://github.com/mesqueeb/quasar-app-extension-swipe-to-close/) | A Quasar Framework app extension that allows you to close dialogs by swiping. |
 | [qdatetimepicker](https://github.com/TobyMosque/app-extension-qdatetimepicker#readme) | QDatetimePicker for Quasar |
+| [qribbon](https://github.com/webnoob/app-extension-qribbon) | Customisable ribbons with a component builder. Allows ribbons at the top, corners, bottom etc. |
 
 # Other Community Components and Tools
 > For older Quasar versions or not supplied through a Quasar App Extension
