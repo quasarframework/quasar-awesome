@@ -69,6 +69,7 @@
 
 | Name | Links | Description | Quasar |
 | --- | --- | --- | --- |
+| Quasar Speech API | [github](https://github.com/patrickmonteiro/quasar-speech-api) | Sample project using [Speech Web API](https://developer.mozilla.org/pt-BR/docs/Web/API/SpeechSynthesis) | v1.0.0-rc.7 |
 | Quasar Auth Starter | [github](https://github.com/stefanvanherwijnen/quasar-auth-starter) | Starter kit for token based authentication | v1.0.0-beta.1 |
 | QInputEx Component | [github](https://github.com/snowyu/qinputex) | The Advance Input Component for Quasar is used as single-line input box for date, time, password, color, select etc. | v1.0.0-beta.1 |
 | Quasar Snippets | [github](https://github.com/Abdelaziz18003/vscode-quasar-snippets), [Marketplace](https://marketplace.visualstudio.com/items?itemName=abdelaziz18003.quasar-snippets) | Quasar components' snippets for VSCode that can increase your productivity working on Quasar projects. | v0.17.x |
