@@ -15,20 +15,16 @@
     - [Official Community](#official-community)
     - [Local Communities](#local-communities)
     - [Tutorials](#tutorials)
+- [Community App Extensions](#community-app-extensions)
+- [Other Community Components and Tools](#other-community-components-and-tools)
 - [Projects Using Quasar](#projects-using-quasar)
-- [Community Components and Tools](#community-components-and-tools)
 
 # Resources
 
 ### Official Resources
 
-- [Official Documentation](http://quasar-framework.org)
-- [Official Guide](http://quasar-framework.org/guide/)
-- [Official Components](http://quasar-framework.org/components/)
-- [Showcase with Material Design Theme](http://quasar-framework.org/quasar-play/android/index.html#/)
-- [Showcase with iOS Theme](http://quasar-framework.org/quasar-play/apple/index.html#/)
+- [Official Documentation](https://quasar.dev)
 - [Quasar GitHub Repo](https://github.com/quasarframework/quasar)
-- [Quasar CLI GitHub Repo](https://github.com/quasarframework/quasar-cli)
 - [Quasar Release Notes](https://github.com/quasarframework/quasar/releases)
 
 ### External Resources
@@ -39,12 +35,12 @@
 ### Official Community
 
 - [Official Twitter](https://twitter.com/quasarframework)
-- [Official Chat Room - Discord](https://discord.gg/5TDhbDg)
-- [Official Forum](http://forum.quasar-framework.org/)
+- [Official Chat Room - Discord](https://chat.quasar.dev)
+- [Official Forum](https://forum.quasar.dev/)
 
 ### Local Communities
 
-- ~~[Quasar Brazil - Telegram Channel](https://t.me/quasarframeworkbrasil)~~ Moved to [Official Discord](https://discord.gg/5TDhbDg) in #brazil channel.
+- ~~[Quasar Brazil - Telegram Channel](https://t.me/quasarframeworkbrasil)~~ Moved to [Official Discord](https://chat.quasar.dev) in #brazil channel.
 
 ### Tutorials
 
@@ -54,7 +50,32 @@
 | [Patrick Monteiro](https://github.com/patrickmonteiro) | [YouTube](https://www.youtube.com/playlist?list=PLBjvYfV_TvwJlOctQ49KiOrxrFwJGqAdr)| Introduction to the Quasar Framework | v0.17.18 |
 | [Patrick Monteiro](https://github.com/patrickmonteiro) | [Article](http://viladosilicio.com.br/testes-e2e-com-cypress-no-quasar-framework)| E2E Test with Cypress in the Quasar Framework(pt-br) | v0.17.18 |
 | Danny Connell | [YouTube](https://www.youtube.com/watch?v=iml3hDVboHk&t=287s)| Quasar Framework: Create a Vue js app & deploy to web, mobile app & desktop app in 30 minutes! | v0.17.20 |
+| Danny Connell | [YouTube](https://www.youtube.com/watch?v=opmng7llVJ0&list=PLAiDzIdBfy8iu_MZrq3IPuSFcRgCQ0iL0&index=1)| Quasar Framework V1 Course Preview: Create a Real-World, Cross-Platform App | v1.0.0-beta.19 |
 
+# Community App Extensions
+
+| Name | Description |
+| --- | --- |
+| [qmodeltd](https://www.npmjs.com/package/quasar-app-extension-qmodeltd) | QModelTd is an UI app extension for Quasar that simplifies the usage of editable or selectable QTd |
+| [remote-dev-tools](https://github.com/bloodf/quasar-remote-dev-tools) | Vue remote devtools for Cordova and Electron apps made with Quasar |
+| [alpaca-forms](https://github.com/221B-io/quasar-alpaca-form-builder#readme) | Alpaca form builder built for Quasar |
+| [draggable](https://github.com/mesqueeb/quasar-app-extension-draggable) | A Quasar extension that makes elements draggable and movable with keyboard. |
+| [swipe-to-close](https://github.com/mesqueeb/quasar-app-extension-swipe-to-close/) | A Quasar Framework app extension that allows you to close dialogs by swiping. |
+| [qdatetimepicker](https://github.com/TobyMosque/app-extension-qdatetimepicker#readme) | QDatetimePicker for Quasar |
+| [qribbon](https://github.com/webnoob/app-extension-qribbon) | Customisable ribbons with a component builder. Allows ribbons at the top, corners, bottom etc. |
+
+# Other Community Components and Tools
+> For older Quasar versions or not supplied through a Quasar App Extension
+
+| Name | Links | Description | Quasar |
+| --- | --- | --- | --- |
+| Quasar Auth Starter | [github](https://github.com/stefanvanherwijnen/quasar-auth-starter) | Starter kit for token based authentication | v1.0.0-beta.1 |
+| QInputEx Component | [github](https://github.com/snowyu/qinputex) | The Advance Input Component for Quasar is used as single-line input box for date, time, password, color, select etc. | v1.0.0-beta.1 |
+| Quasar Snippets | [github](https://github.com/Abdelaziz18003/vscode-quasar-snippets), [Marketplace](https://marketplace.visualstudio.com/items?itemName=abdelaziz18003.quasar-snippets) | Quasar components' snippets for VSCode that can increase your productivity working on Quasar projects. | v0.17.x |
+| Quasar Steem Beneficiaries | [github](https://github.com/irelandscape/qv-steem-beneficiaries)<br/>[npm](https://www.npmjs.com/package/qv-steem-beneficiaries) | A Quasar/Vue component for easily adding beneficiaries support to your Steem dapp. | v0.17.16 |
+| Quasar calendar | [github](https://github.com/stormseed/quasar-calendar) | A full calendar display in multiple formats that accepts event data and display it in month, week, multi-day, single day and agenda views | v0.15.6 |
+| Laqu-l | [github](https://github.com/laqul/laqul/) | A complete starter kit that allows you create amazing apps that look native thanks to the Quasar Framework. Powered by an API developed in Laravel Framework using the easy GraphQL queries language. And ready to use the Google Firebase features. | v0.15.10 |
+| Quasar Cloud | [github](https://github.com/mstaack/quasar-cloud-demo) | An online file manager project (like dropbox) showing usage of axios, vuex, validation, authentication | v0.15.10 |
 
 # Projects Using Quasar
 
@@ -112,11 +133,10 @@
 | Nebide | [website](https://nebide.block2100.com) | Cross-platform Nebulas smart contract IDE. | v0.16.0 |
 | Nick Zuccarelli | [website](https://nickzuccarelli.com.au) | A portfolio website for Nick Zuccarelli (a.k.a: me!) | v0.16.0 |
 | jQuizzer | [android](https://play.google.com/store/apps/details?id=org.yevlabs.jquizzer) | Simple Java 8 Quiz / Trainer App | v0.16.0 |
-| SA Email Builder | [website](https://sa-email-builder.kevingermain.com/) | Email template builder v3 | v0.17.19 |
+| SA Email Builder | [website](https://app.emailbuilder.top/) | Email template builder responsive v5 | v1.0.0-rc.2 |
 | Boid.com | [website](https://www.boid.com) | A blockchain based social computing platform. Homepage and web/electron app are pure Quasar. | v0.16.4 |
 | Dappos Ethereum POS | [github](https://github.com/Dappos/Dappos), [website](http://dappos.app) | A Point of Sale (POS) app like Square! For Ethereum payments. Open in a Mobile wallet and receive customer's payments with an intuitive UI. | v0.17 |
 | INTI | [website](https://byinti.com) | Online white-label ticketing system with CRM and custom Applications | Latest |
-| Movie Scores: Find great movies | [ios](https://itunes.apple.com/us/app/movie-scores-find-great-movies/id1424159261?mt=8), [android](https://play.google.com/store/apps/details?id=com.dannyconnell.moviescores.mobile), [mac](https://itunes.apple.com/app/id1404845461?mt=12), [windows](https://www.microsoft.com/en-us/p/movie-scores-find-great-movies-metacritic-rotten-tomatoes-imdb-ratings/9pp2gptvsxjs), [website](http://moviescores.dconnell.co.uk) | Find out if a movie is any good, instantly. Metacritic, Rotten Tomatoes & IMDb ratings in one place | v0.17.0 |
 | Fastient | [PWA](https://fastient.com) | A journaling and stats tracking application for extended fasts. | v0.17.10 |
 | Squync | [SPA](https://www.squync.com) | Music library. | v0.14 |
 | CidadeMOB | [pwa](https://m.cidademob.com.br/), [android](https://play.google.com/store/apps/details?id=br.com.cidademob), [ios](https://itunes.apple.com/br/app/cidademob/id1154262726?l=en&mt=8) | (Brazil) Application that offers services of the city hall for citizens | v0.17.13 |
@@ -131,7 +151,7 @@
 | HyperSign | [Youtube](https://www.youtube.com/watch?v=Slhwunm4oT0), [GitHub](https://github.com/vikramIde/hypersign-mobile) | Hypersign is a cryptography based SingleSignOn Solution that enables users to securely access [Web/Blockchain/Federated] applications without providing their access credentials [usernames and passwords]. | v0.13 |
 | schild.report | [github](https://github.com/hmt/schild.report), [German article](https://gist.github.com/hmt/391e5614189f9a4df34e0e1e9571bbd3) | This electron app is a report generator that works with schild data (German student administration)| v0.17.18 |
 | P4wnP1_aloa | [website](https://github.com/mame82/P4wnP1_aloa) | Pentesting Framework for the Rapsberry Pi Zero W | v0.17.16 |
-| CineMatch | [website](https://cine-match.com), [iOS](https://itunes.apple.com/jp/app/cinematch/id1448631386?l=en&mt=8), [android](https://play.google.com/store/apps/details?id=com.lucaban.cinematch) | A list app to organise films, tv shows and make shared watchlists! | v0.17.18 |
+| CineMatch | [website](https://cine-match.com), [iOS](https://itunes.apple.com/jp/app/cinematch/id1448631386?l=en&mt=8), [android](https://play.google.com/store/apps/details?id=com.lucaban.cinematch) | A list app to organise films, tv shows and make shared watchlists! | v1-beta.15 |
 | RankUp | [website](https://rankup.gg) | RankUp is a website that allows you to find teammates on cooperative and competitive video games like Overwatch or Rainbow Six Siege (more to come), build your team, and stay updated about video game news | v0.17.19 |
 | Email Snippets | [mac](https://itunes.apple.com/us/app/email-snippets/id1439319487?mt=12), [ios](https://itunes.apple.com/us/app/email-snippets/id1442836840?mt=8) | Replying to the same emails over and over again? Do it in a snip with Email Snippets! Just choose your snippet to copy it to your clipboard, then paste into your Email app. | v0.17.20 |
 | Counter Calculator | [ios](https://itunes.apple.com/us/app/counter-calculator-clicker/id1446418542?mt=8) | Need a counter / tally app that also lets you do those difficult calculations? Counter Calculator is the app for you! | v0.17.20 |
@@ -142,14 +162,11 @@
 | Monocle Reader | [website](https://monoclereader.com/) | A modern and elegant RSS Reader. Feedly meets Pocket. | v0.17.23 |
 | Blue Moon Camera and Machine | [website](https://bluemooncamera.com/) | Custom E-Commerce with realtime POS system inventory integration via API. | v0.17.22 |
 | NotaCL Note-taking like chat messages | [Android](https://play.google.com/store/apps/details?id=com.jaeven.notaclPro) | Note taking with multiple chat rooms with different colors. | 1.0.0-beta.2 |
-
-# Community Components and Tools
-
-| Name | Links | Description | Quasar |
-| --- | --- | --- | --- |
-| Quasar calendar | [github](https://github.com/stormseed/quasar-calendar) | A full calendar display in multiple formats that accepts event data and display it in month, week, multi-day, single day and agenda views | v0.15.6 |
-| Laqu-l | [github](https://github.com/laqul/laqul/) | A complete starter kit that allows you create amazing apps that look native thanks to the Quasar Framework. Powered by an API developed in Laravel Framework using the easy GraphQL queries language. And ready to use the Google Firebase features. | v0.15.10 |
-| Quasar Cloud | [github](https://github.com/mstaack/quasar-cloud-demo) | An online file manager project (like dropbox) showing usage of axios, vuex, validation, authentication | v0.15.10 |
-| Quasar Snippets | [github](https://github.com/Abdelaziz18003/vscode-quasar-snippets), [Marketplace](https://marketplace.visualstudio.com/items?itemName=abdelaziz18003.quasar-snippets) | Quasar components' snippets for VSCode that can increase your productivity working on Quasar projects. | v0.17.x |
-| Quasar Steem Beneficiaries | [github](https://github.com/irelandscape/qv-steem-beneficiaries)<br/>[npm](https://www.npmjs.com/package/qv-steem-beneficiaries) | A Quasar/Vue component for easily adding beneficiaries support to your Steem dapp. | v0.17.16 |
-| Quasar Auth Starter | [github](https://github.com/stefanvanherwijnen/quasar-auth-starter) | Starter kit for token based authentication | v1.0.0-beta.1 |
+| Johnson Lai's Portfolio | [pwa](https://wenghan.me?q=github) | Portfolio Website for Johnson Lai. | 1.0.0-beta.11 |
+| mempal | [website](https://mempal.io) | An app that helps you to remember everything you read and learn. | v0.17.20 |
+| Agency «Day & Night» | [website](http://www.rent-poltava.com.ua/) | Apartment agency. | v1.0.0-beta |
+| Kawal Pemilu (PILPRES) | [android](https://play.google.com/store/apps/details?id=org.sholeh.kawalpemilu&rdid=org.sholeh.kawalpemilu) | Election Guard In Indonesia. | v1.0.0-beta.17 |
+| Cashier | [app](http://cashier.alensiljak.ml/), [source](https://gitlab.com/alensiljak/cashier) | An app for creating ledger/hledger transactions | 1.0.0.beta24 |
+| Exorcism | [github](https://github.com/siamx/exorcism) | Desktop wallpaper manager | 1.0.0-rc.6 |
+| SunEngine | [github](https://github.com/Dmitrij-Polyanin/SunEngine), [website](https://sunengine.site) | CMS+ site engine with blog, articles and forum functionalities. Asp.Net Core on server side. | 1.0.0-rc |
+| Timesheet | [github](https://github.com/valasek/timesheet), [website](https://timesheet.simplesw.net) | Self-hosted application to manage project reporting. Golang, Gin used on server. | 1.0.0-rc.4 |

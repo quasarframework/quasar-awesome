@@ -15,7 +15,7 @@ Also please specify which Quasar version has been used for your product.
 
 Example of addition:
 ```
-| Name | [github](https://github.com/quasarframework/quasar), [website](http://quasar-framework.org) | Description | v0.14 |
+| Name | [github](https://github.com/quasarframework/quasar), [website](https://quasar.dev) | Description | v1.0.0 |
 ```
 
 Please don't specify a website unless it is using Quasar.
