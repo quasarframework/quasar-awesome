@@ -171,3 +171,4 @@
 | Exorcism | [github](https://github.com/siamx/exorcism) | Desktop wallpaper manager | 1.0.0-rc.6 |
 | SunEngine | [github](https://github.com/Dmitrij-Polyanin/SunEngine), [website](https://sunengine.site) | CMS+ site engine with blog, articles and forum functionalities. Asp.Net Core on server side. | 1.0.0-rc |
 | Timesheet | [github](https://github.com/valasek/timesheet), [website](https://timesheet.simplesw.net) | Self-hosted application to manage project reporting. Golang, Gin used on server. | 1.0.0-rc.4 |
+| Havidea | [website](https://havidea.ru) | Social network for creative people. | 1.0.0-rc.5 |
