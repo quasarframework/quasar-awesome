@@ -172,3 +172,4 @@
 | SunEngine | [github](https://github.com/Dmitrij-Polyanin/SunEngine), [website](https://sunengine.site) | CMS+ site engine with blog, articles and forum functionalities. Asp.Net Core on server side. | 1.0.0-rc |
 | Timesheet | [github](https://github.com/valasek/timesheet), [website](https://timesheet.simplesw.net) | Self-hosted application to manage project reporting. Golang, Gin used on server. | 1.0.0-rc.4 |
 | Havidea | [website](https://havidea.ru) | Social network for creative people. | 1.0.0-rc.5 |
+| Stelace Heroes Platform | [github](https://github.com/stelace/heroes-platform-demo), [website](https://heroes.demo.stelace.com/s) | Open-source template featuring [Stelace platform runner](https://stelace.com) with Quasar UI and super heroes in NYC. | 1.0.0 |
