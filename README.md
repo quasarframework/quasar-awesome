@@ -9,15 +9,15 @@
 
 > A list of awesome things related to Quasar
 
-- [Resources](#resources)
-    - [Official Resources](#official-resources)
-    - [External Resources](#external-resources)
-    - [Official Community](#official-community)
-    - [Local Communities](#local-communities)
-    - [Tutorials](#tutorials)
-- [Community App Extensions](#community-app-extensions)
-- [Other Community Components and Tools](#other-community-components-and-tools)
-- [Projects Using Quasar](#projects-using-quasar)
+- [Resources](#Resources)
+    - [Official Resources](#Official-Resources)
+    - [External Resources](#External-Resources)
+    - [Official Community](#Official-Community)
+    - [Local Communities](#Local-Communities)
+    - [Tutorials](#Tutorials)
+- [Community App Extensions](#Community-App-Extensions)
+- [Other Community Components and Tools](#Other-Community-Components-and-Tools)
+- [Projects Using Quasar](#Projects-Using-Quasar)
 
 # Resources
 
@@ -51,6 +51,7 @@
 | [Patrick Monteiro](https://github.com/patrickmonteiro) | [Article](http://viladosilicio.com.br/testes-e2e-com-cypress-no-quasar-framework)| E2E Test with Cypress in the Quasar Framework(pt-br) | v0.17.18 |
 | Danny Connell | [YouTube](https://www.youtube.com/watch?v=iml3hDVboHk&t=287s)| Quasar Framework: Create a Vue js app & deploy to web, mobile app & desktop app in 30 minutes! | v0.17.20 |
 | Danny Connell | [YouTube](https://www.youtube.com/watch?v=opmng7llVJ0&list=PLAiDzIdBfy8iu_MZrq3IPuSFcRgCQ0iL0&index=1)| Quasar Framework V1 Course Preview: Create a Real-World, Cross-Platform App | v1.0.0-beta.19 |
+| [Patrick Monteiro](https://github.com/patrickmonteiro/quasar-hello-auth) (pt-br) and [William Comnisky](https://github.com/wcomnisky/quasar-hello-auth) (en) | [website (en)](https://wcomnisky.github.io/quasar-hello-auth/) | Quasar Framework with Social Login using Hello.js | v1.0.3 |
 
 # Community App Extensions
 
