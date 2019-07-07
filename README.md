@@ -41,7 +41,7 @@
 ### Local Communities
 > These communities are not maintained by Quasar Team.
 
-- [Quasar Brazil - Telegram Channel](https://t.me/quasarframeworkbrasil) 
+- [Quasar Brazil - Telegram Channel](https://t.me/quasarframeworkbrasil) - *Similar with #brazil channel at [Official Discord](https://chat.quasar.dev)*
 
 ### Tutorials
 
