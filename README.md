@@ -1,9 +1,5 @@
-<p align="center">
-  <br>
-  <img src="https://cdn.rawgit.com/quasarframework/quasar-art/master/dist/svg/quasar-awesome-logo-full-inline.svg" alt="logo of quasar-awesome repository">
-  <br>
-  <br>
-</p>
+![Quasar Framework logo](https://cdn.quasar.dev/logo/svg/quasar-logo-awesome.svg)
+
 
 ## Awesome Quasar [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
