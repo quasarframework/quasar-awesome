@@ -39,8 +39,9 @@
 - [Official Forum](https://forum.quasar.dev/)
 
 ### Local Communities
+> These communities are not maintained by Quasar Team.
 
-- ~~[Quasar Brazil - Telegram Channel](https://t.me/quasarframeworkbrasil)~~ Moved to [Official Discord](https://chat.quasar.dev) in #brazil channel.
+- [Quasar Brazil - Telegram Channel](https://t.me/quasarframeworkbrasil) 
 
 ### Tutorials
 
