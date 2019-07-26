@@ -173,3 +173,4 @@
 | Havidea | [website](https://havidea.ru) | Social network for creative people. | 1.0.0-rc.5 |
 | Stelace Heroes Platform | [github](https://github.com/stelace/heroes-platform-demo), [website](https://heroes.demo.stelace.com/s) | Open-source template featuring [Stelace platform runner](https://stelace.com) with Quasar UI and super heroes in NYC. | 1.0.0 |
 | Gas Station Gamblers: California Scratchers | [Android](https://play.google.com/store/apps/details?id=com.dizyx.scratchermathcalifornia), [website](https://gsg.dizyx.com) | The smartest way to pick a California Scratcher! | 1.0.0-beta26 |
+| issue blog | [github](https://github.com/ttop5/issue-blog), [website](https://ttop5.net/issue-blog) | A blog tool powered by GitHub issues.  | 1.0.0 |
