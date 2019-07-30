@@ -50,6 +50,10 @@
 | Danny Connell | [YouTube](https://www.youtube.com/watch?v=iml3hDVboHk&t=287s)| Quasar Framework: Create a Vue js app & deploy to web, mobile app & desktop app in 30 minutes! | v0.17.20 |
 | Danny Connell | [YouTube](https://www.youtube.com/watch?v=opmng7llVJ0&list=PLAiDzIdBfy8iu_MZrq3IPuSFcRgCQ0iL0&index=1)| Quasar Framework V1 Course Preview: Create a Real-World, Cross-Platform App | v1.0.0-beta.19 |
 | [Patrick Monteiro](https://github.com/patrickmonteiro/quasar-hello-auth) (pt-br) and [William Comnisky](https://github.com/wcomnisky/quasar-hello-auth) (en) | [website (en)](https://wcomnisky.github.io/quasar-hello-auth/) | Quasar Framework with Social Login using Hello.js | v1.0.3 |
+| [Luciano Pereira](https://github.com/lucianopereira86) | [Github](https://github.com/lucianopereira86/Quasar-Cordova-Apk)| Simple guide to create a signed apk from a Quasar app with Cordova | v1 |
+| [Luciano Pereira](https://github.com/lucianopereira86) | [Github](https://github.com/lucianopereira86/quasar-cordova-hellojs)| Quasar hybrid app with social network authentication and Cordova | v1 |
+| [Luciano Pereira](https://github.com/lucianopereira86) | [Github](https://github.com/lucianopereira86/Quasar-NodeJS-Google-Drive)| Upload and download files to Google Drive by using Quasar v1 and NodeJS API | v1 |
+| [Luciano Pereira](https://github.com/lucianopereira86) | [Github](https://github.com/lucianopereira86/Quasar-NodeJS-Google-Vision)| Extract text from images by using Google Vision, Quasar v1 and NodeJS API | v1 |
 
 # Community App Extensions
 
