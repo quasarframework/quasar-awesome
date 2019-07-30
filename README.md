@@ -53,6 +53,7 @@
 | [Luciano Pereira](https://github.com/lucianopereira86) | [Github](https://github.com/lucianopereira86/Quasar-Cordova-Apk)| Simple guide to create a signed apk from a Quasar app with Cordova | v1.0 |
 | [Luciano Pereira](https://github.com/lucianopereira86) | [Github](https://github.com/lucianopereira86/Quasar-NodeJS-Google-Drive)| Upload and download files to Google Drive by using Quasar v1 and NodeJS API | v1.0 |
 | [Luciano Pereira](https://github.com/lucianopereira86) | [Github](https://github.com/lucianopereira86/Quasar-NodeJS-Google-Vision)| Extract text from images by using Google Vision, Quasar v1 and NodeJS API | v1.0 |
+| [Luciano Pereira](https://github.com/lucianopereira86) | [Github](https://github.com/lucianopereira86/quasar-cordova-hellojs)| Social network authentication with Quasar, Cordova and HelloJS | v1.0 |
 
 # Community App Extensions
 
