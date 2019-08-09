@@ -1,23 +1,19 @@
-<p align="center">
-  <br>
-  <img src="https://cdn.rawgit.com/quasarframework/quasar-art/master/dist/svg/quasar-awesome-logo-full-inline.svg" alt="logo of quasar-awesome repository">
-  <br>
-  <br>
-</p>
+![Quasar Framework logo](https://cdn.quasar.dev/logo/svg/quasar-logo-awesome.svg)
+
 
 ## Awesome Quasar [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A list of awesome things related to Quasar
 
-- [Resources](#resources)
-    - [Official Resources](#official-resources)
-    - [External Resources](#external-resources)
-    - [Official Community](#official-community)
-    - [Local Communities](#local-communities)
-    - [Tutorials](#tutorials)
-- [Community App Extensions](#community-app-extensions)
-- [Other Community Components and Tools](#other-community-components-and-tools)
-- [Projects Using Quasar](#projects-using-quasar)
+- [Resources](#Resources)
+    - [Official Resources](#Official-Resources)
+    - [External Resources](#External-Resources)
+    - [Official Community](#Official-Community)
+    - [Local Communities](#Local-Communities)
+    - [Tutorials](#Tutorials)
+- [Community App Extensions](#Community-App-Extensions)
+- [Other Community Components and Tools](#Other-Community-Components-and-Tools)
+- [Projects Using Quasar](#Projects-Using-Quasar)
 
 # Resources
 
@@ -28,9 +24,10 @@
 - [Quasar Release Notes](https://github.com/quasarframework/quasar/releases)
 
 ### External Resources
+> These resources have not been created by Quasar Team, nor do we maintain them or financially benefit from them.
 
-> **Looking forward to fill this in**
-
+- Video tutorial @Udemy on "Quasar Framework: Cross-Platform VueJS Vuex & Firebase Apps": https://dannys.link/quasarf
+- Video tutorial @Udemy on "Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)": https://www.udemy.com/vuejs-2-the-complete-guide/
 
 ### Official Community
 
@@ -39,18 +36,20 @@
 - [Official Forum](https://forum.quasar.dev/)
 
 ### Local Communities
+> These communities are not maintained by Quasar Team.
 
-- ~~[Quasar Brazil - Telegram Channel](https://t.me/quasarframeworkbrasil)~~ Moved to [Official Discord](https://chat.quasar.dev) in #brazil channel.
+- [Quasar Brazil - Telegram Channel](https://t.me/quasarframeworkbrasil) - *Similar with #brazil channel at [Official Discord](https://chat.quasar.dev)*
 
 ### Tutorials
 
-| Author | Links | Description | Quasar |
-| --- | --- | --- | --- |
-| [hawkeye64](https://github.com/hawkeye64) | [Medium](https://medium.com/quasar-framework/building-an-electron-file-explorer-with-quasar-and-vue-7bf94f1bbf6), [github](https://github.com/hawkeye64/electron-quasar-file-explorer) | Building an Electron File Explorer with Quasar (and Vue) | v0.17.18 |
-| [Patrick Monteiro](https://github.com/patrickmonteiro) | [YouTube](https://www.youtube.com/playlist?list=PLBjvYfV_TvwJlOctQ49KiOrxrFwJGqAdr)| Introduction to the Quasar Framework | v0.17.18 |
-| [Patrick Monteiro](https://github.com/patrickmonteiro) | [Article](http://viladosilicio.com.br/testes-e2e-com-cypress-no-quasar-framework)| E2E Test with Cypress in the Quasar Framework(pt-br) | v0.17.18 |
-| Danny Connell | [YouTube](https://www.youtube.com/watch?v=iml3hDVboHk&t=287s)| Quasar Framework: Create a Vue js app & deploy to web, mobile app & desktop app in 30 minutes! | v0.17.20 |
-| Danny Connell | [YouTube](https://www.youtube.com/watch?v=opmng7llVJ0&list=PLAiDzIdBfy8iu_MZrq3IPuSFcRgCQ0iL0&index=1)| Quasar Framework V1 Course Preview: Create a Real-World, Cross-Platform App | v1.0.0-beta.19 |
+| Author | Links | Language | Description | Quasar |
+| --- | --- | --- | --- | --- |
+| [hawkeye64](https://github.com/hawkeye64) | [Medium](https://medium.com/quasar-framework/building-an-electron-file-explorer-with-quasar-and-vue-7bf94f1bbf6), [github](https://github.com/hawkeye64/electron-quasar-file-explorer) | en | Building an Electron File Explorer with Quasar (and Vue) | v0.17.18 |
+| [Patrick Monteiro](https://github.com/patrickmonteiro) | [YouTube](https://www.youtube.com/playlist?list=PLBjvYfV_TvwJlOctQ49KiOrxrFwJGqAdr)| pt-BR | Introduction to the Quasar Framework | v0.17.18 |
+| [Patrick Monteiro](https://github.com/patrickmonteiro) | [Article](http://viladosilicio.com.br/testes-e2e-com-cypress-no-quasar-framework)| pt-BR | E2E Test with Cypress in the Quasar Framework | v0.17.18 |
+| Danny Connell | [YouTube](https://www.youtube.com/watch?v=iml3hDVboHk&t=287s)| en |Quasar Framework: Create a Vue js app & deploy to web, mobile app & desktop app in 30 minutes! | v0.17.20 |
+| Danny Connell | [YouTube](https://www.youtube.com/watch?v=opmng7llVJ0&list=PLAiDzIdBfy8iu_MZrq3IPuSFcRgCQ0iL0&index=1)| en |Quasar Framework V1 Course Preview: Create a Real-World, Cross-Platform App | v1.0.0-beta.19 |
+| [Patrick Monteiro](https://github.com/patrickmonteiro/quasar-hello-auth) (pt-br) and [William Comnisky](https://github.com/wcomnisky/quasar-hello-auth) (en) | [website](https://wcomnisky.github.io/quasar-hello-auth/) | en | Quasar Framework with Social Login using Hello.js | v1.0.3 |
 
 # Community App Extensions
 
@@ -63,6 +62,7 @@
 | [swipe-to-close](https://github.com/mesqueeb/quasar-app-extension-swipe-to-close/) | A Quasar Framework app extension that allows you to close dialogs by swiping. |
 | [qdatetimepicker](https://github.com/TobyMosque/app-extension-qdatetimepicker#readme) | QDatetimePicker for Quasar |
 | [qribbon](https://github.com/webnoob/app-extension-qribbon) | Customisable ribbons with a component builder. Allows ribbons at the top, corners, bottom etc. |
+| [auth-token-based](https://github.com/stefanvanherwijnen/auth-token-based) | Token based authentication functionality. |
 
 # Other Community Components and Tools
 > For older Quasar versions or not supplied through a Quasar App Extension
@@ -171,3 +171,7 @@
 | Exorcism | [github](https://github.com/siamx/exorcism) | Desktop wallpaper manager | 1.0.0-rc.6 |
 | SunEngine | [github](https://github.com/Dmitrij-Polyanin/SunEngine), [website](https://sunengine.site) | CMS+ site engine with blog, articles and forum functionalities. Asp.Net Core on server side. | 1.0.0-rc |
 | Timesheet | [github](https://github.com/valasek/timesheet), [website](https://timesheet.simplesw.net) | Self-hosted application to manage project reporting. Golang, Gin used on server. | 1.0.0-rc.4 |
+| Havidea | [website](https://havidea.ru) | Social network for creative people. | 1.0.0-rc.5 |
+| Stelace Heroes Platform | [github](https://github.com/stelace/heroes-platform-demo), [website](https://heroes.demo.stelace.com/s) | Open-source template featuring [Stelace platform runner](https://stelace.com) with Quasar UI and super heroes in NYC. | 1.0.0 |
+| Gas Station Gamblers: California Scratchers | [Android](https://play.google.com/store/apps/details?id=com.dizyx.scratchermathcalifornia), [website](https://gsg.dizyx.com) | The smartest way to pick a California Scratcher! | 1.0.0-beta26 |
+| issue blog | [github](https://github.com/ttop5/issue-blog), [website](https://ttop5.net/issue-blog) | A blog tool powered by GitHub issues.  | 1.0.0 |
