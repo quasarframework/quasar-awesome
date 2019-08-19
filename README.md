@@ -56,6 +56,7 @@
 | [Luciano Pereira](https://github.com/lucianopereira86) | [Github](https://github.com/lucianopereira86/quasar-cordova-hellojs)| Social network authentication with Quasar, Cordova and HelloJS | v1.0 |
 | [Luciano Pereira](https://github.com/lucianopereira86) | [Github](https://github.com/lucianopereira86/Quasar-GoogleMaps-Cypress)| Example of a Quasar app with Google Maps and Cypress automated tests | v1.0 |
 | [Luciano Pereira](https://github.com/lucianopereira86) | [Github](https://github.com/lucianopereira86/Quasar-GreenSock-Portfolio)| Building a dynamic portfolio with Quasar and GreenSock | v1.0 |
+| [Luciano Pereira](https://github.com/lucianopereira86) | [Github](https://github.com/lucianopereira86/Quasar-PWA-Bluetooth-Printer)| Example of a Quasar PWA connecting with a Bluetooth thermal printer | v1.0 |
 
 # Community App Extensions
 
