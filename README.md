@@ -174,3 +174,4 @@
 | Stelace Heroes Platform | [github](https://github.com/stelace/heroes-platform-demo), [website](https://heroes.demo.stelace.com/s) | Open-source template featuring [Stelace platform runner](https://stelace.com) with Quasar UI and super heroes in NYC. | 1.0.0 |
 | Gas Station Gamblers: California Scratchers | [Android](https://play.google.com/store/apps/details?id=com.dizyx.scratchermathcalifornia), [website](https://gsg.dizyx.com) | The smartest way to pick a California Scratcher! | 1.0.0-beta26 |
 | issue blog | [github](https://github.com/ttop5/issue-blog), [website](https://ttop5.net/issue-blog) | A blog tool powered by GitHub issues.  | 1.0.0 |
+| 61 Financial App | [Android](https://play.google.com/store/apps/details?id=au.com.sixonefinancial.app), [iOS](https://apps.apple.com/au/app/61-financial/id1467327628) | A replica of [61 Financial Web App](https://61financial.com.au) | v1 |
