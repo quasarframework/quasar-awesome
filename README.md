@@ -69,7 +69,10 @@
 
 | Name | Links | Description | Quasar |
 | --- | --- | --- | --- |
-| Quasar Speech API | [github](https://github.com/patrickmonteiro/quasar-speech-api) | Sample project using [Speech Web API](https://developer.mozilla.org/pt-BR/docs/Web/API/SpeechSynthesis) | v1.0.0-rc.7 |
+| Quasar Apex Charts | [github](https://github.com/patrickmonteiro/quasar-apexcharts), [demo](https://quasar-apexcharts.surge.sh) | Project using Quasar framework and ApexCharts 📊 📈 📉 | v1.1.2 |
+| Quasar Barcode Reader | [github](https://github.com/patrickmonteiro/quasar-barcode-reader), [demo](https://quasar-barcode-reader.surge.sh/#/) | Base code for a code reader application:   EAN, CODE 128, CODE 39, EAN 8, UPC-A, UPC-C, I2of5, 2of5, CODE 93 e CODABAR with QuaggaJS and Quasar Framework(no dependency on cordova) | v1.1.2 |
+| Quasar QRCode Reader | [github](https://github.com/patrickmonteiro/quasar-qrcode-reader), [demo](https://quasar-qrcode-reader.surge.sh/#/) | A simple Javascript-only QRCode generator and reader (no dependency on cordova). Great for web and PWA solutions. | v1.0.6 |
+| Quasar Speech API | [github](https://github.com/patrickmonteiro/quasar-speech-api), [demo](https://quasarspeechapi.surge.sh/#/) | Example project using Speech Web API to transcribe speech into text and synthesize text into speech. | v1.0.6 |
 | QInputEx Component | [github](https://github.com/snowyu/qinputex) | The Advance Input Component for Quasar is used as single-line input box for date, time, password, color, select etc. | v1.0.0-beta.1 |
 | Quasar Snippets | [github](https://github.com/Abdelaziz18003/vscode-quasar-snippets), [Marketplace](https://marketplace.visualstudio.com/items?itemName=abdelaziz18003.quasar-snippets) | Quasar components' snippets for VSCode that can increase your productivity working on Quasar projects. | v0.17.x |
 | Quasar Steem Beneficiaries | [github](https://github.com/irelandscape/qv-steem-beneficiaries)<br/>[npm](https://www.npmjs.com/package/qv-steem-beneficiaries) | A Quasar/Vue component for easily adding beneficiaries support to your Steem dapp. | v0.17.16 |
