@@ -89,7 +89,7 @@
 | P.volve | [website](https://my.pvolve.com) | [Video workout subscription](https://my.pvolve.com/preview), [landing pages](https://my.pvolve.com/offer/subway), also includes weight tracking, photo upload, etc. for subscribers | v0.15.9 |
 | Brotheld | [android](https://play.google.com/store/apps/details?id=de.sopamo.brotheld), [ios](https://itunes.apple.com/de/app/brotheld/id1193619132?l=de&ls=1&mt=8) | Brotheld (Bread Hero), a german app for hobby bakers | v0.14 |
 | MyClinic | [android](https://play.google.com/store/apps/details?id=today.myclinic.mobileapp&hl=en), [ios](https://itunes.apple.com/us/app/myclinic/id1311703491?ls=1&mt=8) | Application for displaying and managing medical clinic examination room status | v0.14 |
-| Weacast | [github](https://github.com/weacast/weacast), [website](https://weacast.gitbooks.io/weacast-docs/) | Open source platform to gather, expose and make use of weather forecast data | v0.13.10 |
+| Weacast | [github](https://github.com/weacast/weacast), [website](https://weacast.github.io/weacast-docs/) | Open source platform to gather, expose and make use of weather forecast data | v0.13.10 |
 | CryptoPrice | [github](https://github.com/lmfresneda/crypto-price), [android](https://play.google.com/store/apps/details?id=com.es.cryptoprice) | An app to inform us of price (USD & EUR) of the main crypto-coins | v0.14.4 |
 | Quran App | [website](https://quran-lite.firebaseapp.com), [android](https://play.google.com/store/apps/details?id=rashidnk.quran) | Quran Lite with English translation | v0.14.4 |
 | SHUhelper | [github](https://github.com/shuopensourcecommunity/SHUhelper), [website](https://www.shuhelper.cn)| Open source university online community and toolkits | v0.14.7 |
