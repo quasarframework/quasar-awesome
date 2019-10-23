@@ -1,50 +1,45 @@
-<p align="center">
-  <br>
-  <img src="https://cdn.rawgit.com/quasarframework/quasar-art/master/dist/svg/quasar-awesome-logo-full-inline.svg" alt="logo of quasar-awesome repository">
-  <br>
-  <br>
-</p>
+![Quasar Framework logo](https://cdn.quasar.dev/logo/svg/quasar-logo-awesome.svg)
+
 
 ## Awesome Quasar [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A list of awesome things related to Quasar
 
-- [Resources](#resources)
-    - [Official Resources](#official-resources)
-    - [External Resources](#external-resources)
-    - [Official Community](#official-community)
-    - [Local Communities](#local-communities)
-    - [Tutorials](#tutorials)
-- [Community App Extensions, Components and Tools](#community-app-extensions-components-and-tools)
-- [Projects Using Quasar](#projects-using-quasar)
+- [Resources](#Resources)
+    - [Official Resources](#Official-Resources)
+    - [External Resources](#External-Resources)
+    - [Official Community](#Official-Community)
+    - [Local Communities](#Local-Communities)
+    - [Tutorials](#Tutorials)
+- [Community App Extensions](#Community-App-Extensions)
+- [Other Community Components and Tools](#Other-Community-Components-and-Tools)
+- [Projects Using Quasar](#Projects-Using-Quasar)
 
 # Resources
 
 ### Official Resources
 
-- [Official Documentation](http://quasar-framework.org)
-- [Official Guide](http://quasar-framework.org/guide/)
-- [Official Components](http://quasar-framework.org/components/)
-- [Showcase with Material Design Theme](http://quasar-framework.org/quasar-play/android/index.html#/)
-- [Showcase with iOS Theme](http://quasar-framework.org/quasar-play/apple/index.html#/)
+- [Official Documentation](https://quasar.dev)
 - [Quasar GitHub Repo](https://github.com/quasarframework/quasar)
-- [Quasar CLI GitHub Repo](https://github.com/quasarframework/quasar-cli)
 - [Quasar Release Notes](https://github.com/quasarframework/quasar/releases)
 
 ### External Resources
+> These resources have not been created by Quasar Team, nor do we maintain them or financially benefit from them.
 
-> **Looking forward to fill this in**
-
+- Video tutorial @Udemy on "Quasar Framework: Cross-Platform VueJS Vuex & Firebase Apps": https://dannys.link/quasarf
+- Video tutorial @Udemy on "Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)": https://www.udemy.com/vuejs-2-the-complete-guide/
 
 ### Official Community
 
 - [Official Twitter](https://twitter.com/quasarframework)
-- [Official Chat Room - Discord](https://discord.gg/5TDhbDg)
-- [Official Forum](http://forum.quasar-framework.org/)
+- [Official Chat Room - Discord](https://chat.quasar.dev)
+- [Official Forum](https://forum.quasar.dev/)
 
 ### Local Communities
+> These communities are not maintained by Quasar Team.
 
-- ~~[Quasar Brazil - Telegram Channel](https://t.me/quasarframeworkbrasil)~~ Moved to [Official Discord](https://discord.gg/5TDhbDg) in #brazil channel.
+- [Quasar Brazil - Telegram Channel](https://t.me/quasarframeworkbrasil) - *Similar with #brazil channel at [Official Discord](https://chat.quasar.dev)*
+- [Quasar Russia - Telegram Channel](https://t.me/quasar_ru) - *Similar with #russkiy channel at [Official Discord](https://chat.quasar.dev)*
 
 ### Tutorials
 
@@ -54,19 +49,37 @@
 | [Patrick Monteiro](https://github.com/patrickmonteiro) | [YouTube](https://www.youtube.com/playlist?list=PLBjvYfV_TvwJlOctQ49KiOrxrFwJGqAdr)| Introduction to the Quasar Framework | v0.17.18 |
 | [Patrick Monteiro](https://github.com/patrickmonteiro) | [Article](http://viladosilicio.com.br/testes-e2e-com-cypress-no-quasar-framework)| E2E Test with Cypress in the Quasar Framework(pt-br) | v0.17.18 |
 | Danny Connell | [YouTube](https://www.youtube.com/watch?v=iml3hDVboHk&t=287s)| Quasar Framework: Create a Vue js app & deploy to web, mobile app & desktop app in 30 minutes! | v0.17.20 |
+| Danny Connell | [YouTube](https://www.youtube.com/watch?v=opmng7llVJ0&list=PLAiDzIdBfy8iu_MZrq3IPuSFcRgCQ0iL0&index=1)| Quasar Framework V1 Course Preview: Create a Real-World, Cross-Platform App | v1.0.0-beta.19 |
+| [Patrick Monteiro](https://github.com/patrickmonteiro/quasar-hello-auth) (pt-br) and [William Comnisky](https://github.com/wcomnisky/quasar-hello-auth) (en) | [website (en)](https://wcomnisky.github.io/quasar-hello-auth/) | Quasar Framework with Social Login using Hello.js | v1.0.3 |
 
-# Community App Extensions, Components and Tools
+# Community App Extensions
+
+| Name | Description |
+| --- | --- |
+| [qmodeltd](https://www.npmjs.com/package/quasar-app-extension-qmodeltd) | QModelTd is an UI app extension for Quasar that simplifies the usage of editable or selectable QTd |
+| [remote-dev-tools](https://github.com/bloodf/quasar-remote-dev-tools) | Vue remote devtools for Cordova and Electron apps made with Quasar |
+| [alpaca-forms](https://github.com/221B-io/quasar-alpaca-form-builder#readme) | Alpaca form builder built for Quasar |
+| [draggable](https://github.com/mesqueeb/quasar-app-extension-draggable) | A Quasar extension that makes elements draggable and movable with keyboard. |
+| [swipe-to-close](https://github.com/mesqueeb/quasar-app-extension-swipe-to-close/) | A Quasar Framework app extension that allows you to close dialogs by swiping. |
+| [qdatetimepicker](https://github.com/TobyMosque/app-extension-qdatetimepicker#readme) | QDatetimePicker for Quasar |
+| [qribbon](https://github.com/webnoob/app-extension-qribbon) | Customisable ribbons with a component builder. Allows ribbons at the top, corners, bottom etc. |
+| [auth-token-based](https://github.com/stefanvanherwijnen/auth-token-based) | Token based authentication functionality. |
+
+# Other Community Components and Tools
+> For older Quasar versions or not supplied through a Quasar App Extension
 
 | Name | Links | Description | Quasar |
 | --- | --- | --- | --- |
+| Quasar Apex Charts | [github](https://github.com/patrickmonteiro/quasar-apexcharts), [demo](https://quasar-apexcharts.surge.sh) | Project using Quasar framework and ApexCharts 📊 📈 📉 | v1.1.2 |
+| Quasar Barcode Reader | [github](https://github.com/patrickmonteiro/quasar-barcode-reader), [demo](https://quasar-barcode-reader.surge.sh/#/) | Base code for a code reader application:   EAN, CODE 128, CODE 39, EAN 8, UPC-A, UPC-C, I2of5, 2of5, CODE 93 e CODABAR with QuaggaJS and Quasar Framework(no dependency on cordova) | v1.1.2 |
+| Quasar QRCode Reader | [github](https://github.com/patrickmonteiro/quasar-qrcode-reader), [demo](https://quasar-qrcode-reader.surge.sh/#/) | A simple Javascript-only QRCode generator and reader (no dependency on cordova). Great for web and PWA solutions. | v1.0.6 |
+| Quasar Speech API | [github](https://github.com/patrickmonteiro/quasar-speech-api), [demo](https://quasarspeechapi.surge.sh/#/) | Example project using Speech Web API to transcribe speech into text and synthesize text into speech. | v1.0.6 |
+| QInputEx Component | [github](https://github.com/snowyu/qinputex) | The Advance Input Component for Quasar is used as single-line input box for date, time, password, color, select etc. | v1.0.0-beta.1 |
+| Quasar Snippets | [github](https://github.com/Abdelaziz18003/vscode-quasar-snippets), [Marketplace](https://marketplace.visualstudio.com/items?itemName=abdelaziz18003.quasar-snippets) | Quasar components' snippets for VSCode that can increase your productivity working on Quasar projects. | v0.17.x |
+| Quasar Steem Beneficiaries | [github](https://github.com/irelandscape/qv-steem-beneficiaries)<br/>[npm](https://www.npmjs.com/package/qv-steem-beneficiaries) | A Quasar/Vue component for easily adding beneficiaries support to your Steem dapp. | v0.17.16 |
 | Quasar calendar | [github](https://github.com/stormseed/quasar-calendar) | A full calendar display in multiple formats that accepts event data and display it in month, week, multi-day, single day and agenda views | v0.15.6 |
 | Laqu-l | [github](https://github.com/laqul/laqul/) | A complete starter kit that allows you create amazing apps that look native thanks to the Quasar Framework. Powered by an API developed in Laravel Framework using the easy GraphQL queries language. And ready to use the Google Firebase features. | v0.15.10 |
 | Quasar Cloud | [github](https://github.com/mstaack/quasar-cloud-demo) | An online file manager project (like dropbox) showing usage of axios, vuex, validation, authentication | v0.15.10 |
-| Quasar Snippets | [github](https://github.com/Abdelaziz18003/vscode-quasar-snippets), [Marketplace](https://marketplace.visualstudio.com/items?itemName=abdelaziz18003.quasar-snippets) | Quasar components' snippets for VSCode that can increase your productivity working on Quasar projects. | v0.17.x |
-| Quasar Steem Beneficiaries | [github](https://github.com/irelandscape/qv-steem-beneficiaries)<br/>[npm](https://www.npmjs.com/package/qv-steem-beneficiaries) | A Quasar/Vue component for easily adding beneficiaries support to your Steem dapp. | v0.17.16 |
-| Quasar Auth Starter | [github](https://github.com/stefanvanherwijnen/quasar-auth-starter) | Starter kit for token based authentication | v1.0.0-beta.1 |
-| QInputEx Component | [github](https://github.com/snowyu/qinputex) | The Advance Input Component for Quasar is used as single-line input box for date, time, password, color, select etc. | v1.0.0-beta.1 |
-| swipe-to-close | [github](https://github.com/mesqueeb/quasar-app-extension-swipe-to-close/) | A Quasar Framework app extension that allows you to close dialogs by swiping. | v1.0.0-beta.15
 
 # Projects Using Quasar
 
@@ -76,7 +89,7 @@
 | P.volve | [website](https://my.pvolve.com) | [Video workout subscription](https://my.pvolve.com/preview), [landing pages](https://my.pvolve.com/offer/subway), also includes weight tracking, photo upload, etc. for subscribers | v0.15.9 |
 | Brotheld | [android](https://play.google.com/store/apps/details?id=de.sopamo.brotheld), [ios](https://itunes.apple.com/de/app/brotheld/id1193619132?l=de&ls=1&mt=8) | Brotheld (Bread Hero), a german app for hobby bakers | v0.14 |
 | MyClinic | [android](https://play.google.com/store/apps/details?id=today.myclinic.mobileapp&hl=en), [ios](https://itunes.apple.com/us/app/myclinic/id1311703491?ls=1&mt=8) | Application for displaying and managing medical clinic examination room status | v0.14 |
-| Weacast | [github](https://github.com/weacast/weacast), [website](https://weacast.gitbooks.io/weacast-docs/) | Open source platform to gather, expose and make use of weather forecast data | v0.13.10 |
+| Weacast | [github](https://github.com/weacast/weacast), [website](https://weacast.github.io/weacast-docs/) | Open source platform to gather, expose and make use of weather forecast data | v0.13.10 |
 | CryptoPrice | [github](https://github.com/lmfresneda/crypto-price), [android](https://play.google.com/store/apps/details?id=com.es.cryptoprice) | An app to inform us of price (USD & EUR) of the main crypto-coins | v0.14.4 |
 | Quran App | [website](https://quran-lite.firebaseapp.com), [android](https://play.google.com/store/apps/details?id=rashidnk.quran) | Quran Lite with English translation | v0.14.4 |
 | SHUhelper | [github](https://github.com/shuopensourcecommunity/SHUhelper), [website](https://www.shuhelper.cn)| Open source university online community and toolkits | v0.14.7 |
@@ -124,7 +137,7 @@
 | Nebide | [website](https://nebide.block2100.com) | Cross-platform Nebulas smart contract IDE. | v0.16.0 |
 | Nick Zuccarelli | [website](https://nickzuccarelli.com.au) | A portfolio website for Nick Zuccarelli (a.k.a: me!) | v0.16.0 |
 | jQuizzer | [android](https://play.google.com/store/apps/details?id=org.yevlabs.jquizzer) | Simple Java 8 Quiz / Trainer App | v0.16.0 |
-| SA Email Builder | [website](https://sa-email-builder.kevingermain.com/) | Email template builder v4 | v1.0.0-beta.11 |
+| SA Email Builder | [website](https://app.emailbuilder.top/) | Email template builder responsive v5 | v1.0.0-rc.2 |
 | Boid.com | [website](https://www.boid.com) | A blockchain based social computing platform. Homepage and web/electron app are pure Quasar. | v0.16.4 |
 | Dappos Ethereum POS | [github](https://github.com/Dappos/Dappos), [website](http://dappos.app) | A Point of Sale (POS) app like Square! For Ethereum payments. Open in a Mobile wallet and receive customer's payments with an intuitive UI. | v0.17 |
 | INTI | [website](https://byinti.com) | Online white-label ticketing system with CRM and custom Applications | Latest |
@@ -155,3 +168,18 @@
 | NotaCL Note-taking like chat messages | [Android](https://play.google.com/store/apps/details?id=com.jaeven.notaclPro) | Note taking with multiple chat rooms with different colors. | 1.0.0-beta.2 |
 | Johnson Lai's Portfolio | [pwa](https://wenghan.me?q=github) | Portfolio Website for Johnson Lai. | 1.0.0-beta.11 |
 | mempal | [website](https://mempal.io) | An app that helps you to remember everything you read and learn. | v0.17.20 |
+| Agency «Day & Night» | [website](http://www.rent-poltava.com.ua/) | Apartment agency. | v1.0.0-beta |
+| Kawal Pemilu (PILPRES) | [android](https://play.google.com/store/apps/details?id=org.sholeh.kawalpemilu&rdid=org.sholeh.kawalpemilu) | Election Guard In Indonesia. | v1.0.0-beta.17 |
+| Cashier | [app](http://cashier.alensiljak.ml/), [source](https://gitlab.com/alensiljak/cashier) | An app for creating ledger/hledger transactions | 1.0.0.beta24 |
+| Exorcism | [github](https://github.com/siamx/exorcism) | Desktop wallpaper manager | 1.0.0-rc.6 |
+| SunEngine | [github](https://github.com/Dmitrij-Polyanin/SunEngine), [website](https://sunengine.site) | CMS+ site engine with blog, articles and forum functionalities. Asp.Net Core on server side. | 1.0.0-rc |
+| Timesheet | [github](https://github.com/valasek/timesheet), [website](http://timesheet.simplesw.net:8080/) | Self-hosted application to manage project reporting. Golang, Gin used on server. | 1.0.0-rc.4 |
+| Havidea | [website](https://havidea.ru) | Social network for creative people. | 1.0.0-rc.5 |
+| Stelace Heroes Platform | [github](https://github.com/stelace/heroes-platform-demo), [website](https://heroes.demo.stelace.com/s) | Open-source template featuring [Stelace platform runner](https://stelace.com) with Quasar UI and super heroes in NYC. | 1.0.0 |
+| Gas Station Gamblers: California Scratchers | [Android](https://play.google.com/store/apps/details?id=com.dizyx.scratchermathcalifornia), [website](https://gsg.dizyx.com) | The smartest way to pick a California Scratcher! | 1.0.0-beta26 |
+| issue blog | [github](https://github.com/ttop5/issue-blog), [website](https://ttop5.net/issue-blog) | A blog tool powered by GitHub issues.  | 1.0.0 |
+| 61 Financial App | [Android](https://play.google.com/store/apps/details?id=au.com.sixonefinancial.app), [iOS](https://apps.apple.com/au/app/61-financial/id1467327628) | A replica of [61 Financial Web App](https://61financial.com.au) | v1 |
+| Vugify | [github](https://github.com/Blaconix/vugify), [website](https://vugify.now.sh/) | Convert Vue HTML syntax to Pug. | v1.0.0 |
+| CuppaZee | [PWA](https://cuppazee.uk/) | A tool to help players of the Geolocation game [Munzee](https://playmunzee.com/) | v1 |
+| Prokarman Free Resume Builder | [Website](https://prokarman.com/resume-builder) | A free resume builder to craft resumes for your dream job | v1 |
+| Content Hub | [Website](https://contenthub.cloud) | Spread the word about your business everywhere online and track your impact. | v1 |
