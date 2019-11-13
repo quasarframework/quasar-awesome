@@ -185,3 +185,5 @@
 | Content Hub | [Website](https://contenthub.cloud) | Spread the word about your business everywhere online and track your impact. | v1 |
 | Gistor | [github](https://github.com/mallgroup/mal-gistor), [website](https://gistlike.pro) | Powerful UI for your Gist snippets stored on GitHub. | v1.2.x |
 | Privy | [github](https://github.com/Poeticode/Privy), [Android](https://play.google.com/store/apps/details?id=com.silentsilas.pr1vy) | An educational crypto-toolkit that steps through the math for password security, RSA keypair generation, and hashing algorithms. | 1.0.0-beta.17 |
+| LandHo | [gitlab](https://gitlab.com/riot.ai/landho), [PWA](https://landho.app) | Securely maintain your own search history across multiple search engines. | 1.0.0 |
+| Webby | [gitlab](https://gitlab.com/riot.ai/w3b3), [PWA](https://heywebby.app) | Discover a better internet.  Find and favorite Blockstack dapps | 1.2.1 |
