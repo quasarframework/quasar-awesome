@@ -149,7 +149,6 @@
 | Romi | [PWA](https://romionline.com), [Android](https://play.google.com/store/apps/details?id=com.romionline) | eCommerce applications | v0.17.9 |
 | Just Go Vote! | [website/PWA](https://justgovote.org), [ios](https://itunes.apple.com/us/app/just-go-vote/id1414331023), [android](https://play.google.com/store/apps/details?id=com.stephensuess.gotv.app) | App makes it easier for people to vote, and encourages them to do so in the upcoming mid-terms. | v0.17.17 |
 | StemQ | [stemq.io](https://stemq.io) | Questions and Answers app dedicated to STEM topics and rewarding contributors with [Steem](https://www.steem.com) cryptocurrency. | v0.17.16 |
-| Neolink | [website](http://poltava.neolink.com.ua/) | Online store. | v0.17.17 |
 | Tenpin Toolkit | [iOS](https://itunes.apple.com/app/apple-store/id1390556454?pt=119111623&mt=8), [Android](https://play.google.com/store/apps/details?id=com.tenpintoolkit.app) | App featuring a collection of tools to help tenpin bowlers and coaches develop their skills and improve their games. | v0.17.17 |
 | Trainero.com | [website](https://trainero.com), [iOS](https://itunes.apple.com/fi/app/trainerocomtrainerapp/id1439762339), [android](https://play.google.com/store/apps/details?id=com.trainero.app_trainer) | All-in-one App for a Personal Trainer with +35000 users world-wide | v0.17.18 |
 | HyperSign | [Youtube](https://www.youtube.com/watch?v=Slhwunm4oT0), [GitHub](https://github.com/vikramIde/hypersign-mobile) | Hypersign is a cryptography based SingleSignOn Solution that enables users to securely access [Web/Blockchain/Federated] applications without providing their access credentials [usernames and passwords]. | v0.13 |
@@ -187,3 +186,4 @@
 | Privy | [github](https://github.com/Poeticode/Privy), [Android](https://play.google.com/store/apps/details?id=com.silentsilas.pr1vy) | An educational crypto-toolkit that steps through the math for password security, RSA keypair generation, and hashing algorithms. | 1.0.0-beta.17 |
 | LandHo | [gitlab](https://gitlab.com/riot.ai/landho), [PWA](https://landho.app) | Securely maintain your own search history across multiple search engines. | 1.0.0 |
 | Webby | [gitlab](https://gitlab.com/riot.ai/w3b3), [PWA](https://heywebby.app) | Discover a better internet.  Find and favorite Blockstack dapps | 1.2.1 |
+| Neolink | [website](http://poltava.neolink.com.ua/) | Online store. | v1 |
