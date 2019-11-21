@@ -187,3 +187,4 @@
 | LandHo | [gitlab](https://gitlab.com/riot.ai/landho), [PWA](https://landho.app) | Securely maintain your own search history across multiple search engines. | 1.0.0 |
 | Webby | [gitlab](https://gitlab.com/riot.ai/w3b3), [PWA](https://heywebby.app) | Discover a better internet.  Find and favorite Blockstack dapps | 1.2.1 |
 | Neolink | [website](http://poltava.neolink.com.ua/) | Online store. | v1 |
+| Coloban | [website](https://www.coloban.com), [Android](https://play.google.com/store/apps/details?id=org.cordova.coloban.app), Windows, MacOS | Collaborative task manager + Messsenger: Audio and Video calls to your colleagues and friends, TODOs on the fly during conversation, Kanban, Calendar for easy tasks management, Offline mode, Multiplatform and many more! | v1
