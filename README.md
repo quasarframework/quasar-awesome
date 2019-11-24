@@ -149,7 +149,6 @@
 | Romi | [PWA](https://romionline.com), [Android](https://play.google.com/store/apps/details?id=com.romionline) | eCommerce applications | v0.17.9 |
 | Just Go Vote! | [website/PWA](https://justgovote.org), [ios](https://itunes.apple.com/us/app/just-go-vote/id1414331023), [android](https://play.google.com/store/apps/details?id=com.stephensuess.gotv.app) | App makes it easier for people to vote, and encourages them to do so in the upcoming mid-terms. | v0.17.17 |
 | StemQ | [stemq.io](https://stemq.io) | Questions and Answers app dedicated to STEM topics and rewarding contributors with [Steem](https://www.steem.com) cryptocurrency. | v0.17.16 |
-| Neolink | [website](http://poltava.neolink.com.ua/) | Online store. | v0.17.17 |
 | Tenpin Toolkit | [iOS](https://itunes.apple.com/app/apple-store/id1390556454?pt=119111623&mt=8), [Android](https://play.google.com/store/apps/details?id=com.tenpintoolkit.app) | App featuring a collection of tools to help tenpin bowlers and coaches develop their skills and improve their games. | v0.17.17 |
 | Trainero.com | [website](https://trainero.com), [iOS](https://itunes.apple.com/fi/app/trainerocomtrainerapp/id1439762339), [android](https://play.google.com/store/apps/details?id=com.trainero.app_trainer) | All-in-one App for a Personal Trainer with +35000 users world-wide | v0.17.18 |
 | HyperSign | [Youtube](https://www.youtube.com/watch?v=Slhwunm4oT0), [GitHub](https://github.com/vikramIde/hypersign-mobile) | Hypersign is a cryptography based SingleSignOn Solution that enables users to securely access [Web/Blockchain/Federated] applications without providing their access credentials [usernames and passwords]. | v0.13 |
@@ -172,7 +171,7 @@
 | Kawal Pemilu (PILPRES) | [android](https://play.google.com/store/apps/details?id=org.sholeh.kawalpemilu&rdid=org.sholeh.kawalpemilu) | Election Guard In Indonesia. | v1.0.0-beta.17 |
 | Cashier | [app](http://cashier.alensiljak.ml/), [source](https://gitlab.com/alensiljak/cashier) | An app for creating ledger/hledger transactions | 1.0.0.beta24 |
 | Exorcism | [github](https://github.com/siamx/exorcism) | Desktop wallpaper manager | 1.0.0-rc.6 |
-| SunEngine | [github](https://github.com/Dmitrij-Polyanin/SunEngine), [website](https://sunengine.site) | CMS+ site engine with blog, articles and forum functionalities. Asp.Net Core on server side. | 1.0.0-rc |
+| SunEngine | [github](https://github.com/sunengine/SunEngine), [website](https://sunengine.site) | CMS+ site engine with blog, articles and forum functionalities. Asp.Net Core on server side. | 1.2.x+ |
 | Timesheet | [github](https://github.com/valasek/timesheet), [website](http://timesheet.simplesw.net:8080/) | Self-hosted application to manage project reporting. Golang, Gin used on server. | 1.0.0-rc.4 |
 | Havidea | [website](https://havidea.ru) | Social network for creative people. | 1.0.0-rc.5 |
 | Stelace Heroes Platform | [github](https://github.com/stelace/heroes-platform-demo), [website](https://heroes.demo.stelace.com/s) | Open-source template featuring [Stelace platform runner](https://stelace.com) with Quasar UI and super heroes in NYC. | 1.0.0 |
@@ -183,3 +182,10 @@
 | CuppaZee | [PWA](https://cuppazee.uk/) | A tool to help players of the Geolocation game [Munzee](https://playmunzee.com/) | v1 |
 | Prokarman Free Resume Builder | [Website](https://prokarman.com/resume-builder) | A free resume builder to craft resumes for your dream job | v1 |
 | Content Hub | [Website](https://contenthub.cloud) | Spread the word about your business everywhere online and track your impact. | v1 |
+| Gistor | [github](https://github.com/mallgroup/mal-gistor), [website](https://gistlike.pro) | Powerful UI for your Gist snippets stored on GitHub. | v1.2.x |
+| Privy | [github](https://github.com/Poeticode/Privy), [Android](https://play.google.com/store/apps/details?id=com.silentsilas.pr1vy) | An educational crypto-toolkit that steps through the math for password security, RSA keypair generation, and hashing algorithms. | 1.0.0-beta.17 |
+| LandHo | [gitlab](https://gitlab.com/riot.ai/landho), [PWA](https://landho.app) | Securely maintain your own search history across multiple search engines. | 1.0.0 |
+| Webby | [gitlab](https://gitlab.com/riot.ai/w3b3), [PWA](https://heywebby.app) | Discover a better internet.  Find and favorite Blockstack dapps | 1.2.1 |
+| Neolink | [website](http://poltava.neolink.com.ua/) | Online store. | v1 |
+| Coloban | [website](https://www.coloban.com), [Android](https://play.google.com/store/apps/details?id=org.cordova.coloban.app), Windows, MacOS | Collaborative task manager + Messsenger: Audio and Video calls to your colleagues and friends, TODOs on the fly during conversation, Kanban, Calendar for easy tasks management, Offline mode, Multiplatform and many more! | v1
+| Growth Journal | [website](https://growthjournal.app), [Android](https://play.google.com/store/apps/details?id=growthjournal.app), Web | Growth Journal: Become a better you. | 1.2.6
