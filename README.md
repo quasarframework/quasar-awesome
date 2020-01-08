@@ -64,6 +64,7 @@
 | [qdatetimepicker](https://github.com/TobyMosque/app-extension-qdatetimepicker#readme) | QDatetimePicker for Quasar |
 | [qribbon](https://github.com/webnoob/app-extension-qribbon) | Customisable ribbons with a component builder. Allows ribbons at the top, corners, bottom etc. |
 | [auth-token-based](https://github.com/stefanvanherwijnen/auth-token-based) | Token based authentication functionality. |
+| [system-environment-variables](https://github.com/marcorivm/quasar-app-extension-system-environment-variables) | Loading of system environment variables for deploying on CI environment. |
 
 # Other Community Components and Tools
 > For older Quasar versions or not supplied through a Quasar App Extension
