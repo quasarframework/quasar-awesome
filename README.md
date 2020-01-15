@@ -196,3 +196,4 @@
 | Vertical Kit | [PWA](https://www.vertical-kit.com/en/) | Climbing Ropes catalog. Find your perfect rope. | 1.5.4 |
 | MicroIoT Studio | [github](https://github.com/MicroIoT/studio), [website](https://www.microiot.top) | MicroIoT Platform web UI management tool | v1.5.0 |
 | Simulstore | [website](https://www.simulstore.com) | Simulstore is an Industrial AppStore. Tools for Engineering Calculations and Digital Twin Applications | v1.5.5 |
+| Api Doc | [github](https://github.com/joaomede/Api-Doc) | An open source Crud API documenter | v1.5.11 |
