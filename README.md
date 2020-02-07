@@ -67,6 +67,7 @@
 | [system-environment-variables](https://github.com/marcorivm/quasar-app-extension-system-environment-variables) | Loading of system environment variables for deploying on CI environment. |
 | [easy-forms](https://quasar-easy-forms.web.app) | A component to easily generate (Quasar) forms by only defining a "schema" object. |
 | [easy-tables](https://quasar-easy-tables.web.app) | A component to easily generate (Quasar) tables by only defining a "schema" object. (based on the same schema as `easy-forms`) |
+| [vuelidate-rules](https://github.com/cuatromedios/quasar-app-extension-vuelidate-rules) | A Quasar Framework app extension that allows you to use [Vuelidate](https://vuelidate.js.org/) methods as **internal** Quasar rules in fields of a form
 
 # Other Community Components and Tools
 > For older Quasar versions or not supplied through a Quasar App Extension
