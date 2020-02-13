@@ -67,7 +67,9 @@
 | [system-environment-variables](https://github.com/marcorivm/quasar-app-extension-system-environment-variables) | Loading of system environment variables for deploying on CI environment. |
 | [easy-forms](https://quasar-easy-forms.web.app) | A component to easily generate (Quasar) forms by only defining a "schema" object. |
 | [easy-tables](https://quasar-easy-tables.web.app) | A component to easily generate (Quasar) tables by only defining a "schema" object. (based on the same schema as `easy-forms`) |
-| [vuelidate-rules](https://github.com/cuatromedios/quasar-app-extension-vuelidate-rules) | A Quasar Framework app extension that allows you to use [Vuelidate](https://vuelidate.js.org/) methods as **internal** Quasar rules in fields of a form
+| [vuelidate-rules](https://github.com/cuatromedios/quasar-app-extension-vuelidate-rules) | A Quasar Framework app extension that allows you to use [Vuelidate](https://vuelidate.js.org/) methods as **internal** Quasar rules in fields of a form |
+| [QGrid](https://github.com/pratik227/quasar-qgrid) | QGrid is a Quasar App Extension. It allows you to filter data for each column, Drag and Drop Rows and also allows you to filter data using header filters. |
+| [QHierarchy](https://github.com/pratik227/quasar-qhierarchy) | QHierarchy is a Quasar App Extension. It allows you to display data in hierarchy structure on your page. |
 
 # Other Community Components and Tools
 > For older Quasar versions or not supplied through a Quasar App Extension
