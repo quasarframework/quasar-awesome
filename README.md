@@ -51,6 +51,7 @@
 | Danny Connell | [YouTube](https://www.youtube.com/watch?v=iml3hDVboHk&t=287s)| Quasar Framework: Create a Vue js app & deploy to web, mobile app & desktop app in 30 minutes! | v0.17.20 |
 | Danny Connell | [YouTube](https://www.youtube.com/watch?v=opmng7llVJ0&list=PLAiDzIdBfy8iu_MZrq3IPuSFcRgCQ0iL0&index=1)| Quasar Framework V1 Course Preview: Create a Real-World, Cross-Platform App | v1.0.0-beta.19 |
 | [Patrick Monteiro](https://github.com/patrickmonteiro/quasar-hello-auth) (pt-br) and [William Comnisky](https://github.com/wcomnisky/quasar-hello-auth) (en) | [website (en)](https://wcomnisky.github.io/quasar-hello-auth/) | Quasar Framework with Social Login using Hello.js | v1.0.3 |
+| [Patrick Monteiro](https://github.com/patrickmonteiro/quasar-hello-auth) | [YouTube](https://www.youtube.com/watch?v=wTaV4qXyzOg) | Building a multiplatform application with Quasar Framework. (pt-br) | v1.0.5 |
 
 # Community App Extensions
 
@@ -76,6 +77,7 @@
 
 | Name | Links | Description | Quasar |
 | --- | --- | --- | --- |
+| Quasar 3D Model | [github](https://github.com/patrickmonteiro/quasar-3d-model), [demo](http://quasar3d.surge.sh/) | Sample application with a 3D file renderer (.stl, .obj, .json, .dae, .ply, .gltf) | v1.1.2 |
 | Quasar Apex Charts | [github](https://github.com/patrickmonteiro/quasar-apexcharts), [demo](https://quasar-apexcharts.surge.sh) | Project using Quasar framework and ApexCharts 📊 📈 📉 | v1.1.2 |
 | Quasar Barcode Reader | [github](https://github.com/patrickmonteiro/quasar-barcode-reader), [demo](https://quasar-barcode-reader.surge.sh/#/) | Base code for a code reader application:   EAN, CODE 128, CODE 39, EAN 8, UPC-A, UPC-C, I2of5, 2of5, CODE 93 e CODABAR with QuaggaJS and Quasar Framework(no dependency on cordova) | v1.1.2 |
 | Quasar QRCode Reader | [github](https://github.com/patrickmonteiro/quasar-qrcode-reader), [demo](https://quasar-qrcode-reader.surge.sh/#/) | A simple Javascript-only QRCode generator and reader (no dependency on cordova). Great for web and PWA solutions. | v1.0.6 |
