@@ -22,6 +22,8 @@
 - [Official Documentation](https://quasar.dev)
 - [Quasar GitHub Repo](https://github.com/quasarframework/quasar)
 - [Quasar Release Notes](https://github.com/quasarframework/quasar/releases)
+- [Official Blog](https://blog.quasar.dev/)
+- [Official Video Tutorials](https://quasar.dev/video-tutorials)
 
 ### External Resources
 > These resources have not been created by Quasar Team, nor do we maintain them or financially benefit from them.
@@ -31,6 +33,7 @@
 
 ### Official Community
 
+- [Official Facebook](https://www.facebook.com/QuasarFramework)
 - [Official Twitter](https://twitter.com/quasarframework)
 - [Official Chat Room - Discord](https://chat.quasar.dev)
 - [Official Forum](https://forum.quasar.dev/)
@@ -43,15 +46,41 @@
 
 ### Tutorials
 
+#### Video Tutorials
+
+| Author | Links | Description | Quasar |
+| --- | --- | --- | --- |
+| [Patrick Monteiro](https://github.com/patrickmonteiro) | [YouTube](https://www.youtube.com/playlist?list=PLBjvYfV_TvwJlOctQ49KiOrxrFwJGqAdr)| Introduction to the Quasar Framework | v0.17.18 |
+| Danny Connell | [YouTube](https://www.youtube.com/watch?v=iml3hDVboHk&t=287s)| Quasar Framework: Create a Vue js app & deploy to web, mobile app & desktop app in 30 minutes! | v0.17.20 |
+| Danny Connell | [YouTube](https://www.youtube.com/watch?v=opmng7llVJ0&list=PLAiDzIdBfy8iu_MZrq3IPuSFcRgCQ0iL0&index=1)| Quasar Framework V1 Course Preview: Create a Real-World, Cross-Platform App | v1.0.0-beta.19 |
+| [Patrick Monteiro](https://github.com/patrickmonteiro/quasar-hello-auth) | [YouTube](https://www.youtube.com/watch?v=wTaV4qXyzOg) | Building a multiplatform application with Quasar Framework. (pt-br) | v1.0.5 |
+| [Program With Eric](https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw) | [YouTube serie](https://www.youtube.com/watch?v=C-v262YhYvw&list=PL-lxoPS_1OXXBGVdJuBkjCn3qZPYeyoYD) | Quasar Vue.js Tutorial | |
+| [Tobias Mesquita](https://dev.to/tobymosque) | [Medium](https://dev.to/quasar/quasar-ssr-using-cookies-with-other-libs-services-4nkl) | Quasar - SSR and using cookies ||
+| [Danny Connell](https://www.youtube.com/channel/UC6eR_ndNgaTeE5t2Ud4ZiHw) | [YouTube](https://www.youtube.com/watch?v=fj1yog9KB3Q&list=PLAiDzIdBfy8gw5EKbHpNRYBZlpN4yQT4o) | Quasar Framework: Icons & Splashscreens for Web, iOS, Android, Mac & WIndows apps Instantly! ||
+| [Danny Connell](https://www.youtube.com/channel/UC6eR_ndNgaTeE5t2Ud4ZiHw) | [YouTube serie](https://www.youtube.com/watch?v=opmng7llVJ0&list=PLAiDzIdBfy8iu_MZrq3IPuSFcRgCQ0iL0) | Quasar Framework: Vue.js Cross Platform App ||
+| [Danny Connell](https://www.youtube.com/channel/UC6eR_ndNgaTeE5t2Ud4ZiHw) | [YouTube serie](https://www.youtube.com/watch?v=Kfg789g_UTg&list=PLAiDzIdBfy8iZTjdu3mjNglucWadtLG1v) |Quasar Framework: Vue.js Chat App - with Vuex & Firebase (for Web, Mobile & Desktop) ||
+| [Danny Connell](https://www.youtube.com/channel/UC6eR_ndNgaTeE5t2Ud4ZiHw) | [YouTube serie](https://www.youtube.com/watch?v=JucCBZfeKqM&list=PLAiDzIdBfy8jwqO1vJkWvBWFA0dwD7K_O) | Quasar Framework: Animated Winner Picker App! ||
+| [Andre Madarang](https://www.youtube.com/channel/UCtb40EQj2inp8zuaQlLx3iQ) | [YouTube](https://www.youtube.com/watch?v=Ud8jS3VlVHw) | Quasar Framework for Vue.js ||
+| [codeguru](https://www.youtube.com/channel/UCyNpa6WDH4i2lEznoju1lMg) | [YouTube serie](https://www.youtube.com/watch?v=qxn7VdC8iCI&list=PLAl8os33KyOVpzfYznpguV_5euzKJ626V) | Quasar framework - Building production web app using GraphQL, AWS Amplify, and Quasar ||
+| [Impeccable Ninja](https://www.youtube.com/channel/UC9Vn7Ye-wJmH97IqPHIcSig) | [YouTube](https://www.youtube.com/watch?v=GVOsLNgS2Gg&feature=youtu.be) | Sign and align Cordova apps created with Vue and Quasar ||
+
+Do not forget to watch official [video tutorials](https://quasar.dev/video-tutorials).
+
+#### Articles
+
 | Author | Links | Description | Quasar |
 | --- | --- | --- | --- |
 | [hawkeye64](https://github.com/hawkeye64) | [Medium](https://medium.com/quasar-framework/building-an-electron-file-explorer-with-quasar-and-vue-7bf94f1bbf6), [github](https://github.com/hawkeye64/electron-quasar-file-explorer) | Building an Electron File Explorer with Quasar (and Vue) | v0.17.18 |
-| [Patrick Monteiro](https://github.com/patrickmonteiro) | [YouTube](https://www.youtube.com/playlist?list=PLBjvYfV_TvwJlOctQ49KiOrxrFwJGqAdr)| Introduction to the Quasar Framework | v0.17.18 |
 | [Patrick Monteiro](https://github.com/patrickmonteiro) | [Article](http://viladosilicio.com.br/testes-e2e-com-cypress-no-quasar-framework)| E2E Test with Cypress in the Quasar Framework(pt-br) | v0.17.18 |
-| Danny Connell | [YouTube](https://www.youtube.com/watch?v=iml3hDVboHk&t=287s)| Quasar Framework: Create a Vue js app & deploy to web, mobile app & desktop app in 30 minutes! | v0.17.20 |
-| Danny Connell | [YouTube](https://www.youtube.com/watch?v=opmng7llVJ0&list=PLAiDzIdBfy8iu_MZrq3IPuSFcRgCQ0iL0&index=1)| Quasar Framework V1 Course Preview: Create a Real-World, Cross-Platform App | v1.0.0-beta.19 |
 | [Patrick Monteiro](https://github.com/patrickmonteiro/quasar-hello-auth) (pt-br) and [William Comnisky](https://github.com/wcomnisky/quasar-hello-auth) (en) | [website (en)](https://wcomnisky.github.io/quasar-hello-auth/) | Quasar Framework with Social Login using Hello.js | v1.0.3 |
-| [Patrick Monteiro](https://github.com/patrickmonteiro/quasar-hello-auth) | [YouTube](https://www.youtube.com/watch?v=wTaV4qXyzOg) | Building a multiplatform application with Quasar Framework. (pt-br) | v1.0.5 |
+| [Navicstein Rotciv](https://dev.to/navicsteinr) | [dev.to](https://dev.to/navicsteinr/deploying-an-app-from-gitlab-to-heroku-using-the-quasar-framework-and-sailsjs-3d00) | Deploying an app from Gitlab to Heroku using the Quasar framework and Sailsjs ||
+| [Jeff Galbraith](https://dev.to/hawkeye64) | [dev.to](https://dev.to/quasar/publish-your-quasar-spa-on-github-io-with-history-mode-20h2) | Publish your Quasar SPA on Github.io with History Mode ||
+| [Xkonti](https://dev.to/xkonti) | [dev.to](https://dev.to/xkonti/creating-quasar-framework-project-with-typescript-support-51ge) | Creating Quasar Framework project with Typescript support ||
+| [Pratik Patel](https://medium.com/@pratikpatel_60309) | [Medium](https://medium.com/t/@pratikpatel_60309/adding-charts-in-quasar-4ffecaf33933) | Adding Charts in Quasar ||
+| [Pratik Patel](https://medium.com/@pratikpatel_60309) | [Medium](https://medium.com/t/@pratikpatel_60309/adding-charts-in-quasar-using-umd-unified-module-definition-fc2015648b3a) | Adding Charts in Quasar using UMD (Unified Module Definition) ||
+| [nothingismagick](https://dev.to/nothingismagick) | [Medium](https://dev.to/tauri/use-sass-variables-in-javascript-583o) | Use Sass Variables in Javascript  ||
+
+Do not forget to read an official [blog](https://blog.quasar.dev/).
 
 # Community App Extensions
 
@@ -180,7 +209,7 @@
 | Cashier | [app](http://cashier.alensiljak.ml/), [source](https://gitlab.com/alensiljak/cashier) | An app for creating ledger/hledger transactions | 1.0.0.beta24 |
 | Exorcism | [github](https://github.com/siamx/exorcism) | Desktop wallpaper manager | 1.0.0-rc.6 |
 | SunEngine | [github](https://github.com/sunengine/SunEngine), [website](https://sunengine.site) | CMS+ site engine with blog, articles and forum functionalities. Asp.Net Core on server side. | 1.2.x+ |
-| Timesheet | [github](https://github.com/valasek/timesheet), [website](http://timesheet.simplesw.net:8080/) | Self-hosted application to manage project reporting. Golang, Gin used on server. | 1.0.0-rc.4 |
+| Timesheet | [github](https://github.com/valasek/timesheet), [website](http://timesheet.simplesw.net:8080/) | Self-hosted application to manage project reporting. Golang, Gin used on server. | 1.9.2 |
 | Havidea | [website](https://havidea.ru) | Social network for creative people. | 1.0.0-rc.5 |
 | Stelace Heroes Platform | [github](https://github.com/stelace/heroes-platform-demo), [website](https://heroes.demo.stelace.com/s) | Open-source template featuring [Stelace platform runner](https://stelace.com) with Quasar UI and super heroes in NYC. | 1.0.0 |
 | Gas Station Gamblers: California Scratchers | [Android](https://play.google.com/store/apps/details?id=com.dizyx.scratchermathcalifornia), [website](https://gsg.dizyx.com) | The smartest way to pick a California Scratcher! | 1.0.0-beta26 |
