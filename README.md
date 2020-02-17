@@ -122,6 +122,7 @@ Do not forget to read an official [blog](https://blog.quasar.dev/).
 
 | Name | Links | Description | Quasar |
 | --- | --- | --- | --- |
+| Quasar CRM Admin | [github](https://github.com/mayank091193/quasar-admin-crm), [website](https://quasar-admin-crm-template.netlify.com/) | A free and beautiful Quasar template for CRM needs. | v1.8.5 |
 | Alighieri | [github](https://github.com/zuck/alighieri/), [website](https://zuck.github.io/alighieri) | A distraction-free writer tool | v0.14 |
 | P.volve | [website](https://my.pvolve.com) | [Video workout subscription](https://my.pvolve.com/preview), [landing pages](https://my.pvolve.com/offer/subway), also includes weight tracking, photo upload, etc. for subscribers | v0.15.9 |
 | Brotheld | [android](https://play.google.com/store/apps/details?id=de.sopamo.brotheld), [ios](https://itunes.apple.com/de/app/brotheld/id1193619132?l=de&ls=1&mt=8) | Brotheld (Bread Hero), a german app for hobby bakers | v0.14 |
