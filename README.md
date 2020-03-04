@@ -107,6 +107,7 @@ Do not forget to read an official [blog](https://blog.quasar.dev/).
 
 | Name | Links | Description | Quasar |
 | --- | --- | --- | --- |
+| Quasar i18n | [github](https://github.com/tomers/quasar-i18n-example), [demo](http://quasar-i18.surge.sh/) | An app for demonstration of i18n (Internationalization and localization) in Quasar Framework | v1.9.6 |
 | Quasar 3D Model | [github](https://github.com/patrickmonteiro/quasar-3d-model), [demo](http://quasar3d.surge.sh/) | Sample application with a 3D file renderer (.stl, .obj, .json, .dae, .ply, .gltf) | v1.1.2 |
 | Quasar Apex Charts | [github](https://github.com/patrickmonteiro/quasar-apexcharts), [demo](https://quasar-apexcharts.surge.sh) | Project using Quasar framework and ApexCharts 📊 📈 📉 | v1.1.2 |
 | Quasar Barcode Reader | [github](https://github.com/patrickmonteiro/quasar-barcode-reader), [demo](https://quasar-barcode-reader.surge.sh/#/) | Base code for a code reader application:   EAN, CODE 128, CODE 39, EAN 8, UPC-A, UPC-C, I2of5, 2of5, CODE 93 e CODABAR with QuaggaJS and Quasar Framework(no dependency on cordova) | v1.1.2 |
