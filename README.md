@@ -100,6 +100,7 @@ Do not forget to read an official [blog](https://blog.quasar.dev/).
 | [vuelidate-rules](https://github.com/cuatromedios/quasar-app-extension-vuelidate-rules) | A Quasar Framework app extension that allows you to use [Vuelidate](https://vuelidate.js.org/) methods as **internal** Quasar rules in fields of a form |
 | [QGrid](https://github.com/pratik227/quasar-qgrid) | QGrid is a Quasar App Extension. It allows you to filter data for each column, Drag and Drop Rows and also allows you to filter data using header filters. |
 | [QHierarchy](https://github.com/pratik227/quasar-qhierarchy) | QHierarchy is a Quasar App Extension. It allows you to display data in hierarchy structure on your page. |
+| [QDraggableTree](https://github.com/mayank091193/quasar-draggable-tree) | QDraggableTree is a Quasar Framework app extension that allows you to drag and drop the nodes in the Quasar QTree |
 
 # Other Community Components and Tools
 > For older Quasar versions or not supplied through a Quasar App Extension
