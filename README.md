@@ -236,3 +236,4 @@ Do not forget to read an official [blog](https://blog.quasar.dev/).
 | Simulstore | [website](https://www.simulstore.com) | Simulstore is an Industrial AppStore. Tools for Engineering Calculations and Digital Twin Applications | v1.5.5 |
 | Api Doc | [github](https://github.com/joaomede/Api-Doc) | An open source Crud API documenter | v1.5.11 |
 | SAM9000 APM | [PWA](https://www.sam9000.com) | Project Management, File Sharing, Document and Email Management AI Powered | v1.5+ |
+| Learn music theory with Sonid | [WEB](https://sonid.app), [iOS](https://apps.apple.com/us/app/sonid/id1490221762?ls=1), [Android](https://play.google.com/store/apps/details?id=org.stroopwafel.music.app) | Easily learn music theory in a fun a structured manner! | v1.5+ |
