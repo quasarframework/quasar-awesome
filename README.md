@@ -79,6 +79,8 @@ Do not forget to watch official [video tutorials](https://quasar.dev/video-tutor
 | [Pratik Patel](https://medium.com/@pratikpatel_60309) | [Medium](https://medium.com/t/@pratikpatel_60309/adding-charts-in-quasar-4ffecaf33933) | Adding Charts in Quasar ||
 | [Pratik Patel](https://medium.com/@pratikpatel_60309) | [Medium](https://medium.com/t/@pratikpatel_60309/adding-charts-in-quasar-using-umd-unified-module-definition-fc2015648b3a) | Adding Charts in Quasar using UMD (Unified Module Definition) ||
 | [nothingismagick](https://dev.to/nothingismagick) | [Medium](https://dev.to/tauri/use-sass-variables-in-javascript-583o) | Use Sass Variables in Javascript  ||
+| [farwish](https://cnblogs.com/farwish) | [Article](https://www.cnblogs.com/farwish/p/12097067.html) | Quasar BEX preview guide (Chinese)  ||
+| [farwish](https://cnblogs.com/farwish) | [Article](https://www.cnblogs.com/farwish/p/11980595.html) | Deploy Quasar SSR combine with pm2 and Nginx for proxy (Chinese)  ||
 
 Do not forget to read an official [blog](https://blog.quasar.dev/).
 
@@ -238,3 +240,5 @@ Do not forget to read an official [blog](https://blog.quasar.dev/).
 | Api Doc | [github](https://github.com/joaomede/Api-Doc) | An open source Crud API documenter | v1.5.11 |
 | SAM9000 APM | [PWA](https://www.sam9000.com) | Project Management, File Sharing, Document and Email Management AI Powered | v1.5+ |
 | Learn music theory with Sonid | [WEB](https://sonid.app), [iOS](https://apps.apple.com/us/app/sonid/id1490221762?ls=1), [Android](https://play.google.com/store/apps/details?id=org.stroopwafel.music.app) | Easily learn music theory in a fun a structured manner! | v1.5+ |
+| Quacker | [github](https://github.com/farwish/quacker) | Browser Extension to clean website ADs | v1.0.0+ |
+| ChaoXinDong | [SSR](http://www.chaoxindong.com) | Beauty picture lovers community | v1.9.9 |
