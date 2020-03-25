@@ -95,7 +95,7 @@ Do not forget to read an official [blog](https://blog.quasar.dev/).
 | [swipe-to-close](https://github.com/mesqueeb/quasar-app-extension-swipe-to-close/) | A Quasar Framework app extension that allows you to close dialogs by swiping. |
 | [qdatetimepicker](https://github.com/TobyMosque/app-extension-qdatetimepicker#readme) | QDatetimePicker for Quasar |
 | [qribbon](https://github.com/webnoob/app-extension-qribbon) | Customisable ribbons with a component builder. Allows ribbons at the top, corners, bottom etc. |
-| [auth-token-based](https://github.com/stefanvanherwijnen/quasar-app-extension-auth-token-based) | Token based authentication using the Vuex store with basic login, registration and password reset pages. |
+| [http-authentication](https://github.com/stefanvanherwijnen/quasar-app-extension-http-authentication) | HTTP authentication using the Vuex store with basic login, registration and password reset pages. |
 | [system-environment-variables](https://github.com/marcorivm/quasar-app-extension-system-environment-variables) | Loading of system environment variables for deploying on CI environment. |
 | [easy-forms](https://quasar-easy-forms.web.app) | A component to easily generate (Quasar) forms by only defining a "schema" object. |
 | [easy-tables](https://quasar-easy-tables.web.app) | A component to easily generate (Quasar) tables by only defining a "schema" object. (based on the same schema as `easy-forms`) |
