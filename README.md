@@ -103,6 +103,7 @@ Do not forget to read an official [blog](https://blog.quasar.dev/).
 | [QGrid](https://github.com/pratik227/quasar-qgrid) | QGrid is a Quasar App Extension. It allows you to filter data for each column, Drag and Drop Rows and also allows you to filter data using header filters. |
 | [QHierarchy](https://github.com/pratik227/quasar-qhierarchy) | QHierarchy is a Quasar App Extension. It allows you to display data in hierarchy structure on your page. |
 | [QDraggableTree](https://github.com/mayank091193/quasar-draggable-tree) | QDraggableTree is a Quasar Framework app extension that allows you to drag and drop the nodes in the Quasar QTree |
+| [APIWrapper](https://github.com/RobertoLangarica/quasar-app-extension-api-wrapper) | An out of the box API client that wrap [axios](https://github.com/axios/axios) with common features like: Vuex store integration, masive requests, homogeneous responses, concurrency...|
 
 # Other Community Components and Tools
 > For older Quasar versions or not supplied through a Quasar App Extension
