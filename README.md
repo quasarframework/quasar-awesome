@@ -5,15 +5,17 @@
 
 > A list of awesome things related to Quasar
 
-- [Resources](#Resources)
-    - [Official Resources](#Official-Resources)
-    - [External Resources](#External-Resources)
-    - [Official Community](#Official-Community)
-    - [Local Communities](#Local-Communities)
-    - [Tutorials](#Tutorials)
-- [Community App Extensions](#Community-App-Extensions)
-- [Other Community Components and Tools](#Other-Community-Components-and-Tools)
-- [Projects Using Quasar](#Projects-Using-Quasar)
+- [Resources](#resources)
+    - [Official Resources](#official-resources)
+    - [External Resources](#external-resources)
+    - [Official Community](#official-community)
+    - [Local Communities](#local-communities)
+    - [Tutorials](#tutorials)
+      - [Video Tutorials](#video-tutorials)
+      - [Articles](#articles)
+- [Community App Extensions](#community-app-extensions)
+- [Other Community Components and Tools](#other-community-components-and-tools)
+- [Projects Using Quasar](#projects-using-quasar)
 
 # Resources
 
@@ -110,6 +112,7 @@ Do not forget to read an official [blog](https://blog.quasar.dev/).
 
 | Name | Links | Description | Quasar |
 | --- | --- | --- | --- |
+| Quasar Tiptap | [github](https://github.com/donotebase/quasar-tiptap), [demo](https://donotebase.github.io/quasar-tiptap) | A modern WYSIWYG rich-text editor built on top of tiptap and Quasar Framework for Vue.js. | v1.9.14 |
 | Quasar Geolocation Example | [github](https://github.com/tomers/quasar-geolocation-example), [demo](https://quasar-geolocation-example.surge.sh/) | Sample app to demonstrate usage of geolocation with Quasar Framework | v1.9.8 |
 | Quasar 3D Model | [github](https://github.com/patrickmonteiro/quasar-3d-model), [demo](http://quasar3d.surge.sh/) | Sample application with a 3D file renderer (.stl, .obj, .json, .dae, .ply, .gltf) | v1.1.2 |
 | Quasar Apex Charts | [github](https://github.com/patrickmonteiro/quasar-apexcharts), [demo](https://quasar-apexcharts.surge.sh) | Project using Quasar framework and ApexCharts 📊 📈 📉 | v1.1.2 |
