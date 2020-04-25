@@ -247,3 +247,4 @@ Do not forget to read an official [blog](https://blog.quasar.dev/).
 | Quacker | [github](https://github.com/farwish/quacker) | Browser Extension to clean website ADs | v1.0.0+ |
 | ChaoXinDong | [SSR](http://www.chaoxindong.com) | Beauty picture lovers community | v1.9.9 |
 | Poker2win | [SPA](https://poker2win.club) | Ethereum Dapp poker game for bet, i18n support | v1.6.0+ |
+| Dashblocks Template | [github](https://github.com/slanatech/dashblocks-template), [website](https://slanatech.github.io/dashblocks-template) | A Free and Open Source Quasar Material Admin Template focusing on beautiful Dashboards and In-App Analytics | v1 |
