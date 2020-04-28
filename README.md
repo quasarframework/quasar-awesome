@@ -248,3 +248,4 @@ Do not forget to read an official [blog](https://blog.quasar.dev/).
 | ChaoXinDong | [SSR](http://www.chaoxindong.com) | Beauty picture lovers community | v1.9.9 |
 | Poker2win | [SPA](https://poker2win.club) | Ethereum Dapp poker game for bet, i18n support | v1.6.0+ |
 | Dashblocks Template | [github](https://github.com/slanatech/dashblocks-template), [website](https://slanatech.github.io/dashblocks-template) | A Free and Open Source Quasar Material Admin Template focusing on beautiful Dashboards and In-App Analytics | v1 |
+| Github Method | [github](https://github.com/cartovarc/github-method), [website](https://github-method.web.app/) | Cool habit tracker based on Github concept | v1 |
