@@ -251,3 +251,4 @@ Do not forget to read an official [blog](https://blog.quasar.dev/).
 | Dashblocks Template | [github](https://github.com/slanatech/dashblocks-template), [website](https://slanatech.github.io/dashblocks-template) | A Free and Open Source Quasar Material Admin Template focusing on beautiful Dashboards and In-App Analytics | v1 |
 | Github Method | [github](https://github.com/cartovarc/github-method), [website](https://github-method.web.app/) | Cool habit tracker based on Github concept | v1 |
 | Afterman | [github](https://github.com/itsalb3rt/afterman) | Create beutiful docs in markdown and HTML from postman collection | v1 |
+| Offso | [SSR](https://www.offso.com) | Beautiful search application user interface | v1.9.0+ |
