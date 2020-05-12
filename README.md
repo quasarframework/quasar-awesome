@@ -252,3 +252,4 @@ Do not forget to read an official [blog](https://blog.quasar.dev/).
 | Github Method | [github](https://github.com/cartovarc/github-method), [website](https://github-method.web.app/) | Cool habit tracker based on Github concept | v1 |
 | Afterman | [github](https://github.com/itsalb3rt/afterman) | Create beutiful docs in markdown and HTML from postman collection | v1 |
 | Offso | [SSR](https://www.offso.com) | Beautiful search application user interface | v1.9.0+ |
+| Fotrino | [github](https://github.com/michaelmolino/fotrino-frontend), [website](https://www.fotrino.com) | Photo gallery | v1.11.1 |
