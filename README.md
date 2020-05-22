@@ -254,3 +254,4 @@ Do not forget to read an official [blog](https://blog.quasar.dev/).
 | Afterman | [github](https://github.com/itsalb3rt/afterman) | Create beutiful docs in markdown and HTML from postman collection | v1 |
 | Offso | [SSR](https://www.offso.com) | Beautiful search application user interface | v1.9.0+ |
 | Fotrino | [github](https://github.com/michaelmolino/fotrino-frontend), [website](https://www.fotrino.com) | Photo gallery | v1.11.1 |
+| 31010 | [SSR](https://www.31010.cn) | Cryptocurrency market quant user interface | v1.11.3+ |
