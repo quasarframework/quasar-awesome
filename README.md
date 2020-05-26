@@ -257,3 +257,4 @@ Do not forget to read an official [blog](https://blog.quasar.dev/).
 | 31010 | [SSR](https://www.31010.cn) | Cryptocurrency market quant user interface | v1.11.3+ |
 | @winwin/hexo-editor | [github](https://github.com/YuJianghao/winwin-hexo-editor), [website](https://yujianghao.github.io/winwin-hexo-editor/) [demo](http://hexoeditor.demo.yujianghao.cn/)| An online editor for Hexo blog. | v1.8.6 |
 | The COVID-19 Game | [Android](https://play.google.com/store/apps/details?id=com.customautosys.covidgame), [Website](https://customautosys.com/covidgame), [Snap](https://snapcraft.io/covidgame/listing), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/the-covid-19-game) | Fight the COVID-19 infection with your white blood cells! | v1 |
+| Groovechat.fm | [website](https://groovechat.fm/) | A collaborative listening app for Spotify, alowing several people to listen to a playlist at the same time. | v1.11.3 |
