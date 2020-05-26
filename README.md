@@ -256,3 +256,4 @@ Do not forget to read an official [blog](https://blog.quasar.dev/).
 | Fotrino | [github](https://github.com/michaelmolino/fotrino-frontend), [website](https://www.fotrino.com) | Photo gallery | v1.11.1 |
 | 31010 | [SSR](https://www.31010.cn) | Cryptocurrency market quant user interface | v1.11.3+ |
 | @winwin/hexo-editor | [github](https://github.com/YuJianghao/winwin-hexo-editor), [website](https://yujianghao.github.io/winwin-hexo-editor/) [demo](http://hexoeditor.demo.yujianghao.cn/)| An online editor for Hexo blog. | v1.8.6 |
+| Groovechat.fm | [website](https://groovechat.fm/) | A collaborative listening app for Spotify, alowing several people to listen to a playlist at the same time. | v1.11.3 |
