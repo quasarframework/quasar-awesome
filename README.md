@@ -239,7 +239,7 @@ Do not forget to read an official [blog](https://blog.quasar.dev/).
 | Neolink | [website](http://poltava.neolink.com.ua/) | Online store. | v1 |
 | Coloban | [website](https://www.coloban.com), [Android](https://play.google.com/store/apps/details?id=org.cordova.coloban.app), Windows, MacOS | Collaborative task manager + Messsenger: Audio and Video calls to your colleagues and friends, TODOs on the fly during conversation, Kanban, Calendar for easy tasks management, Offline mode, Multiplatform and many more! | v1
 | Growth Journal | [website](https://growthjournal.app), [Android](https://play.google.com/store/apps/details?id=growthjournal.app), Web | Growth Journal: Become a better you. | 1.2.6
-| KetoShare | [Android](https://play.google.com/store/apps/details?id=com.customautosys.ketoshare), [website](https://customautosys.com/ketoshare) | A recipe and eatery sharing app for the Ketogenic dieting community, especially in Singapore. | v1 |
+| KetoShare | [Android](https://play.google.com/store/apps/details?id=com.customautosys.ketoshare), [website](https://customautosys.com/ketoshare) | A recipe and eatery sharing app for the Ketogenic dieting community, especially in Singapore. | v1.11.1 |
 | Vertical Kit | [PWA](https://www.vertical-kit.com/en/) | Climbing Ropes catalog. Find your perfect rope. | 1.5.4 |
 | MicroIoT Studio | [github](https://github.com/MicroIoT/studio), [website](https://www.microiot.top) | MicroIoT Platform web UI management tool | v1.5.0 |
 | Simulstore | [website](https://www.simulstore.com) | Simulstore is an Industrial AppStore. Tools for Engineering Calculations and Digital Twin Applications | v1.5.5 |
@@ -256,5 +256,5 @@ Do not forget to read an official [blog](https://blog.quasar.dev/).
 | Fotrino | [github](https://github.com/michaelmolino/fotrino-frontend), [website](https://www.fotrino.com) | Photo gallery | v1.11.1 |
 | 31010 | [SSR](https://www.31010.cn) | Cryptocurrency market quant user interface | v1.11.3+ |
 | @winwin/hexo-editor | [github](https://github.com/YuJianghao/winwin-hexo-editor), [website](https://yujianghao.github.io/winwin-hexo-editor/) [demo](http://hexoeditor.demo.yujianghao.cn/)| An online editor for Hexo blog. | v1.8.6 |
-| The COVID-19 Game | [Android](https://play.google.com/store/apps/details?id=com.customautosys.covidgame), [Website](https://customautosys.com/covidgame), [Snap](https://snapcraft.io/covidgame/listing), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/the-covid-19-game) | Fight the COVID-19 infection with your white blood cells! | v1 |
+| The COVID-19 Game | [Android](https://play.google.com/store/apps/details?id=com.customautosys.covidgame), [Website](https://customautosys.com/covidgame), [Snap](https://snapcraft.io/covidgame), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/the-covid-19-game) | Fight the COVID-19 infection with your white blood cells! | v1.11.3 |
 | Groovechat.fm | [website](https://groovechat.fm/) | A collaborative listening app for Spotify, alowing several people to listen to a playlist at the same time. | v1.11.3 |
