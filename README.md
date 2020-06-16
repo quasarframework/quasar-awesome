@@ -124,6 +124,7 @@ Do not forget to read an official [blog](https://blog.quasar.dev/).
 | Laqu-l | [github](https://github.com/laqul/laqul/) | A complete starter kit that allows you create amazing apps that look native thanks to the Quasar Framework. Powered by an API developed in Laravel Framework using the easy GraphQL queries language. And ready to use the Google Firebase features. | v0.15.10 |
 | Quasar Cloud | [github](https://github.com/mstaack/quasar-cloud-demo) | An online file manager project (like dropbox) showing usage of axios, vuex, validation, authentication | v0.15.10 |
 | APIWrapper | [github](https://github.com/RobertoLangarica/quasar-app-extension-api-wrapper), [npm](https://www.npmjs.com/package/api-client-wrapper) | A package designed to wrap up the most common features of an api client implementation, with common features like: Vuex store integration, masive requests, homogeneous responses, concurrency... | v1 |
+| Continuous Android Deployment | [gist](https://gist.github.com/Qoyyuum/e5c29b0f139c6ac9cd80e70d926990d6) | A Github Action Workflow yaml file where it will always build an Android app after a successful push/pull request into a master/dev branch of the Github Repo | v1 |
 
 # Projects Using Quasar
 
