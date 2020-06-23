@@ -260,3 +260,4 @@ Do not forget to read an official [blog](https://blog.quasar.dev/).
 | The COVID-19 Game | [Android](https://play.google.com/store/apps/details?id=com.customautosys.covidgame), [Website](https://customautosys.com/covidgame), [Snap](https://snapcraft.io/covidgame), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/the-covid-19-game) | Fight the COVID-19 infection with your white blood cells! | v1.11.3 |
 | Groovechat.fm | [website](https://groovechat.fm/) | A collaborative listening app for Spotify, alowing several people to listen to a playlist at the same time. | v1.11.3 |
 | Custom Automated Systems Pte Ltd website | [Website](https://customautosys.com) | Custom Automated Systems Pte Ltd website | v1.11.3 |
+| Basehop Deployments | [Website](https://www.basehop.co.za) | Zero Downtime PHP application deployment | v1.12.0+ |
