@@ -261,3 +261,4 @@ Do not forget to read an official [blog](https://blog.quasar.dev/).
 | Groovechat.fm | [website](https://groovechat.fm/) | A collaborative listening app for Spotify, alowing several people to listen to a playlist at the same time. | v1.11.3 |
 | Custom Automated Systems Pte Ltd website | [Website](https://customautosys.com) | Custom Automated Systems Pte Ltd website | v1.11.3 |
 | Basehop Deployments | [Website](https://www.basehop.co.za) | Zero Downtime PHP application deployment | v1.12.0+ |
+| Al-Dig (Al-Quran Digital app) | [github](https://www.basehop.co.za) | Al-Quran Digital with Indonesian translation (for now) | v1.0.0+ |
