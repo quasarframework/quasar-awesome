@@ -262,3 +262,4 @@ Do not forget to read an official [blog](https://blog.quasar.dev/).
 | Custom Automated Systems Pte Ltd website | [Website](https://customautosys.com) | Custom Automated Systems Pte Ltd website | v1.11.3 |
 | Basehop Deployments | [Website](https://www.basehop.co.za) | Zero Downtime PHP application deployment | v1.12.0+ |
 | Al-Dig (Al-Quran Digital app) | [github](https://github.com/sm-alfariz/aldig) | Al-Quran Digital with Indonesian translation (for now) | v1.0.0+ |
+| Qodo | [github](https://github.com/vycoder/qodo) | An open-source productivity app. Demonstrate how and what it's like to build multi-platform apps using Quasar | v1.9.4 |
