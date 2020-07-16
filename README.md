@@ -262,3 +262,4 @@ Do not forget to read an official [blog](https://blog.quasar.dev/).
 | Custom Automated Systems Pte Ltd website | [Website](https://customautosys.com) | Custom Automated Systems Pte Ltd website | v1.11.3 |
 | Basehop Deployments | [Website](https://www.basehop.co.za) | Zero Downtime PHP application deployment | v1.12.0+ |
 | Al-Dig (Al-Quran Digital app) | [github](https://github.com/sm-alfariz/aldig) | Al-Quran Digital with Indonesian translation (for now) | v1.0.0+ |
+| Nextshore - Ether-1 Wallet | [iOS](https://discordapp.com/channels/426241424229662721/442782611191103497/732878920474427453) | The Nextshore - Ether-1 Wallet allows users to securely store their $ETHO on their Mobile device. Users can transact $ETHO between each other quickly and discretely by using their address or QR code. Users can also store their $ETHO and view their current holdings in the currency of their choice.  | v1.12.8 |
