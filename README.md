@@ -262,3 +262,4 @@ Do not forget to read an official [blog](https://blog.quasar.dev/).
 | Custom Automated Systems Pte Ltd website | [Website](https://customautosys.com) | Custom Automated Systems Pte Ltd website | v1.11.3 |
 | Basehop Deployments | [Website](https://www.basehop.co.za) | Zero Downtime PHP application deployment | v1.12.0+ |
 | Al-Dig (Al-Quran Digital app) | [github](https://github.com/sm-alfariz/aldig) | Al-Quran Digital with Indonesian translation (for now) | v1.0.0+ |
+| Odoo In Vue | [github](https://gitlab.com/sylnsr/odoo-in-vue) | Get up to speed quickly when building a Vue / Quasar app for your Odoo backend | v1.12+ |
