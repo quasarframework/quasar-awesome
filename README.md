@@ -105,6 +105,9 @@ Do not forget to read an official [blog](https://blog.quasar.dev/).
 | [QDraggableTree](https://github.com/mayank091193/quasar-draggable-tree) | QDraggableTree is a Quasar Framework app extension that allows you to drag and drop the nodes in the Quasar QTree |
 | [APIWrapper](https://github.com/RobertoLangarica/quasar-app-extension-api-wrapper) | An out of the box API client that wrap [axios](https://github.com/axios/axios) with common features like: Vuex store integration, masive requests, homogeneous responses, concurrency...|
 | Quasar Tiptap | [github](https://github.com/donotebase/quasar-tiptap), [demo](https://donotebase.github.io/quasar-tiptap) | A modern WYSIWYG rich-text editor built on top of tiptap and Quasar Framework for Vue.js. | v1.9.14 |
+| [QFilterConfigurator](https://github.com/heartbeatLV/app-extension-q-filter-configurator) | An easy filter viewer | v1.0.7 |
+| [QDatePicker](https://github.com/heartbeatLV/app-extension-q-date-picker) | A date selector (single/period) with the comparison functionality | v1.0.0-rc.1 |
+| [QsSelect](https://github.com/heartbeatLV/app-extension-qs-select) | A searchable QSelect with which accepts an url | v0.4.2 |
 
 # Other Community Components and Tools
 > For older Quasar versions or not supplied through a Quasar App Extension
