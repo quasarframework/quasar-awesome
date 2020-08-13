@@ -134,13 +134,13 @@ Do not forget to read an official [blog](https://blog.quasar.dev/).
 
 | Name | Links | Description | Quasar |
 | --- | --- | --- | --- |
-| Personal website template | [github](https://github.com/mayank091193/mayank-profile), [website](https://mayank-patel.netlify.app/#/) | Free template for personal website | v1.9.15 |
 | Kudos - Company profile template | [github](https://github.com/mayank091193/vue-quasar-company-profile-website), [website](https://quasar-company-profile-template.netlify.app/) | Free template for company profile made using Quasar Framework and Vue.js! It is a fully responsive template which you can use for your company or may be for your own portfolio website. | v1.9.15 |
 | Expense Tracker | [github](https://github.com/rbretecher/expense-tracker), [website](https://expense-tracker-demo-42250.firebaseapp.com) | A simple application to track expenses and split bills. | v1 |
 | Quasar Scrum | [github](https://github.com/mayank091193/quasar-scrum), [website](https://quasar-scrum.netlify.com/) | A Free Quasar Scrum Template : Agile process framework for managing complex tasks | v1.9.12 |
 | Quasar Admin | [github](https://github.com/pratik227/quasar-admin), [website](https://quasar-admin-demo.netlify.com/) | A Free and beautiful Quasar Admin template | v1.9.3 |
 | Quasar Shopping | [github](https://github.com/mayur091193/quasar-shopping), [website](https://quasar-shopping.netlify.com) | Free and Open source eCommerce UI template written in Vue.js/Quasar | v1.9.3 |
 | Quasar CRM Admin | [github](https://github.com/mayank091193/quasar-admin-crm), [website](https://quasar-admin-crm-template.netlify.com/) | A free and beautiful Quasar template for CRM needs. | v1.8.5 |
+| Personal website template | [github](https://github.com/mayank091193/mayank-profile), [website](https://mayank-patel.netlify.app/#/) | Free template for personal website | v1.9.15 |
 | Quasar Typescript Admin Template| [github](https://github.com/dirkhe1051931999/quasar-typescript-admin-template) | 💫 💫 template for quasar admin with typescript 🌝 🌝 support pwa,electron,spa,Ionic | v0.0.1 |
 | Alighieri | [github](https://github.com/zuck/alighieri/), [website](https://zuck.github.io/alighieri) | A distraction-free writer tool | v0.14 |
 | P.volve | [website](https://my.pvolve.com) | [Video workout subscription](https://my.pvolve.com/preview), [landing pages](https://my.pvolve.com/offer/subway), also includes weight tracking, photo upload, etc. for subscribers | v0.15.9 |
