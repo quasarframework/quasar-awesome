@@ -162,7 +162,7 @@ Do not forget to read an official [blog](https://blog.quasar.dev/).
 | Learn music theory with Sonid | [WEB](https://sonid.app), [iOS](https://apps.apple.com/us/app/sonid/id1490221762?ls=1), [Android](https://play.google.com/store/apps/details?id=org.stroopwafel.music.app) | Easily learn music theory in a fun a structured manner! | v1.5+ |
 | SAM9000 APM | [PWA](https://www.sam9000.com) | Project Management, File Sharing, Document and Email Management AI Powered | v1.5+ |
 | MicroIoT Studio | [github](https://github.com/MicroIoT/studio), [website](https://www.microiot.top) | MicroIoT Platform web UI management tool | v1.5.0 |
-| Growth Journal | [website](https://growthjournal.app), [Android](https://play.google.com/store/apps/details?id=growthjournal.app), Web | Growth Journal: Become a better you. | 1.2.6
+| Growth Journal | [website](https://growthjournal.app), [Android](https://play.google.com/store/apps/details?id=growthjournal.app), Web | Growth Journal: Become a better you. | 1.2.6 |
 | Webby | [gitlab](https://gitlab.com/riot.ai/w3b3), [PWA](https://heywebby.app) | Discover a better internet.  Find and favorite Blockstack dapps | 1.2.1 |
 | Gistor | [github](https://github.com/mallgroup/mal-gistor), [website](https://gistlike.pro) | Powerful UI for your Gist snippets stored on GitHub. | v1.2.x |
 | SunEngine | [github](https://github.com/sunengine/SunEngine), [website](https://sunengine.site) | CMS+ site engine with blog, articles and forum functionalities. Asp.Net Core on server side. | 1.2.x+ |
@@ -171,7 +171,7 @@ Do not forget to read an official [blog](https://blog.quasar.dev/).
 | Github Method | [github](https://github.com/cartovarc/github-method), [website](https://github-method.web.app/) | Cool habit tracker based on Github concept | v1 |
 | Dashblocks Template | [github](https://github.com/slanatech/dashblocks-template), [website](https://slanatech.github.io/dashblocks-template) | A Free and Open Source Quasar Material Admin Template focusing on beautiful Dashboards and In-App Analytics | v1 |
 | Quacker | [github](https://github.com/farwish/quacker) | Browser Extension to clean website ADs | v1.0.0+ |
-| Coloban | [website](https://www.coloban.com), [Android](https://play.google.com/store/apps/details?id=org.cordova.coloban.app), Windows, MacOS | Collaborative task manager + Messsenger: Audio and Video calls to your colleagues and friends, TODOs on the fly during conversation, Kanban, Calendar for easy tasks management, Offline mode, Multiplatform and many more! | v1
+| Coloban | [website](https://www.coloban.com), [Android](https://play.google.com/store/apps/details?id=org.cordova.coloban.app), Windows, MacOS | Collaborative task manager + Messsenger: Audio and Video calls to your colleagues and friends, TODOs on the fly during conversation, Kanban, Calendar for easy tasks management, Offline mode, Multiplatform and many more! | v1 |
 | Neolink | [website](http://poltava.neolink.com.ua/) | Online store. | v1 |
 | LandHo | [gitlab](https://gitlab.com/riot.ai/landho), [PWA](https://landho.app) | Securely maintain your own search history across multiple search engines. | 1.0.0 |
 | Content Hub | [Website](https://contenthub.cloud) | Spread the word about your business everywhere online and track your impact. | v1 |
