@@ -12,6 +12,7 @@ The list of projects is sorted by the version of Quasar they use from most recen
 
 ```bash
 git clone https://github.com/quasarframework/quasar-awesome
+cd quasar-awesome
 npm install
 npm run add-project
 ```
