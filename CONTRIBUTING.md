@@ -8,6 +8,14 @@
 
 ### Projects using Quasar
 
+The list of projects is sorted by the version of Quasar they use from most recent version to least recent version. You can also optionally use the CLI interface to add your project to this list using the following commands:
+
+```bash
+git clone https://github.com/quasarframework/quasar-awesome
+npm install
+npm run add-project
+```
+
 Since Quasar allows you to build for multiple platforms from the same code-base, please specify a link to each of the build modes (website, pwa, android, ios, electron).
 If it's an opensource project, then also add a link to its github address.
 
