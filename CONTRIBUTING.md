@@ -8,7 +8,7 @@
 
 ### Projects using Quasar
 
-The list of projects is sorted by the version of Quasar they use from most recent version to least recent version. You can also optionally use the CLI interface to add your project to this list using the following commands:
+The list of projects is sorted by the version of Quasar they use from the most recent version of Quasar to the oldest version of Quasar. You can also optionally use the CLI utility to add your project to this list using the following commands:
 
 ```bash
 git clone https://github.com/quasarframework/quasar-awesome
