@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "compare-versions": "^3.6.0",
+    "inquirer": "^7.3.3"
+  }
+}
