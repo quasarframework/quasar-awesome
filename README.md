@@ -108,6 +108,7 @@ Do not forget to read an official [blog](https://blog.quasar.dev/).
 | [QFilterConfigurator](https://github.com/heartbeatLV/app-extension-q-filter-configurator) | An easy filter viewer | v1.0.7 |
 | [QDatePicker](https://github.com/heartbeatLV/app-extension-q-date-picker) | A date selector (single/period) with the comparison functionality | v1.0.0-rc.1 |
 | [QsSelect](https://github.com/heartbeatLV/app-extension-qs-select) | A searchable QSelect with which accepts an url | v0.4.2 |
+| [QGoogleMap](https://github.com/mayur091193/q-google-map) | [Docs and Examples](https://q-google-map.netlify.app/) | QGoogleMap(q-google-map) - Quasar app extension to integrate Google Mapse | v1.13.2 |
 
 # Other Community Components and Tools
 > For older Quasar versions or not supplied through a Quasar App Extension
