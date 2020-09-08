@@ -81,7 +81,9 @@ Do not forget to watch official [video tutorials](https://quasar.dev/video-tutor
 | [nothingismagick](https://dev.to/nothingismagick) | [Medium](https://dev.to/tauri/use-sass-variables-in-javascript-583o) | Use Sass Variables in Javascript  ||
 | [farwish](https://cnblogs.com/farwish) | [Article](https://www.cnblogs.com/farwish/p/12097067.html) | Quasar BEX preview guide (Chinese)  ||
 | [farwish](https://cnblogs.com/farwish) | [Article](https://www.cnblogs.com/farwish/p/11980595.html) | Deploy Quasar SSR combine with pm2 and Nginx for proxy (Chinese)  ||
-
+| [Troy Moreland](https://github.com/34fame) | [Medium](https://levelup.gitconnected.com/add-embedded-google-maps-to-your-application-432605cdbeac) | Add Embedded Google Maps to Your Application | ^1.12.0 |
+| [Troy Moreland](https://github.com/34fame) | [Medium](https://levelup.gitconnected.com/add-recurring-rules-for-calendar-dates-to-your-application-401e39b56b2f) | Add Recurring Rules for Calendar Dates to Your Application | ^1.12.0 |
+| [Troy Moreland](https://github.com/34fame) | [Medium](https://levelup.gitconnected.com/add-dynamic-forms-to-your-vue-app-609de4005a2b) | Add Dynamic Forms to Your Vue App | ^1.13.0 |
 Do not forget to read an official [blog](https://blog.quasar.dev/).
 
 # Community App Extensions
