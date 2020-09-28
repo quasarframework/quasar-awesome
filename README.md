@@ -5,15 +5,17 @@
 
 > A list of awesome things related to Quasar
 
-- [Resources](#Resources)
-    - [Official Resources](#Official-Resources)
-    - [External Resources](#External-Resources)
-    - [Official Community](#Official-Community)
-    - [Local Communities](#Local-Communities)
-    - [Tutorials](#Tutorials)
-- [Community App Extensions](#Community-App-Extensions)
-- [Other Community Components and Tools](#Other-Community-Components-and-Tools)
-- [Projects Using Quasar](#Projects-Using-Quasar)
+- [Resources](#resources)
+    - [Official Resources](#official-resources)
+    - [External Resources](#external-resources)
+    - [Official Community](#official-community)
+    - [Local Communities](#local-communities)
+    - [Tutorials](#tutorials)
+      - [Video Tutorials](#video-tutorials)
+      - [Articles](#articles)
+- [Community App Extensions](#community-app-extensions)
+- [Other Community Components and Tools](#other-community-components-and-tools)
+- [Projects Using Quasar](#projects-using-quasar)
 
 # Resources
 
@@ -275,3 +277,4 @@ Do not forget to read an official [blog](https://blog.quasar.dev/).
 | Tabulo | [Website](https://tabulo.app) | The virtual replacement for whiteboards | v1.13.2+ |
 | Skinosis App | [PWA](https://app.skinosis.com), [Android](https://play.google.com/store/apps/details?id=com.skinosis.app) | Skinosis is a one-on-one skin diagnosis and cosultaion app | v1.0.0+ |
 | Skinosis App Landing Website | [PWA](https://skinosis.com) | Landing website for Skinosis App | v1.0.0+ |
+| Whoops Monitor | [PWA](https://github.com/whoopsmonitor/whoopsmonitor) | A monitoring tool that gives you clarity over your application landscape. | v1.0.0 |
