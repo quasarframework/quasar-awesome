@@ -5,17 +5,15 @@
 
 > A list of awesome things related to Quasar
 
-- [Resources](#resources)
-    - [Official Resources](#official-resources)
-    - [External Resources](#external-resources)
-    - [Official Community](#official-community)
-    - [Local Communities](#local-communities)
-    - [Tutorials](#tutorials)
-      - [Video Tutorials](#video-tutorials)
-      - [Articles](#articles)
-- [Community App Extensions](#community-app-extensions)
-- [Other Community Components and Tools](#other-community-components-and-tools)
-- [Projects Using Quasar](#projects-using-quasar)
+- [Resources](#Resources)
+    - [Official Resources](#Official-Resources)
+    - [External Resources](#External-Resources)
+    - [Official Community](#Official-Community)
+    - [Local Communities](#Local-Communities)
+    - [Tutorials](#Tutorials)
+- [Community App Extensions](#Community-App-Extensions)
+- [Other Community Components and Tools](#Other-Community-Components-and-Tools)
+- [Projects Using Quasar](#Projects-Using-Quasar)
 
 # Resources
 
