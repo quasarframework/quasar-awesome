@@ -279,3 +279,4 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Skinosis App | [PWA](https://app.skinosis.com), [Android](https://play.google.com/store/apps/details?id=com.skinosis.app) | Skinosis is a one-on-one skin diagnosis and cosultaion app | v1.0.0+ |
 | Skinosis App Landing Website | [PWA](https://skinosis.com) | Landing website for Skinosis App | v1.0.0+ |
 | Whoops Monitor | [PWA](https://github.com/whoopsmonitor/whoopsmonitor) | A monitoring tool that gives you clarity over your application landscape. | v1.0.0 |
+| Agile Visitors | [Github](https://github.com/itsalb3rt/agile-visitors),[Web](https://agile-visitors.netlify.app/) | Application for registering employee entries with the possibility of generating reports, validating and storing users with minimal effort. | v1.14.0 |
