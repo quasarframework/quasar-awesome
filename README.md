@@ -280,3 +280,4 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Skinosis App Landing Website | [PWA](https://skinosis.com) | Landing website for Skinosis App | v1.0.0+ |
 | Whoops Monitor | [PWA](https://github.com/whoopsmonitor/whoopsmonitor) | A monitoring tool that gives you clarity over your application landscape. | v1.0.0 |
 | Agile Visitors | [Github](https://github.com/itsalb3rt/agile-visitors),[Web](https://agile-visitors.netlify.app/) | Application for registering employee entries with the possibility of generating reports, validating and storing users with minimal effort. | v1.14.0 |
+| Project Management Application | [Web](http://giovannicosenza.free.fr/) | Project Management Application to track billable hours and budget spent across all projects. Automatic margin calculation and chart generation for reporting. | v1 |
