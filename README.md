@@ -135,6 +135,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Quasar Oh-my-zsh | [github](https://github.com/sajt/oh-my-zsh) | A plugin for Oh-my-zsh | v1.0.0 |
 | APIWrapper | [github](https://github.com/RobertoLangarica/quasar-app-extension-api-wrapper), [npm](https://www.npmjs.com/package/api-client-wrapper) | A package designed to wrap up the most common features of an api client implementation, with common features like: Vuex store integration, masive requests, homogeneous responses, concurrency... | v1 |
 | Quasar DevOps | [github](https://github.com/Qoyyuum/quasar-devops) | A repo dedicated to CI/CD for Quasar Framework | v1 |
+| Quasar WYSIWIG GUI builder - SevenQ | [GitLab](https://gitlab.com/absolutaff/sevenquasar_6),[Website](https://amazing-roentgen-979fc9.netlify.app/#/gui),[Docs](https://loving-curran-cc09c6.netlify.app/) | WYSIWIG Quasar GUI builder | v1 |
 
 # Projects Using Quasar
 
@@ -281,3 +282,4 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Whoops Monitor | [PWA](https://github.com/whoopsmonitor/whoopsmonitor) | A monitoring tool that gives you clarity over your application landscape. | v1.0.0 |
 | Agile Visitors | [Github](https://github.com/itsalb3rt/agile-visitors),[Web](https://agile-visitors.netlify.app/) | Application for registering employee entries with the possibility of generating reports, validating and storing users with minimal effort. | v1.14.0 |
 | Project Management Application | [Web](http://giovannicosenza.free.fr/) | Project Management Application to track billable hours and budget spent across all projects. Automatic margin calculation and chart generation for reporting. | v1 |
+| SevenQ | [GitLab](https://gitlab.com/absolutaff/sevenquasar_6),[Website](https://amazing-roentgen-979fc9.netlify.app/),[Docs](https://loving-curran-cc09c6.netlify.app/) | Natural Programming Language && Matrix Builder - based on Leibnitz's Characteristica Universalis and Aristotle's Categories. Includes WYSIWIG Quasar GUI builder | v1 |
