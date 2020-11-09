@@ -63,6 +63,7 @@
 | [Andre Madarang](https://www.youtube.com/channel/UCtb40EQj2inp8zuaQlLx3iQ) | [YouTube](https://www.youtube.com/watch?v=Ud8jS3VlVHw) | Quasar Framework for Vue.js ||
 | [codeguru](https://www.youtube.com/channel/UCyNpa6WDH4i2lEznoju1lMg) | [YouTube serie](https://www.youtube.com/watch?v=qxn7VdC8iCI&list=PLAl8os33KyOVpzfYznpguV_5euzKJ626V) | Quasar framework - Building production web app using GraphQL, AWS Amplify, and Quasar ||
 | [Impeccable Ninja](https://www.youtube.com/channel/UC9Vn7Ye-wJmH97IqPHIcSig) | [YouTube](https://www.youtube.com/watch?v=GVOsLNgS2Gg&feature=youtu.be) | Sign and align Cordova apps created with Vue and Quasar ||
+| [Patrick Monteiro](https://www.youtube.com/playlist?list=PLBjvYfV_TvwL7srfoBB0QxP1P-iJ5sQnc) | [YouTube serie](https://www.youtube.com/playlist?list=PLBjvYfV_TvwL7srfoBB0QxP1P-iJ5sQnc) | Quasar Framwork 1.0 course(pt-br) | v1.x |
 
 Do not forget to watch official [video tutorials](https://quasar.dev/video-tutorials).
 
@@ -81,8 +82,12 @@ Do not forget to watch official [video tutorials](https://quasar.dev/video-tutor
 | [nothingismagick](https://dev.to/nothingismagick) | [Medium](https://dev.to/tauri/use-sass-variables-in-javascript-583o) | Use Sass Variables in Javascript  ||
 | [farwish](https://cnblogs.com/farwish) | [Article](https://www.cnblogs.com/farwish/p/12097067.html) | Quasar BEX preview guide (Chinese)  ||
 | [farwish](https://cnblogs.com/farwish) | [Article](https://www.cnblogs.com/farwish/p/11980595.html) | Deploy Quasar SSR combine with pm2 and Nginx for proxy (Chinese)  ||
+| [Troy Moreland](https://github.com/34fame) | [Medium](https://levelup.gitconnected.com/add-embedded-google-maps-to-your-application-432605cdbeac) | Add Embedded Google Maps to Your Application | ^1.12.0 |
+| [Troy Moreland](https://github.com/34fame) | [Medium](https://levelup.gitconnected.com/add-recurring-rules-for-calendar-dates-to-your-application-401e39b56b2f) | Add Recurring Rules for Calendar Dates to Your Application | ^1.12.0 |
+| [Troy Moreland](https://github.com/34fame) | [Medium](https://levelup.gitconnected.com/add-dynamic-forms-to-your-vue-app-609de4005a2b) | Add Dynamic Forms to Your Vue App | ^1.13.0 |
+| [Patrick Monteiro](https://github.com/patrickmonteiro) | [Medium](https://medium.com/building-kovi/criando-um-pwa-com-framework-vue-js-e-quasar-6b7e1fbc743d) | Criando um PWA com Vue.js e Quasar(pt-br) | v1.x |
 
-Do not forget to read an official [blog](https://blog.quasar.dev/).
+Do not forget to read the official [blog](https://blog.quasar.dev/).
 
 # Community App Extensions
 
@@ -105,6 +110,10 @@ Do not forget to read an official [blog](https://blog.quasar.dev/).
 | [QDraggableTree](https://github.com/mayank091193/quasar-draggable-tree) | QDraggableTree is a Quasar Framework app extension that allows you to drag and drop the nodes in the Quasar QTree |
 | [APIWrapper](https://github.com/RobertoLangarica/quasar-app-extension-api-wrapper) | An out of the box API client that wrap [axios](https://github.com/axios/axios) with common features like: Vuex store integration, masive requests, homogeneous responses, concurrency...|
 | Quasar Tiptap | [github](https://github.com/donotebase/quasar-tiptap), [demo](https://donotebase.github.io/quasar-tiptap) | A modern WYSIWYG rich-text editor built on top of tiptap and Quasar Framework for Vue.js. | v1.9.14 |
+| [QFilterConfigurator](https://github.com/heartbeatLV/app-extension-q-filter-configurator) | An easy filter viewer | v1.0.7 |
+| [QDatePicker](https://github.com/heartbeatLV/app-extension-q-date-picker) | A date selector (single/period) with the comparison functionality | v1.0.0-rc.1 |
+| [QsSelect](https://github.com/heartbeatLV/app-extension-qs-select) | A searchable QSelect with which accepts an url | v0.4.2 |
+| [QGoogleMap](https://github.com/mayur091193/q-google-map) , [Docs and Examples](https://q-google-map.netlify.app/) | QGoogleMap(q-google-map) - Quasar app extension to integrate Google Maps | v1.13.2 |
 
 # Other Community Components and Tools
 > For older Quasar versions or not supplied through a Quasar App Extension
@@ -123,18 +132,23 @@ Do not forget to read an official [blog](https://blog.quasar.dev/).
 | Quasar calendar | [github](https://github.com/stormseed/quasar-calendar) | A full calendar display in multiple formats that accepts event data and display it in month, week, multi-day, single day and agenda views | v0.15.6 |
 | Laqu-l | [github](https://github.com/laqul/laqul/) | A complete starter kit that allows you create amazing apps that look native thanks to the Quasar Framework. Powered by an API developed in Laravel Framework using the easy GraphQL queries language. And ready to use the Google Firebase features. | v0.15.10 |
 | Quasar Cloud | [github](https://github.com/mstaack/quasar-cloud-demo) | An online file manager project (like dropbox) showing usage of axios, vuex, validation, authentication | v0.15.10 |
+| Quasar Oh-my-zsh | [github](https://github.com/sajt/oh-my-zsh) | A plugin for Oh-my-zsh | v1.0.0 |
 | APIWrapper | [github](https://github.com/RobertoLangarica/quasar-app-extension-api-wrapper), [npm](https://www.npmjs.com/package/api-client-wrapper) | A package designed to wrap up the most common features of an api client implementation, with common features like: Vuex store integration, masive requests, homogeneous responses, concurrency... | v1 |
+| Quasar DevOps | [github](https://github.com/Qoyyuum/quasar-devops) | A repo dedicated to CI/CD for Quasar Framework | v1 |
 
 # Projects Using Quasar
 
 | Name | Links | Description | Quasar |
 | --- | --- | --- | --- |
+| Quasar Gaming Template | [github](https://github.com/pratik227/quasar-gaming), [website](https://quasar-gaming.netlify.app/) | Free Quasar Gaming Template based on Vue js and Quasar Framework. | v1.12.12 |
 | Kudos - Company profile template | [github](https://github.com/mayank091193/vue-quasar-company-profile-website), [website](https://quasar-company-profile-template.netlify.app/) | Free template for company profile made using Quasar Framework and Vue.js! It is a fully responsive template which you can use for your company or may be for your own portfolio website. | v1.9.15 |
 | Expense Tracker | [github](https://github.com/rbretecher/expense-tracker), [website](https://expense-tracker-demo-42250.firebaseapp.com) | A simple application to track expenses and split bills. | v1 |
 | Quasar Scrum | [github](https://github.com/mayank091193/quasar-scrum), [website](https://quasar-scrum.netlify.com/) | A Free Quasar Scrum Template : Agile process framework for managing complex tasks | v1.9.12 |
 | Quasar Admin | [github](https://github.com/pratik227/quasar-admin), [website](https://quasar-admin-demo.netlify.com/) | A Free and beautiful Quasar Admin template | v1.9.3 |
 | Quasar Shopping | [github](https://github.com/mayur091193/quasar-shopping), [website](https://quasar-shopping.netlify.com) | Free and Open source eCommerce UI template written in Vue.js/Quasar | v1.9.3 |
 | Quasar CRM Admin | [github](https://github.com/mayank091193/quasar-admin-crm), [website](https://quasar-admin-crm-template.netlify.com/) | A free and beautiful Quasar template for CRM needs. | v1.8.5 |
+| Personal website template | [github](https://github.com/mayank091193/mayank-profile), [website](https://mayank-patel.netlify.app/#/) | Free template for personal website | v1.9.15 |
+| Quasar Typescript Admin Template| [github](https://github.com/dirkhe1051931999/quasar-typescript-admin-template) | 💫 💫 template for quasar admin with typescript 🌝 🌝 support pwa,electron,spa,Ionic | v0.0.1 |
 | Alighieri | [github](https://github.com/zuck/alighieri/), [website](https://zuck.github.io/alighieri) | A distraction-free writer tool | v0.14 |
 | P.volve | [website](https://my.pvolve.com) | [Video workout subscription](https://my.pvolve.com/preview), [landing pages](https://my.pvolve.com/offer/subway), also includes weight tracking, photo upload, etc. for subscribers | v0.15.9 |
 | Brotheld | [android](https://play.google.com/store/apps/details?id=de.sopamo.brotheld), [ios](https://itunes.apple.com/de/app/brotheld/id1193619132?l=de&ls=1&mt=8) | Brotheld (Bread Hero), a german app for hobby bakers | v0.14 |
@@ -229,7 +243,6 @@ Do not forget to read an official [blog](https://blog.quasar.dev/).
 | issue blog | [github](https://github.com/ttop5/issue-blog), [website](https://ttop5.net/issue-blog) | A blog tool powered by GitHub issues.  | 1.0.0 |
 | 61 Financial App | [Android](https://play.google.com/store/apps/details?id=au.com.sixonefinancial.app), [iOS](https://apps.apple.com/au/app/61-financial/id1467327628) | A replica of [61 Financial Web App](https://61financial.com.au) | v1 |
 | Vugify | [github](https://github.com/Blaconix/vugify), [website](https://vugify.now.sh/) | Convert Vue HTML syntax to Pug. | v1.0.0 |
-| CuppaZee | [PWA](https://cuppazee.uk/) | A tool to help players of the Geolocation game [Munzee](https://playmunzee.com/) | v1 |
 | Prokarman Free Resume Builder | [Website](https://prokarman.com/resume-builder) | A free resume builder to craft resumes for your dream job | v1 |
 | Content Hub | [Website](https://contenthub.cloud) | Spread the word about your business everywhere online and track your impact. | v1 |
 | Gistor | [github](https://github.com/mallgroup/mal-gistor), [website](https://gistlike.pro) | Powerful UI for your Gist snippets stored on GitHub. | v1.2.x |
@@ -258,3 +271,13 @@ Do not forget to read an official [blog](https://blog.quasar.dev/).
 | @winwin/hexo-editor | [github](https://github.com/YuJianghao/winwin-hexo-editor), [website](https://yujianghao.github.io/winwin-hexo-editor/) [demo](http://hexoeditor.demo.yujianghao.cn/)| An online editor for Hexo blog. | v1.8.6 |
 | The COVID-19 Game | [Android](https://play.google.com/store/apps/details?id=com.customautosys.covidgame), [Website](https://customautosys.com/covidgame), [Snap](https://snapcraft.io/covidgame), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/the-covid-19-game) | Fight the COVID-19 infection with your white blood cells! | v1.11.3 |
 | Groovechat.fm | [website](https://groovechat.fm/) | A collaborative listening app for Spotify, alowing several people to listen to a playlist at the same time. | v1.11.3 |
+| Custom Automated Systems Pte Ltd website | [Website](https://customautosys.com) | Custom Automated Systems Pte Ltd website | v1.11.3 |
+| Basehop Deployments | [Website](https://www.basehop.co.za) | Zero Downtime PHP application deployment | v1.12.0+ |
+| Al-Dig (Al-Quran Digital app) | [github](https://github.com/sm-alfariz/aldig) | Al-Quran Digital with Indonesian translation (for now) | v1.0.0+ |
+| Odoo In Vue | [github](https://gitlab.com/sylnsr/odoo-in-vue) | Get up to speed quickly when building a Vue / Quasar app for your Odoo backend | v1.12+ |
+| Tabulo | [Website](https://tabulo.app) | The virtual replacement for whiteboards | v1.13.2+ |
+| Skinosis App | [PWA](https://app.skinosis.com), [Android](https://play.google.com/store/apps/details?id=com.skinosis.app) | Skinosis is a one-on-one skin diagnosis and cosultaion app | v1.0.0+ |
+| Skinosis App Landing Website | [PWA](https://skinosis.com) | Landing website for Skinosis App | v1.0.0+ |
+| Whoops Monitor | [PWA](https://github.com/whoopsmonitor/whoopsmonitor) | A monitoring tool that gives you clarity over your application landscape. | v1.0.0 |
+| Agile Visitors | [Github](https://github.com/itsalb3rt/agile-visitors),[Web](https://agile-visitors.netlify.app/) | Application for registering employee entries with the possibility of generating reports, validating and storing users with minimal effort. | v1.14.0 |
+| Project Management Application | [Web](http://giovannicosenza.free.fr/) | Project Management Application to track billable hours and budget spent across all projects. Automatic margin calculation and chart generation for reporting. | v1 |
