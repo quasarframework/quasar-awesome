@@ -282,3 +282,5 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Agile Visitors | [Github](https://github.com/itsalb3rt/agile-visitors),[Web](https://agile-visitors.netlify.app/) | Application for registering employee entries with the possibility of generating reports, validating and storing users with minimal effort. | v1.14.0 |
 | Project Management Application | [Web](http://giovannicosenza.free.fr/) | Project Management Application to track billable hours and budget spent across all projects. Automatic margin calculation and chart generation for reporting. | v1 |
 | mipa | [Github](https://github.com/collective-change/mipa), [PWA](https://mipa.collective-change.org/) | A strategic coordination app from [collective-change.org](https://collective-change.org/) to help the world achieve sustainablility by 2030. | v1.14.7 |
+| Neeto-Vue | [Github](https://github.com/TankNee/Neeto-Vue) | Yet another awesome wiz note client that was built by Quasar Framework and Electron. | v1.15.0 |
+
