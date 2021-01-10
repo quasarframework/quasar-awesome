@@ -140,6 +140,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 
 | Name | Links | Description | Quasar |
 | --- | --- | --- | --- |
+| Gobazar.uz | [website](https://gobazar.uz) | The first big e-commerce website made with Vue.js/Quasar | v1 |
 | Quasar Gaming Template | [github](https://github.com/pratik227/quasar-gaming), [website](https://quasar-gaming.netlify.app/) | Free Quasar Gaming Template based on Vue js and Quasar Framework. | v1.12.12 |
 | Kudos - Company profile template | [github](https://github.com/mayank091193/vue-quasar-company-profile-website), [website](https://quasar-company-profile-template.netlify.app/) | Free template for company profile made using Quasar Framework and Vue.js! It is a fully responsive template which you can use for your company or may be for your own portfolio website. | v1.9.15 |
 | Expense Tracker | [github](https://github.com/rbretecher/expense-tracker), [website](https://expense-tracker-demo-42250.firebaseapp.com) | A simple application to track expenses and split bills. | v1 |
@@ -283,4 +284,3 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Project Management Application | [Web](http://giovannicosenza.free.fr/) | Project Management Application to track billable hours and budget spent across all projects. Automatic margin calculation and chart generation for reporting. | v1 |
 | mipa | [Github](https://github.com/collective-change/mipa), [PWA](https://mipa.collective-change.org/) | A strategic coordination app from [collective-change.org](https://collective-change.org/) to help the world achieve sustainablility by 2030. | v1.14.7 |
 | Neeto-Vue | [Github](https://github.com/TankNee/Neeto-Vue) | Yet another awesome wiz note client that was built by Quasar Framework and Electron. | v1.15.0 |
-
