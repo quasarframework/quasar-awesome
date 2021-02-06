@@ -141,6 +141,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 
 | Name | Links | Description | Quasar |
 | --- | --- | --- | --- |
+|culturaitaliana|https://culturaitaliana.org/|A modern integration between a nodejs/vuejs front-end and a Mediawiki back-end. The front-end uses Quasar Framework with server side rendering, dynamic components, prefetch, socket.io and much more|1.15.2 |
 | Gobazar.uz | [website](https://gobazar.uz) | The first big e-commerce website made with Vue.js/Quasar | v1 |
 | Quasar Gaming Template | [github](https://github.com/pratik227/quasar-gaming), [website](https://quasar-gaming.netlify.app/) | Free Quasar Gaming Template based on Vue js and Quasar Framework. | v1.12.12 |
 | Kudos - Company profile template | [github](https://github.com/mayank091193/vue-quasar-company-profile-website), [website](https://quasar-company-profile-template.netlify.app/) | Free template for company profile made using Quasar Framework and Vue.js! It is a fully responsive template which you can use for your company or may be for your own portfolio website. | v1.9.15 |
