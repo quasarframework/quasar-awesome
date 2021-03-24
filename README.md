@@ -5,15 +5,17 @@
 
 > A list of awesome things related to Quasar
 
-- [Resources](#Resources)
-    - [Official Resources](#Official-Resources)
-    - [External Resources](#External-Resources)
-    - [Official Community](#Official-Community)
-    - [Local Communities](#Local-Communities)
-    - [Tutorials](#Tutorials)
-- [Community App Extensions](#Community-App-Extensions)
-- [Other Community Components and Tools](#Other-Community-Components-and-Tools)
-- [Projects Using Quasar](#Projects-Using-Quasar)
+- [Resources](#resources)
+    - [Official Resources](#official-resources)
+    - [External Resources](#external-resources)
+    - [Official Community](#official-community)
+    - [Local Communities](#local-communities)
+    - [Tutorials](#tutorials)
+      - [Video Tutorials](#video-tutorials)
+      - [Articles](#articles)
+- [Community App Extensions](#community-app-extensions)
+- [Other Community Components and Tools](#other-community-components-and-tools)
+- [Projects Using Quasar](#projects-using-quasar)
 
 # Resources
 
@@ -273,3 +275,5 @@ Do not forget to read an official [blog](https://blog.quasar.dev/).
 | Al-Dig (Al-Quran Digital app) | [github](https://github.com/sm-alfariz/aldig) | Al-Quran Digital with Indonesian translation (for now) | v1.0.0+ |
 | Odoo In Vue | [github](https://gitlab.com/sylnsr/odoo-in-vue) | Get up to speed quickly when building a Vue / Quasar app for your Odoo backend | v1.12+ |
 | Tabulo | [Website](https://tabulo.app) | The virtual replacement for whiteboards | v1.13.2+ |
+| Name | Links | Description | Quasar |
+| KeeperRx | [Website](https://www.keeperrx.com), [PWA](https://app.keeperrx.com) | Take control of your medical life!  Create medical profiles for the entire family. | 1.14.7 (as of 20210324) |
