@@ -292,3 +292,4 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Tutlo | [website](https://tutlo.ir) | Tutlo is online learning platform using BigBlueButton. | v1.14.2 |
 | OIPIPE | [website](https://oipipe.com/) | Online Wholesale store. | v1.15.4 |
 | KeeperRx | [Website](https://www.keeperrx.com), [PWA](https://app.keeperrx.com) | Take control of your medical life!  Create medical profiles for the entire family. | 1.14.7 (as of 20210324) |
+| Bohios | [Website](https://www.bohios.net), [Android](https://play.google.com/store/apps/details?id=com.bohios.bohios) | Real estate app, sell, rent and search properties.. Created for the Dominican Republic. | 1.15.0 |
