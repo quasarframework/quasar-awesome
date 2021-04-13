@@ -5,15 +5,17 @@
 
 > A list of awesome things related to Quasar
 
-- [Resources](#Resources)
-    - [Official Resources](#Official-Resources)
-    - [External Resources](#External-Resources)
-    - [Official Community](#Official-Community)
-    - [Local Communities](#Local-Communities)
-    - [Tutorials](#Tutorials)
-- [Community App Extensions](#Community-App-Extensions)
-- [Other Community Components and Tools](#Other-Community-Components-and-Tools)
-- [Projects Using Quasar](#Projects-Using-Quasar)
+- [Resources](#resources)
+    - [Official Resources](#official-resources)
+    - [External Resources](#external-resources)
+    - [Official Community](#official-community)
+    - [Local Communities](#local-communities)
+    - [Tutorials](#tutorials)
+      - [Video Tutorials](#video-tutorials)
+      - [Articles](#articles)
+- [Community App Extensions](#community-app-extensions)
+- [Other Community Components and Tools](#other-community-components-and-tools)
+- [Projects Using Quasar](#projects-using-quasar)
 
 # Resources
 
@@ -76,7 +78,7 @@ Do not forget to watch official [video tutorials](https://quasar.dev/video-tutor
 | [Patrick Monteiro](https://github.com/patrickmonteiro/quasar-hello-auth) (pt-br) and [William Comnisky](https://github.com/wcomnisky/quasar-hello-auth) (en) | [website (en)](https://wcomnisky.github.io/quasar-hello-auth/) | Quasar Framework with Social Login using Hello.js | v1.0.3 |
 | [Navicstein Rotciv](https://dev.to/navicsteinr) | [dev.to](https://dev.to/navicsteinr/deploying-an-app-from-gitlab-to-heroku-using-the-quasar-framework-and-sailsjs-3d00) | Deploying an app from Gitlab to Heroku using the Quasar framework and Sailsjs ||
 | [Jeff Galbraith](https://dev.to/hawkeye64) | [dev.to](https://dev.to/quasar/publish-your-quasar-spa-on-github-io-with-history-mode-20h2) | Publish your Quasar SPA on Github.io with History Mode ||
-| [Xkonti](https://dev.to/xkonti) | [dev.to](https://dev.to/xkonti/creating-quasar-framework-project-with-typescript-support-51ge) | Creating Quasar Framework project with Typescript support ||
+| [Xkonti](https://xkonti.tech) | [Article](https://xkonti.tech/blog/quasar-framework-with-typescript/), [dev.to](https://dev.to/xkonti/creating-quasar-framework-project-with-typescript-support-m9b) | Creating Quasar Framework project with Typescript support ||
 | [Pratik Patel](https://medium.com/@pratikpatel_60309) | [Medium](https://medium.com/t/@pratikpatel_60309/adding-charts-in-quasar-4ffecaf33933) | Adding Charts in Quasar ||
 | [Pratik Patel](https://medium.com/@pratikpatel_60309) | [Medium](https://medium.com/t/@pratikpatel_60309/adding-charts-in-quasar-using-umd-unified-module-definition-fc2015648b3a) | Adding Charts in Quasar using UMD (Unified Module Definition) ||
 | [nothingismagick](https://dev.to/nothingismagick) | [Medium](https://dev.to/tauri/use-sass-variables-in-javascript-583o) | Use Sass Variables in Javascript  ||
@@ -114,6 +116,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | [QDatePicker](https://github.com/heartbeatLV/app-extension-q-date-picker) | A date selector (single/period) with the comparison functionality | v1.0.0-rc.1 |
 | [QsSelect](https://github.com/heartbeatLV/app-extension-qs-select) | A searchable QSelect with which accepts an url | v0.4.2 |
 | [QGoogleMap](https://github.com/mayur091193/q-google-map) , [Docs and Examples](https://q-google-map.netlify.app/) | QGoogleMap(q-google-map) - Quasar app extension to integrate Google Maps | v1.13.2 |
+| [QWidgets](https://github.com/mayank091193/quasar-widgets) , [Docs and Examples](https://quasar-widgets.netlify.app/#/docs) | QWidgets(q-widgets) - An awesome set of beautiful Widgets made with love using Quasar Framework and Vue.js! | v1.1.0 |
 
 # Other Community Components and Tools
 > For older Quasar versions or not supplied through a Quasar App Extension
@@ -140,6 +143,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 
 | Name | Links | Description | Quasar |
 | --- | --- | --- | --- |
+| Gobazar.uz | [website](https://gobazar.uz) | The first big e-commerce website made with Vue.js/Quasar | v1 |
 | Quasar Gaming Template | [github](https://github.com/pratik227/quasar-gaming), [website](https://quasar-gaming.netlify.app/) | Free Quasar Gaming Template based on Vue js and Quasar Framework. | v1.12.12 |
 | Kudos - Company profile template | [github](https://github.com/mayank091193/vue-quasar-company-profile-website), [website](https://quasar-company-profile-template.netlify.app/) | Free template for company profile made using Quasar Framework and Vue.js! It is a fully responsive template which you can use for your company or may be for your own portfolio website. | v1.9.15 |
 | Expense Tracker | [github](https://github.com/rbretecher/expense-tracker), [website](https://expense-tracker-demo-42250.firebaseapp.com) | A simple application to track expenses and split bills. | v1 |
@@ -149,7 +153,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Quasar CRM Admin | [github](https://github.com/mayank091193/quasar-admin-crm), [website](https://quasar-admin-crm-template.netlify.com/) | A free and beautiful Quasar template for CRM needs. | v1.8.5 |
 | Personal website template | [github](https://github.com/mayank091193/mayank-profile), [website](https://mayank-patel.netlify.app/#/) | Free template for personal website | v1.9.15 |
 | Quasar Typescript Admin Template| [github](https://github.com/dirkhe1051931999/quasar-typescript-admin-template) | 💫 💫 template for quasar admin with typescript 🌝 🌝 support pwa,electron,spa,Ionic | v0.0.1 |
-| Alighieri | [github](https://github.com/zuck/alighieri/), [website](https://zuck.github.io/alighieri) | A distraction-free writer tool | v0.14 |
+| Alighieri | [github](https://github.com/zuck/alighieri/), [website](https://zuck.github.io/alighieri) | A distraction-free writer tool | v1.15.4 |
 | P.volve | [website](https://my.pvolve.com) | [Video workout subscription](https://my.pvolve.com/preview), [landing pages](https://my.pvolve.com/offer/subway), also includes weight tracking, photo upload, etc. for subscribers | v0.15.9 |
 | Brotheld | [android](https://play.google.com/store/apps/details?id=de.sopamo.brotheld), [ios](https://itunes.apple.com/de/app/brotheld/id1193619132?l=de&ls=1&mt=8) | Brotheld (Bread Hero), a german app for hobby bakers | v0.14 |
 | MyClinic | [android](https://play.google.com/store/apps/details?id=today.myclinic.mobileapp&hl=en), [ios](https://itunes.apple.com/us/app/myclinic/id1311703491?ls=1&mt=8) | Application for displaying and managing medical clinic examination room status | v0.14 |
@@ -160,7 +164,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | 2018 Quarterly Tax Estimator | [android](https://play.google.com/store/apps/details?id=com.codingfriend.quarterlytaxes), [iOS](https://itunes.apple.com/us/app/2018-quarterly-tax-estimator/id1360874746?ls=1&mt=8), [Mac App Store](https://itunes.apple.com/us/app/2018-quarterly-tax-estimator/id1342826706?ls=1&mt=12) | Estimates quarterly taxes and taxes to save per paycheck | v0.14 |
 | Go2See | [website](https://m.go2see.ru) | Russian online travel service | v0.14.7 |
 | Guitar Workshop | [website](https://guitarworkshop.digital) | E-commerce shop, library, streaming video player, real time chat | v0.15.9 |
-| Karrot (Foodsaving Worldwide) | [github](https://github.com/yunity/karrot-frontend), [website](https://karrot.world) | A web-app to support foodsaving groups worldwide, with the goal to save our common resources as much as possible | v0.14.8 |
+| Karrot (Foodsaving Worldwide) | [github](https://github.com/yunity/karrot-frontend), [website](https://karrot.world) | A web-app to support foodsaving groups worldwide, with the goal to save our common resources as much as possible | v1.14.6 |
 | onvif-nvt-snapshot-vue-sample | [github](https://github.com/hawkeye64/onvif-nvt-snapshot-vue-sample) | An onvif-nvt (package) sample project for snapshots and PTZ using Vue 2.5 and Quasar 0.14.7 | v0.14.7 |
 | Finca Report | [website/android/ios](https://fincareport.com/) | Sistema de informacion para el cultivo de palma africana| v0.15.3 |
 | SoFoot | [android](https://play.google.com/store/apps/details?id=com.sofoot), [ios](https://itunes.apple.com/fr/app/so-foot/id591043947?mt=8) | SO FOOT is an iOS & Android mobile football news application, seen differently. With original and offbeat content, the app is based on real time and smart content feed to make it simple and accessible with a scroll. | v0.14.7 |
@@ -274,6 +278,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Custom Automated Systems Pte Ltd website | [Website](https://customautosys.com) | Custom Automated Systems Pte Ltd website | v1.11.3 |
 | Basehop Deployments | [Website](https://www.basehop.co.za) | Zero Downtime PHP application deployment | v1.12.0+ |
 | Al-Dig (Al-Quran Digital app) | [github](https://github.com/sm-alfariz/aldig) | Al-Quran Digital with Indonesian translation (for now) | v1.0.0+ |
+| Qodo | [github](https://github.com/vycoder/qodo) | An open-source productivity app. Demonstrate how and what it's like to build multi-platform apps using Quasar | v1.9.4 |
 | Odoo In Vue | [github](https://gitlab.com/sylnsr/odoo-in-vue) | Get up to speed quickly when building a Vue / Quasar app for your Odoo backend | v1.12+ |
 | Tabulo | [Website](https://tabulo.app) | The virtual replacement for whiteboards | v1.13.2+ |
 | Skinosis App | [PWA](https://app.skinosis.com), [Android](https://play.google.com/store/apps/details?id=com.skinosis.app) | Skinosis is a one-on-one skin diagnosis and cosultaion app | v1.0.0+ |
@@ -281,3 +286,9 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Whoops Monitor | [PWA](https://github.com/whoopsmonitor/whoopsmonitor) | A monitoring tool that gives you clarity over your application landscape. | v1.0.0 |
 | Agile Visitors | [Github](https://github.com/itsalb3rt/agile-visitors),[Web](https://agile-visitors.netlify.app/) | Application for registering employee entries with the possibility of generating reports, validating and storing users with minimal effort. | v1.14.0 |
 | Project Management Application | [Web](http://giovannicosenza.free.fr/) | Project Management Application to track billable hours and budget spent across all projects. Automatic margin calculation and chart generation for reporting. | v1 |
+| mipa | [Github](https://github.com/collective-change/mipa), [PWA](https://mipa.collective-change.org/) | A strategic coordination app from [collective-change.org](https://collective-change.org/) to help the world achieve sustainablility by 2030. | v1.14.7 |
+| Neeto-Vue | [Github](https://github.com/TankNee/Neeto-Vue) | Yet another awesome wiz note client that was built by Quasar Framework and Electron. | v1.15.0 |
+| CreateVidio | [github](https://github.com/newflight-co/createvid), [website](https://createvid.io) | Dynamic cloud-based video generation. | v1 |
+| Tutlo | [website](https://tutlo.ir) | Tutlo is online learning platform using BigBlueButton. | v1.14.2 |
+| OIPIPE | [website](https://oipipe.com/) | Online Wholesale store. | v1.15.4 |
+| KeeperRx | [Website](https://www.keeperrx.com), [PWA](https://app.keeperrx.com) | Take control of your medical life!  Create medical profiles for the entire family. | 1.14.7 (as of 20210324) |
