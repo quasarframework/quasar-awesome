@@ -118,6 +118,8 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | [QGoogleMap](https://github.com/mayur091193/q-google-map) , [Docs and Examples](https://q-google-map.netlify.app/) | QGoogleMap(q-google-map) - Quasar app extension to integrate Google Maps | v1.13.2 |
 | [QWidgets](https://github.com/mayank091193/quasar-widgets) , [Docs and Examples](https://quasar-widgets.netlify.app/#/docs) | QWidgets(q-widgets) - An awesome set of beautiful Widgets made with love using Quasar Framework and Vue.js! | v1.1.0 |
 | [QTableCrud](https://github.com/odranoelBR/vue-quasar-crud) , [Docs and Examples](https://vue-quasar-crud.netlify.app/) | QTableCrud(q-table-crud) - All in one QTable with customizable REST Api configuration to create, read, update and delete using axios.js! | v1.0.0 |
+| [QSelectApi](https://github.com/odranoelBR/vue-quasar-select-api) , [Docs and Examples](https://vue-quasar-select-api.netlify.app/) | QSelectApi(q-select-api) - QSelect with automatic fetch/populate options from an API using axios.js, easy filtering, and all the QSelect native power! | v1.0.0 |
+
 # Other Community Components and Tools
 > For older Quasar versions or not supplied through a Quasar App Extension
 
