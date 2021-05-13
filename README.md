@@ -79,8 +79,8 @@ Do not forget to watch official [video tutorials](https://quasar.dev/video-tutor
 | [Navicstein Rotciv](https://dev.to/navicsteinr) | [dev.to](https://dev.to/navicsteinr/deploying-an-app-from-gitlab-to-heroku-using-the-quasar-framework-and-sailsjs-3d00) | Deploying an app from Gitlab to Heroku using the Quasar framework and Sailsjs ||
 | [Jeff Galbraith](https://dev.to/hawkeye64) | [dev.to](https://dev.to/quasar/publish-your-quasar-spa-on-github-io-with-history-mode-20h2) | Publish your Quasar SPA on Github.io with History Mode ||
 | [Xkonti](https://xkonti.tech) | [Article](https://xkonti.tech/blog/quasar-framework-with-typescript/), [dev.to](https://dev.to/xkonti/creating-quasar-framework-project-with-typescript-support-m9b) | Creating Quasar Framework project with Typescript support ||
-| [Pratik Patel](https://medium.com/@pratikpatel_60309) | [Medium](https://medium.com/t/@pratikpatel_60309/adding-charts-in-quasar-4ffecaf33933) | Adding Charts in Quasar ||
-| [Pratik Patel](https://medium.com/@pratikpatel_60309) | [Medium](https://medium.com/t/@pratikpatel_60309/adding-charts-in-quasar-using-umd-unified-module-definition-fc2015648b3a) | Adding Charts in Quasar using UMD (Unified Module Definition) ||
+| [Pratik Patel](https://medium.com/@pratikpatel_60309) | [Medium](https://medium.com/@pratikpatel_60309/adding-charts-in-quasar-4ffecaf33933) | Adding Charts in Quasar ||
+| [Pratik Patel](https://medium.com/@pratikpatel_60309) | [Medium](https://medium.com/@pratikpatel_60309/adding-charts-in-quasar-using-umd-unified-module-definition-fc2015648b3a) | Adding Charts in Quasar using UMD (Unified Module Definition) ||
 | [nothingismagick](https://dev.to/nothingismagick) | [Medium](https://dev.to/tauri/use-sass-variables-in-javascript-583o) | Use Sass Variables in Javascript  ||
 | [farwish](https://cnblogs.com/farwish) | [Article](https://www.cnblogs.com/farwish/p/12097067.html) | Quasar BEX preview guide (Chinese)  ||
 | [farwish](https://cnblogs.com/farwish) | [Article](https://www.cnblogs.com/farwish/p/11980595.html) | Deploy Quasar SSR combine with pm2 and Nginx for proxy (Chinese)  ||
