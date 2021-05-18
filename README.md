@@ -294,3 +294,4 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | OIPIPE | [website](https://oipipe.com/) | Online Wholesale store. | v1.15.4 |
 | KeeperRx | [Website](https://www.keeperrx.com), [PWA](https://app.keeperrx.com) | Take control of your medical life!  Create medical profiles for the entire family. | 1.14.7 (as of 20210324) |
 | SINTASI | [Website](https://www.sintasi.com), [SPA](https://app.sintasi.com) | Dashboard for Clinic management system. | v1.15.7 |
+| Data Sorting Algorithms Visualization| [Github](https://github.com/kenng/data-sorting-animation), [Web](https://kenng.github.io/data-sorting-animation/#/) | Visualize the data sorting algorithms with fully interative control | v1.15.4 |
