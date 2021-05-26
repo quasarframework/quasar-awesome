@@ -272,7 +272,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Afterman | [github](https://github.com/itsalb3rt/afterman) | Create beutiful docs in markdown and HTML from postman collection | v1 |
 | Offso | [SSR](https://www.offso.com) | Beautiful search application user interface | v1.9.0+ |
 | Fotrino | [github](https://github.com/michaelmolino/fotrino-frontend), [website](https://www.fotrino.com) | Photo gallery | v1.11.1 |
-| 31010 | [SSR](https://www.31010.cn) | Cryptocurrency market quant user interface | v1.11.3+ |
+| coin-monitor | [github](https://github.com/coin-monitor) [SPA](https://coin-monitor.github.io) | Cryptocurrency market quant user interface | v1.11.3+ |
 | @winwin/hexo-editor | [github](https://github.com/YuJianghao/winwin-hexo-editor), [website](https://yujianghao.github.io/winwin-hexo-editor/) [demo](http://hexoeditor.demo.yujianghao.cn/)| An online editor for Hexo blog. | v1.8.6 |
 | The COVID-19 Game | [Android](https://play.google.com/store/apps/details?id=com.customautosys.covidgame), [Website](https://customautosys.com/covidgame), [Snap](https://snapcraft.io/covidgame), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/the-covid-19-game) | Fight the COVID-19 infection with your white blood cells! | v1.11.3 |
 | Groovechat.fm | [website](https://groovechat.fm/) | A collaborative listening app for Spotify, alowing several people to listen to a playlist at the same time. | v1.11.3 |
@@ -294,3 +294,4 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | OIPIPE | [website](https://oipipe.com/) | Online Wholesale store. | v1.15.4 |
 | KeeperRx | [Website](https://www.keeperrx.com), [PWA](https://app.keeperrx.com) | Take control of your medical life!  Create medical profiles for the entire family. | 1.14.7 (as of 20210324) |
 | SINTASI | [Website](https://www.sintasi.com), [SPA](https://app.sintasi.com) | Dashboard for Clinic management system. | v1.15.7 |
+| Mission | [github](https://github.com/mission-poss) [SPA](https://mission-poss.github.io) | Mission of small games | v1.11.3+ |
