@@ -265,8 +265,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | SAM9000 APM | [PWA](https://www.sam9000.com) | Project Management, File Sharing, Document and Email Management AI Powered | v1.5+ |
 | Learn music theory with Sonid | [WEB](https://sonid.app), [iOS](https://apps.apple.com/us/app/sonid/id1490221762?ls=1), [Android](https://play.google.com/store/apps/details?id=org.stroopwafel.music.app) | Easily learn music theory in a fun a structured manner! | v1.5+ |
 | Quacker | [github](https://github.com/farwish/quacker) | Browser Extension to clean website ADs | v1.0.0+ |
-| ChaoXinDong | [SSR](http://www.chaoxindong.com) | Beauty picture lovers community | v1.9.9 |
-| Poker2win | [SPA](https://poker2win.club) | Ethereum Dapp poker game for bet, i18n support | v1.6.0+ |
+| Poker2win | [github](https://github.com/poker2win), [SPA](https://poker2win.github.io) | Ethereum Dapp poker game for bet, i18n support | v1.6.0+ |
 | Dashblocks Template | [github](https://github.com/slanatech/dashblocks-template), [website](https://slanatech.github.io/dashblocks-template) | A Free and Open Source Quasar Material Admin Template focusing on beautiful Dashboards and In-App Analytics | v1 |
 | Github Method | [github](https://github.com/cartovarc/github-method), [website](https://github-method.web.app/) | Cool habit tracker based on Github concept | v1 |
 | Afterman | [github](https://github.com/itsalb3rt/afterman) | Create beutiful docs in markdown and HTML from postman collection | v1 |
