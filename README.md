@@ -249,6 +249,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | 61 Financial App | [Android](https://play.google.com/store/apps/details?id=au.com.sixonefinancial.app), [iOS](https://apps.apple.com/au/app/61-financial/id1467327628) | A replica of [61 Financial Web App](https://61financial.com.au) | v1 |
 | Vugify | [github](https://github.com/Blaconix/vugify), [website](https://vugify.now.sh/) | Convert Vue HTML syntax to Pug. | v1.0.0 |
 | Prokarman Free Resume Builder | [Website](https://prokarman.com/resume-builder) | A free resume builder to craft resumes for your dream job | v1 |
+| Yawik Application Form | [gitlab](https://gitlab.com/yawik/applicationform), [website](https://form.yawik.org) | Application Form which can be used to apply for job postings | v1.15.16 (patched) |
 | Content Hub | [Website](https://contenthub.cloud) | Spread the word about your business everywhere online and track your impact. | v1 |
 | Gistor | [github](https://github.com/mallgroup/mal-gistor), [website](https://gistlike.pro) | Powerful UI for your Gist snippets stored on GitHub. | v1.2.x |
 | Privy | [github](https://github.com/Poeticode/Privy), [Android](https://play.google.com/store/apps/details?id=com.silentsilas.pr1vy) | An educational crypto-toolkit that steps through the math for password security, RSA keypair generation, and hashing algorithms. | 1.0.0-beta.17 |
