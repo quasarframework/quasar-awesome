@@ -144,6 +144,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 
 | Name | Links | Description | Quasar |
 | --- | --- | --- | --- |
+| hive.ausbit.dev | [website](https://hive.ausbit.dev), [github](https://github.com/ausbitbank/hive.ausbit.dev-src) | Hive blockchain explorer and toolkit for uncensorable social media & text/json storage | v1.9.6
 | Gobazar.uz | [website](https://gobazar.uz) | The first big e-commerce website made with Vue.js/Quasar | v1 |
 | Jump Park | [ios](https://apps.apple.com/us/app/jump-park-%D0%BF%D0%B0%D1%80%D0%BA-%D1%81-%D0%B1%D0%B0%D1%82%D1%83%D1%82%D0%B0%D0%BC%D0%B8/id1563315885), [android](https://play.google.com/store/apps/details?id=org.bazumax.jumppark.app) | Take control gym membership for admin, and clients can see info. The first production mobile app using Quasar v2. | v2.0.0-beta.12 |
 | Quasar Gaming Template | [github](https://github.com/pratik227/quasar-gaming), [website](https://quasar-gaming.netlify.app/) | Free Quasar Gaming Template based on Vue js and Quasar Framework. | v1.12.12 |
