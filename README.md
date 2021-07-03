@@ -296,3 +296,4 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | KeeperRx | [Website](https://www.keeperrx.com), [PWA](https://app.keeperrx.com) | Take control of your medical life!  Create medical profiles for the entire family. | 1.14.7 (as of 20210324) |
 | SINTASI | [Website](https://www.sintasi.com), [SPA](https://app.sintasi.com) | Dashboard for Clinic management system. | v1.15.7 |
 | Mission | [github](https://github.com/mission-poss), [SPA](https://mission-poss.github.io) | Mission of small games | v1.11.3+ |
+| Griefed.de | [Website](https://griefed.de), [GitHub](https://github.com/Griefed/griefed.de), [GitHub Pages](https://griefed.github.io/griefed.de/) | A small homepage consisting of a couple of pages. Makes use of carousels, intersections, API calls, Fullscreen button, and other fun stuff. |  2.0.1 |
