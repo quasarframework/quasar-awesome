@@ -123,6 +123,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 
 | Name | Links | Description | Quasar |
 | --- | --- | --- | --- |
+| JHipster Quasar | [github](https://github.com/ctamisier/generator-jhipster-quasar), [demo](https://jhipster-quasar.herokuapp.com/) | Quasar for JHipster (blueprint) | v2 |
 | Quasar Echarts Example | [github](https://github.com/pratik227/quasar-echarts), [demo](https://quasar-echarts-v5.netlify.app/) | Project using Quasar framework and Echarts 📊 📈 📉 |  v1.15.0 |
 | Quasar Geolocation Example | [github](https://github.com/tomers/quasar-geolocation-example), [demo](https://quasar-geolocation-example.surge.sh/) | Sample app to demonstrate usage of geolocation with Quasar Framework | v1.9.8 |
 | Quasar 3D Model | [github](https://github.com/patrickmonteiro/quasar-3d-model), [demo](http://quasar3d.surge.sh/) | Sample application with a 3D file renderer (.stl, .obj, .json, .dae, .ply, .gltf) | v1.1.2 |
