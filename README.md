@@ -257,7 +257,6 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | LandHo | [gitlab](https://gitlab.com/riot.ai/landho), [PWA](https://landho.app) | Securely maintain your own search history across multiple search engines. | 1.0.0 |
 | Webby | [gitlab](https://gitlab.com/riot.ai/w3b3), [PWA](https://heywebby.app) | Discover a better internet.  Find and favorite Blockstack dapps | 1.2.1 |
 | Neolink | [website](http://poltava.neolink.com.ua/) | Online store. | v1 |
-| Coloban | [website](https://www.coloban.com), [Android](https://play.google.com/store/apps/details?id=org.cordova.coloban.app), Windows, MacOS | Collaborative task manager + Messsenger: Audio and Video calls to your colleagues and friends, TODOs on the fly during conversation, Kanban, Calendar for easy tasks management, Offline mode, Multiplatform and many more! | v1
 | Growth Journal | [website](https://growthjournal.app), [Android](https://play.google.com/store/apps/details?id=growthjournal.app), Web | Growth Journal: Become a better you. | 1.2.6
 | KetoShare | [Android](https://play.google.com/store/apps/details?id=com.customautosys.ketoshare), [website](https://customautosys.com/ketoshare) | A recipe and eatery sharing app for the Ketogenic dieting community, especially in Singapore. | v1.11.1 |
 | Vertical Kit | [PWA](https://www.vertical-kit.com/en/) | Climbing Ropes catalog. Find your perfect rope. | 1.5.4 |
@@ -296,3 +295,4 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | KeeperRx | [Website](https://www.keeperrx.com), [PWA](https://app.keeperrx.com) | Take control of your medical life!  Create medical profiles for the entire family. | 1.14.7 (as of 20210324) |
 | SINTASI | [Website](https://www.sintasi.com), [SPA](https://app.sintasi.com) | Dashboard for Clinic management system. | v1.15.7 |
 | Mission | [github](https://github.com/mission-poss), [SPA](https://mission-poss.github.io) | Mission of small games | v1.11.3+ |
+| Coloban | [Web/PWA](https://app.coloban.com), [Android](https://play.google.com/store/apps/details?id=org.cordova.coloban.app), [Windows/MacOS](https://www.coloban.com/download) | Collaborative task manager + Messsenger: Chat and calls to teammates, TODOs on the fly during conversation, Kanban, Calendar, Gantt, Eisenhower Offline mode, Multiplatform and many more! | v2
