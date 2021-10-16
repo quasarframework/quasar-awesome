@@ -207,7 +207,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Nebide | [website](https://nebide.block2100.com) | Cross-platform Nebulas smart contract IDE. | v0.16.0 |
 | Nick Zuccarelli | [website](https://nickzuccarelli.com.au) | A portfolio website for Nick Zuccarelli (a.k.a: me!) | v0.16.0 |
 | jQuizzer | [android](https://play.google.com/store/apps/details?id=org.yevlabs.jquizzer) | Simple Java 8 Quiz / Trainer App | v0.16.0 |
-| SA Email Builder | [website](https://emailbuilder.top) | Email template builder responsive v8 | v1.14.3 |
+| SA Email Builder | [website](https://emailbuilder.top) | Email template builder responsive v10 | v2.0.4 |
 | Boid.com | [website](https://www.boid.com) | A blockchain based social computing platform. Homepage and web/electron app are pure Quasar. | v0.16.4 |
 | Dappos Ethereum POS | [github](https://github.com/Dappos/Dappos), [website](http://dappos.app) | A Point of Sale (POS) app like Square! For Ethereum payments. Open in a Mobile wallet and receive customer's payments with an intuitive UI. | v0.17 |
 | INTI | [website](https://byinti.com) | Online white-label ticketing system with CRM and custom Applications | Latest |
@@ -250,7 +250,8 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | 61 Financial App | [Android](https://play.google.com/store/apps/details?id=au.com.sixonefinancial.app), [iOS](https://apps.apple.com/au/app/61-financial/id1467327628) | A replica of [61 Financial Web App](https://61financial.com.au) | v1 |
 | Vugify | [github](https://github.com/Blaconix/vugify), [website](https://vugify.now.sh/) | Convert Vue HTML syntax to Pug. | v1.0.0 |
 | Prokarman Free Resume Builder | [Website](https://prokarman.com/resume-builder) | A free resume builder to craft resumes for your dream job | v1 |
-| Yawik Application Form | [gitlab](https://gitlab.com/yawik/applicationform), [website](https://form.yawik.org) | Application Form which can be used to apply for job postings | v1.15.16 (patched) |
+| Yawik Application Form | [gitlab](https://gitlab.com/yawik/applicationform), [website](https://form.yawik.org) | Application Form which can be used to apply for job postings | v2 (patched) |
+| Yawik Jobwizard | [gitlab](https://gitlab.com/yawik/jobwizard), [website](https://yawik.gitlab.io/jobwizard) | Jobad generator with Google Jobs JSON-LD. Can authenticate against a keycloak | v2.1 (patched) |
 | Content Hub | [Website](https://contenthub.cloud) | Spread the word about your business everywhere online and track your impact. | v1 |
 | Gistor | [github](https://github.com/mallgroup/mal-gistor), [website](https://gistlike.pro) | Powerful UI for your Gist snippets stored on GitHub. | v1.2.x |
 | Privy | [github](https://github.com/Poeticode/Privy), [Android](https://play.google.com/store/apps/details?id=com.silentsilas.pr1vy) | An educational crypto-toolkit that steps through the math for password security, RSA keypair generation, and hashing algorithms. | 1.0.0-beta.17 |
@@ -271,6 +272,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Github Method | [github](https://github.com/cartovarc/github-method), [website](https://github-method.web.app/) | Cool habit tracker based on Github concept | v1 |
 | Afterman | [github](https://github.com/itsalb3rt/afterman) | Create beutiful docs in markdown and HTML from postman collection | v1 |
 | Offso | [SSR](https://www.offso.com) | Beautiful search application user interface | v1.9.0+ |
+| DevHelper | [website](https://tool.offso.com) | Online tool and software helper for dev | v2.0 |
 | Fotrino | [github](https://github.com/michaelmolino/fotrino-frontend), [website](https://www.fotrino.com) | Photo gallery | v1.11.1 |
 | coin-monitor | [github](https://github.com/coin-monitor), [SPA](https://coin-monitor.github.io) | Cryptocurrency market quant user interface | v1.11.3+ |
 | @winwin/hexo-editor | [github](https://github.com/YuJianghao/winwin-hexo-editor), [website](https://yujianghao.github.io/winwin-hexo-editor/) [demo](http://hexoeditor.demo.yujianghao.cn/)| An online editor for Hexo blog. | v1.8.6 |
@@ -296,4 +298,5 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | SINTASI | [Website](https://www.sintasi.com), [SPA](https://app.sintasi.com) | Dashboard for Clinic management system. | v1.15.7 |
 | Mission | [github](https://github.com/mission-poss), [SPA](https://mission-poss.github.io) | Mission of small games | v1.11.3+ |
 | Coloban | [Web/PWA](https://app.coloban.com), [Android](https://play.google.com/store/apps/details?id=org.cordova.coloban.app), [Windows/MacOS](https://www.coloban.com/download) | Collaborative task manager + Messsenger: Chat and calls to teammates, TODOs on the fly during conversation, Kanban, Calendar, Gantt, Eisenhower Offline mode, Multiplatform and many more! | v2
+| Dadadash | [GitHub](https://github.com/daptin/dadadash) | Office suite with file browser, document editor, spreadsheet editor, calendar and data tables with CRUDX API's ready to deploy | v1.0.0 |
 | Griefed.de | [Website](https://griefed.de), [GitHub](https://github.com/Griefed/griefed.de), [GitHub Pages](https://griefed.github.io/griefed.de/) | A small homepage consisting of a couple of pages. Makes use of carousels, intersections, API calls, Fullscreen button, and other fun stuff. |  2.0.3 |
