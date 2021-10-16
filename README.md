@@ -272,6 +272,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Github Method | [github](https://github.com/cartovarc/github-method), [website](https://github-method.web.app/) | Cool habit tracker based on Github concept | v1 |
 | Afterman | [github](https://github.com/itsalb3rt/afterman) | Create beutiful docs in markdown and HTML from postman collection | v1 |
 | Offso | [SSR](https://www.offso.com) | Beautiful search application user interface | v1.9.0+ |
+| DevHelper | [website](https://tool.offso.com) | Online tool and software helper for dev | v2.0 |
 | Fotrino | [github](https://github.com/michaelmolino/fotrino-frontend), [website](https://www.fotrino.com) | Photo gallery | v1.11.1 |
 | coin-monitor | [github](https://github.com/coin-monitor), [SPA](https://coin-monitor.github.io) | Cryptocurrency market quant user interface | v1.11.3+ |
 | @winwin/hexo-editor | [github](https://github.com/YuJianghao/winwin-hexo-editor), [website](https://yujianghao.github.io/winwin-hexo-editor/) [demo](http://hexoeditor.demo.yujianghao.cn/)| An online editor for Hexo blog. | v1.8.6 |
