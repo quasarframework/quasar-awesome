@@ -66,6 +66,7 @@
 | [codeguru](https://www.youtube.com/channel/UCyNpa6WDH4i2lEznoju1lMg) | [YouTube serie](https://www.youtube.com/watch?v=qxn7VdC8iCI&list=PLAl8os33KyOVpzfYznpguV_5euzKJ626V) | Quasar framework - Building production web app using GraphQL, AWS Amplify, and Quasar ||
 | [Impeccable Ninja](https://www.youtube.com/channel/UC9Vn7Ye-wJmH97IqPHIcSig) | [YouTube](https://www.youtube.com/watch?v=GVOsLNgS2Gg&feature=youtu.be) | Sign and align Cordova apps created with Vue and Quasar ||
 | [Patrick Monteiro](https://www.youtube.com/playlist?list=PLBjvYfV_TvwL7srfoBB0QxP1P-iJ5sQnc) | [YouTube serie](https://www.youtube.com/playlist?list=PLBjvYfV_TvwL7srfoBB0QxP1P-iJ5sQnc) | Quasar Framwork 1.0 course(pt-br) | v1.x |
+| [Patrick Monteiro](https://www.youtube.com/c/PatrickMonteiroEng) | [YouTube](https://youtube.com/playlist?list=PLBjvYfV_TvwJDPHU7VEANIa5vQz45xOJK) | How to Publish a PWA on Google Play | v1.x |
 
 Do not forget to watch official [video tutorials](https://quasar.dev/video-tutorials).
 
@@ -300,3 +301,4 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Mission | [github](https://github.com/mission-poss), [SPA](https://mission-poss.github.io) | Mission of small games | v1.11.3+ |
 | Coloban | [Web/PWA](https://app.coloban.com), [Android](https://play.google.com/store/apps/details?id=org.cordova.coloban.app), [Windows/MacOS](https://www.coloban.com/download) | Collaborative task manager + Messsenger: Chat and calls to teammates, TODOs on the fly during conversation, Kanban, Calendar, Gantt, Eisenhower Offline mode, Multiplatform and many more! | v2
 | Dadadash | [GitHub](https://github.com/daptin/dadadash) | Office suite with file browser, document editor, spreadsheet editor, calendar and data tables with CRUDX API's ready to deploy | v1.0.0 |
+| E-estoque | [TWA Google Play](https://play.google.com/store/apps/details?id=br.com.e_estoque.twa), [PWA](https://e-estoque.com.br/) | PWA posted on google play as TWA. A Simple, Offline Inventory System | v1.0.0 |
