@@ -145,6 +145,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 
 | Name | Links | Description | Quasar |
 | --- | --- | --- | --- |
+| Tomatodo  | [github](https://github.com/emingenc/tomatodo),[website](https://tomatodo.web.app/),[android](https://play.google.com/store/apps/details?id=com.emdiapps.tomatodo)  | Pomodoro app that rewards with luck wheel after pomodoro sessions | v2.1.0 |
 | GreaterWMS | [github](https://github.com/Singosgu/GreaterWMS),[website](https://production.56yhz.com/#/) | Open Source Warehouse Management System | v2.1.0 |
 | Gobazar.uz | [website](https://gobazar.uz) | The first big e-commerce website made with Vue.js/Quasar | v1 |
 | Jump Park | [ios](https://apps.apple.com/us/app/jump-park-%D0%BF%D0%B0%D1%80%D0%BA-%D1%81-%D0%B1%D0%B0%D1%82%D1%83%D1%82%D0%B0%D0%BC%D0%B8/id1563315885), [android](https://play.google.com/store/apps/details?id=org.bazumax.jumppark.app) | Take control gym membership for admin, and clients can see info. The first production mobile app using Quasar v2. | v2.0.0-beta.12 |
