@@ -30,8 +30,8 @@
 ### External Resources
 > These resources have not been created by Quasar Team, nor do we maintain them or financially benefit from them.
 
-- Video tutorial @Udemy on "Quasar Framework: Cross-Platform VueJS Vuex & Firebase Apps": https://dannys.link/quasarf
-- Video tutorial @Udemy on "Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)": https://www.udemy.com/vuejs-2-the-complete-guide/
+- Video tutorial @Udemy on "Quasar Framework: Cross-Platform VueJS Vuex & Firebase Apps": [https://dannys.link/quasar](https://dannys.link/quasar)
+- Video tutorial @Udemy on "Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)": [https://www.udemy.com/vuejs-2-the-complete-guide/](https://www.udemy.com/vuejs-2-the-complete-guide/)
 
 ### Official Community
 
