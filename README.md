@@ -30,8 +30,8 @@
 ### External Resources
 > These resources have not been created by Quasar Team, nor do we maintain them or financially benefit from them.
 
-- Video tutorial @Udemy on "Quasar Framework: Cross-Platform VueJS Vuex & Firebase Apps": https://dannys.link/quasarf
-- Video tutorial @Udemy on "Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)": https://www.udemy.com/vuejs-2-the-complete-guide/
+- Video tutorial @Udemy on "Quasar Framework: Cross-Platform VueJS Vuex & Firebase Apps": [https://dannys.link/quasar](https://dannys.link/quasar)
+- Video tutorial @Udemy on "Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)": [https://www.udemy.com/vuejs-2-the-complete-guide/](https://www.udemy.com/vuejs-2-the-complete-guide/)
 
 ### Official Community
 
@@ -88,6 +88,7 @@ Do not forget to watch official [video tutorials](https://quasar.dev/video-tutor
 | [Troy Moreland](https://github.com/34fame) | [Medium](https://levelup.gitconnected.com/add-recurring-rules-for-calendar-dates-to-your-application-401e39b56b2f) | Add Recurring Rules for Calendar Dates to Your Application | ^1.12.0 |
 | [Troy Moreland](https://github.com/34fame) | [Medium](https://levelup.gitconnected.com/add-dynamic-forms-to-your-vue-app-609de4005a2b) | Add Dynamic Forms to Your Vue App | ^1.13.0 |
 | [Patrick Monteiro](https://github.com/patrickmonteiro) | [Medium](https://medium.com/building-kovi/criando-um-pwa-com-framework-vue-js-e-quasar-6b7e1fbc743d) | Criando um PWA com Vue.js e Quasar(pt-br) | v1.x |
+| [Joel Olawanle](https://github.com/olawanlejoel) | [Smashing Magazine](https://www.smashingmagazine.com/2021/10/introduction-quasar-framework-cross-platform-applications/) | An Introduction To Quasar Framework: Building Cross-Platform Applications ||
 
 Do not forget to read the official [blog](https://blog.quasar.dev/).
 
@@ -144,6 +145,8 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 
 | Name | Links | Description | Quasar |
 | --- | --- | --- | --- |
+| Tomatodo  | [github](https://github.com/emingenc/tomatodo),[website](https://tomatodo.web.app/),[android](https://play.google.com/store/apps/details?id=com.emdiapps.tomatodo)  | Pomodoro app that rewards with luck wheel after pomodoro sessions | v2.0.0 |
+| GreaterWMS | [github](https://github.com/Singosgu/GreaterWMS),[website](https://production.56yhz.com/#/) | Open Source Warehouse Management System | v2.1.0 |
 | Gobazar.uz | [website](https://gobazar.uz) | The first big e-commerce website made with Vue.js/Quasar | v1 |
 | Jump Park | [ios](https://apps.apple.com/us/app/jump-park-%D0%BF%D0%B0%D1%80%D0%BA-%D1%81-%D0%B1%D0%B0%D1%82%D1%83%D1%82%D0%B0%D0%BC%D0%B8/id1563315885), [android](https://play.google.com/store/apps/details?id=org.bazumax.jumppark.app) | Take control gym membership for admin, and clients can see info. The first production mobile app using Quasar v2. | v2.0.0-beta.12 |
 | Quasar Gaming Template | [github](https://github.com/pratik227/quasar-gaming), [website](https://quasar-gaming.netlify.app/) | Free Quasar Gaming Template based on Vue js and Quasar Framework. | v1.12.12 |
@@ -181,7 +184,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | The Amusing Development | [website](https://portfolio-site-78a03.firebaseapp.com) | Portfolio website | v0.14.7 |
 | Habot | [github](https://github.com/ghys/habot) | A chatbot for openHAB using machine-learning natural language processing from OpenNLP | v0.14.6 |
 | TMdb | [website](https://codingstones.github.io/tmdb-quasar/#/popular_films), [github](https://github.com/codingstones/tmdb-quasar) | Quasar app with The Movie DB catalog | v0.14.7 |
-| Take Action | [android](https://play.google.com/store/apps/details?id=com.stephensuess.takeaction), [ios](https://itunes.apple.com/us/app/takeaction-me/id1276844461) | v0.14.5 |
+| Take Action | [android](https://play.google.com/store/apps/details?id=com.stephensuess.takeaction), [ios](https://itunes.apple.com/us/app/takeaction-me/id1276844461) | v0.14.5 ||
 | Voting Daap | [github](https://github.com/Vishwas1/voting-daap-2017) | E-voting | v0.14 |
 | Kanttum | [website](https://app.kanttum.com/) | Teacher training without complication | v0.14.8 |
 | Stock Scanner | [github](https://github.com/vikramIde/stock_scan1) | Working Demo of Barcode/QR code scanner using VueJs+Quasar+Cordova | v0.13.4 |
@@ -258,7 +261,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | LandHo | [gitlab](https://gitlab.com/riot.ai/landho), [PWA](https://landho.app) | Securely maintain your own search history across multiple search engines. | 1.0.0 |
 | Webby | [gitlab](https://gitlab.com/riot.ai/w3b3), [PWA](https://heywebby.app) | Discover a better internet.  Find and favorite Blockstack dapps | 1.2.1 |
 | Neolink | [website](http://poltava.neolink.com.ua/) | Online store. | v1 |
-| Growth Journal | [website](https://growthjournal.app), [Android](https://play.google.com/store/apps/details?id=growthjournal.app), Web | Growth Journal: Become a better you. | 1.2.6
+| Growth Journal | [website](https://growthjournal.app), [Android](https://play.google.com/store/apps/details?id=growthjournal.app), Web | Growth Journal: Become a better you. | 1.2.6|
 | KetoShare | [Android](https://play.google.com/store/apps/details?id=com.customautosys.ketoshare), [website](https://customautosys.com/ketoshare) | A recipe and eatery sharing app for the Ketogenic dieting community, especially in Singapore. | v1.11.1 |
 | Vertical Kit | [PWA](https://www.vertical-kit.com/en/) | Climbing Ropes catalog. Find your perfect rope. | 1.5.4 |
 | MicroIoT Studio | [github](https://github.com/MicroIoT/studio), [website](https://www.microiot.top) | MicroIoT Platform web UI management tool | v1.5.0 |
@@ -272,6 +275,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Github Method | [github](https://github.com/cartovarc/github-method), [website](https://github-method.web.app/) | Cool habit tracker based on Github concept | v1 |
 | Afterman | [github](https://github.com/itsalb3rt/afterman) | Create beutiful docs in markdown and HTML from postman collection | v1 |
 | Offso | [SSR](https://www.offso.com) | Beautiful search application user interface | v1.9.0+ |
+| DevHelper | [website](https://tool.offso.com) | Online tool and software helper for dev | v2.0 |
 | Fotrino | [github](https://github.com/michaelmolino/fotrino-frontend), [website](https://www.fotrino.com) | Photo gallery | v1.11.1 |
 | coin-monitor | [github](https://github.com/coin-monitor), [SPA](https://coin-monitor.github.io) | Cryptocurrency market quant user interface | v1.11.3+ |
 | @winwin/hexo-editor | [github](https://github.com/YuJianghao/winwin-hexo-editor), [website](https://yujianghao.github.io/winwin-hexo-editor/) [demo](http://hexoeditor.demo.yujianghao.cn/)| An online editor for Hexo blog. | v1.8.6 |
@@ -296,4 +300,6 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | KeeperRx | [Website](https://www.keeperrx.com), [PWA](https://app.keeperrx.com) | Take control of your medical life!  Create medical profiles for the entire family. | 1.14.7 (as of 20210324) |
 | SINTASI | [Website](https://www.sintasi.com), [SPA](https://app.sintasi.com) | Dashboard for Clinic management system. | v1.15.7 |
 | Mission | [github](https://github.com/mission-poss), [SPA](https://mission-poss.github.io) | Mission of small games | v1.11.3+ |
-| Coloban | [Web/PWA](https://app.coloban.com), [Android](https://play.google.com/store/apps/details?id=org.cordova.coloban.app), [Windows/MacOS](https://www.coloban.com/download) | Collaborative task manager + Messsenger: Chat and calls to teammates, TODOs on the fly during conversation, Kanban, Calendar, Gantt, Eisenhower Offline mode, Multiplatform and many more! | v2
+| Coloban | [Web/PWA](https://app.coloban.com), [Android](https://play.google.com/store/apps/details?id=org.cordova.coloban.app), [Windows/MacOS](https://www.coloban.com/download) | Collaborative task manager + Messsenger: Chat and calls to teammates, TODOs on the fly during conversation, Kanban, Calendar, Gantt, Eisenhower Offline mode, Multiplatform and many more! | v2|
+| Dadadash | [GitHub](https://github.com/daptin/dadadash) | Office suite with file browser, document editor, spreadsheet editor, calendar and data tables with CRUDX API's ready to deploy | v1.0.0 |
+| BlogToNFT | [website](https://blogtonft.com/) | BlogToNFT is for all the writers/bloggers who wish to create their own NFT. At BlogToNFT a blogger/writer will have to prove their ownership and after adding details they can easily publish NFT straightaway into the Blockchain which is also visible on opensea | v1.0.0 |
