@@ -201,7 +201,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Realworld Conduit | [github](https://github.com/geoidesic/realworld-quasar/) | Medium.com clone | v0.15.10 |
 | vue-quasar-admin | [website](http://jaycewu.coding.me/vue-quasar-admin),[github](https://github.com/wjkang/vue-quasar-admin) | admin-dashboard | v0.15.14 |
 | letsbutterfly(tm) | [pwa](https://app.letsbutterfly.com) | Real estate platform in your pocket. https://letsbutterfly.com | v0.15.10 |
-| quasar-documentation++ | [github](https://github.com/slowaways/quasar-documentation-pp) | All-in-one Quasar Documentation | v0.16.0 |
+| quasar-documentation++ | [github](https://github.com/slowaways/quasar-documentation-pp) | An Alternative Documentation of Quasar Framework | v2.6.5 |
 | Dolphin Note | [website](https://www.donote.info) | A Simple and Elegant markdown note application. | v0.15.14 |
 | Quicknote | [website](https://quick.donote.info) | A Simple and Elegant markdown quicknote DApp. | v0.15.14 |
 | T9N Manager | [website](http://t9n.ist) | Translation manager for developers | v0.16.0 |
