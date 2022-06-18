@@ -45,6 +45,7 @@
 
 - [Quasar Brazil - Telegram Channel](https://t.me/quasarframeworkbrasil) - *Similar with #brazil channel at [Official Discord](https://chat.quasar.dev)*
 - [Quasar Russia - Telegram Channel](https://t.me/quasar_ru) - *Similar with #russkiy channel at [Official Discord](https://chat.quasar.dev)*
+- [Quasar Spain - Telegram Channel](https://t.me/quasarframework_es) - *Similar with #spanish channel at [Official Discord](https://chat.quasar.dev)*
 
 ### Tutorials
 
