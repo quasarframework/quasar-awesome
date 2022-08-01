@@ -306,3 +306,4 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Dadadash | [GitHub](https://github.com/daptin/dadadash) | Office suite with file browser, document editor, spreadsheet editor, calendar and data tables with CRUDX API's ready to deploy | v1.0.0 |
 | BlogToNFT | [website](https://blogtonft.com/) | BlogToNFT is for all the writers/bloggers who wish to create their own NFT. At BlogToNFT a blogger/writer will have to prove their ownership and after adding details they can easily publish NFT straightaway into the Blockchain which is also visible on opensea | v1.0.0 |
 | Hesabdaram | [website](https://landing.hesabdaram.ir) | Hesabdaram is an accounting social network | v2.7.0 |
+| Supplier Of Bamachoub | [website](https://supplier.bamachoub.com) | Management panel and seller panel of Bamachob market website | v2.7.5 |
