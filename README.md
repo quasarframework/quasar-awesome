@@ -45,6 +45,7 @@
 
 - [Quasar Brazil - Telegram Channel](https://t.me/quasarframeworkbrasil) - *Similar with #brazil channel at [Official Discord](https://chat.quasar.dev)*
 - [Quasar Russia - Telegram Channel](https://t.me/quasar_ru) - *Similar with #russkiy channel at [Official Discord](https://chat.quasar.dev)*
+- [Quasar Spain - Telegram Channel](https://t.me/quasarframework_es) - *Similar with #spanish channel at [Official Discord](https://chat.quasar.dev)*
 
 ### Tutorials
 
@@ -140,11 +141,13 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Quasar Oh-my-zsh | [github](https://github.com/sajt/oh-my-zsh) | A plugin for Oh-my-zsh | v1.0.0 |
 | APIWrapper | [github](https://github.com/RobertoLangarica/quasar-app-extension-api-wrapper), [npm](https://www.npmjs.com/package/api-client-wrapper) | A package designed to wrap up the most common features of an api client implementation, with common features like: Vuex store integration, masive requests, homogeneous responses, concurrency... | v1 |
 | Quasar DevOps | [github](https://github.com/Qoyyuum/quasar-devops) | A repo dedicated to CI/CD for Quasar Framework | v1 |
+| Starter kit | [github](https://github.com/MilosPaunovic/quasar-v1-starter) | Starter kit for quickly lifting your project from the ground up; includes public pages (Login, Register, Reset Password) with Cypress testing setup, Router & VUEX are present with a lot more helpful stuff implemented. | v1 |
 
 # Projects Using Quasar
 
 | Name | Links | Description | Quasar |
 | --- | --- | --- | --- |
+| Quasar Admin Premium  | [website](https://quasar-admin-premium.netlify.app/) | Beautiful premium Quasar admin template for Vue 3 | v2.7.1 |
 | Tomatodo  | [github](https://github.com/emingenc/tomatodo),[website](https://tomatodo.web.app/),[android](https://play.google.com/store/apps/details?id=com.emdiapps.tomatodo)  | Pomodoro app that rewards with luck wheel after pomodoro sessions | v2.0.0 |
 | GreaterWMS | [github](https://github.com/Singosgu/GreaterWMS),[website](https://production.56yhz.com/#/) | Open Source Warehouse Management System | v2.1.0 |
 | Gobazar.uz | [website](https://gobazar.uz) | The first big e-commerce website made with Vue.js/Quasar | v1 |
@@ -304,4 +307,5 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Dadadash | [GitHub](https://github.com/daptin/dadadash) | Office suite with file browser, document editor, spreadsheet editor, calendar and data tables with CRUDX API's ready to deploy | v1.0.0 |
 | BlogToNFT | [website](https://blogtonft.com/) | BlogToNFT is for all the writers/bloggers who wish to create their own NFT. At BlogToNFT a blogger/writer will have to prove their ownership and after adding details they can easily publish NFT straightaway into the Blockchain which is also visible on opensea | v1.0.0 |
 | Hesabdaram | [website](https://landing.hesabdaram.ir) | Hesabdaram is an accounting social network | v2.7.0 |
+| Supplier Of Bamachoub | [website](https://supplier.bamachoub.com) | Management panel and seller panel of Bamachob market website | v2.7.5 |
 | gin-quasar-admin | [Github](https://github.com/Junvary/gin-quasar-admin), [Website](http://81.68.159.232/) | Free and Open source management system based on Quasar2 and Golang | v2.7.7 |
