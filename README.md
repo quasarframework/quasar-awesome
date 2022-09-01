@@ -90,6 +90,7 @@ Do not forget to watch official [video tutorials](https://quasar.dev/video-tutor
 | [Troy Moreland](https://github.com/34fame) | [Medium](https://levelup.gitconnected.com/add-dynamic-forms-to-your-vue-app-609de4005a2b) | Add Dynamic Forms to Your Vue App | ^1.13.0 |
 | [Patrick Monteiro](https://github.com/patrickmonteiro) | [Medium](https://medium.com/building-kovi/criando-um-pwa-com-framework-vue-js-e-quasar-6b7e1fbc743d) | Criando um PWA com Vue.js e Quasar(pt-br) | v1.x |
 | [Joel Olawanle](https://github.com/olawanlejoel) | [Smashing Magazine](https://www.smashingmagazine.com/2021/10/introduction-quasar-framework-cross-platform-applications/) | An Introduction To Quasar Framework: Building Cross-Platform Applications ||
+| [Tony Xu](https://github.com/tony-xlh) | [Article](https://www.dynamsoft.com/codepool/quasar-qr-code-scanner.html) | How to Build a Quasar QR Code Scanner with Capacitor | v1.x |
 
 Do not forget to read the official [blog](https://blog.quasar.dev/).
 
