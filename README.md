@@ -125,6 +125,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 
 | Name | Links | Description | Quasar |
 | --- | --- | --- | --- |
+| Readme Pro | [github](https://github.com/mayur091193/readme-pro), [demo](https://readmepro.netlify.app/) | An easy and simple way to generate readme written in quasar framework  |  v2.7.7 |
 | Quasar Echarts Example | [github](https://github.com/pratik227/quasar-echarts), [demo](https://quasar-echarts-v5.netlify.app/) | Project using Quasar framework and Echarts 📊 📈 📉 |  v1.15.0 |
 | Quasar Geolocation Example | [github](https://github.com/tomers/quasar-geolocation-example), [demo](https://quasar-geolocation-example.surge.sh/) | Sample app to demonstrate usage of geolocation with Quasar Framework | v1.9.8 |
 | Quasar 3D Model | [github](https://github.com/patrickmonteiro/quasar-3d-model), [demo](http://quasar3d.surge.sh/) | Sample application with a 3D file renderer (.stl, .obj, .json, .dae, .ply, .gltf) | v1.1.2 |
@@ -147,6 +148,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 
 | Name | Links | Description | Quasar |
 | --- | --- | --- | --- |
+| Readme Pro | [Github](https://github.com/mayur091193/readme-pro), [Website](https://readmepro.netlify.app/) | Readme Pro is an open-source readme and github profile generator written in Quasar Framework | v2.7.7 |
 | Quasar Admin Premium  | [website](https://quasar-admin-premium.netlify.app/) | Beautiful premium Quasar admin template for Vue 3 | v2.7.1 |
 | Tomatodo  | [github](https://github.com/emingenc/tomatodo),[website](https://tomatodo.web.app/),[android](https://play.google.com/store/apps/details?id=com.emdiapps.tomatodo)  | Pomodoro app that rewards with luck wheel after pomodoro sessions | v2.0.0 |
 | GreaterWMS | [github](https://github.com/Singosgu/GreaterWMS),[website](https://production.56yhz.com/#/) | Open Source Warehouse Management System | v2.1.0 |
