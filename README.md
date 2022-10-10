@@ -143,6 +143,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | APIWrapper | [github](https://github.com/RobertoLangarica/quasar-app-extension-api-wrapper), [npm](https://www.npmjs.com/package/api-client-wrapper) | A package designed to wrap up the most common features of an api client implementation, with common features like: Vuex store integration, masive requests, homogeneous responses, concurrency... | v1 |
 | Quasar DevOps | [github](https://github.com/Qoyyuum/quasar-devops) | A repo dedicated to CI/CD for Quasar Framework | v1 |
 | Starter kit | [github](https://github.com/MilosPaunovic/quasar-v1-starter) | Starter kit for quickly lifting your project from the ground up; includes public pages (Login, Register, Reset Password) with Cypress testing setup, Router & VUEX are present with a lot more helpful stuff implemented. | v1 |
+| OTA system | [github](https://github.com/MilosPaunovic/capacitor-updater) | Auto update system for mobile app, send update to users without app store review | v2 |
 
 # Projects Using Quasar
 
