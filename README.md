@@ -119,6 +119,8 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | [QsSelect](https://github.com/heartbeatLV/app-extension-qs-select) | A searchable QSelect with which accepts an url | v0.4.2 |
 | [QGoogleMap](https://github.com/mayur091193/q-google-map) , [Docs and Examples](https://q-google-map.netlify.app/) | QGoogleMap(q-google-map) - Quasar app extension to integrate Google Maps | v1.13.2 |
 | [QWidgets](https://github.com/mayank091193/quasar-widgets) , [Docs and Examples](https://quasar-widgets.netlify.app/#/docs) | QWidgets(q-widgets) - An awesome set of beautiful Widgets made with love using Quasar Framework and Vue.js! | v1.1.0 |
+| [QStatistic](https://github.com/Junvary/quasar-app-extension-qstatistic) | QStatistic allows you to display data statistically. |
+| [QCascader](https://github.com/Junvary/quasar-app-extension-qcascader) | QCascader can be used to display and select tree structured data. |
 
 # Other Community Components and Tools
 > For older Quasar versions or not supplied through a Quasar App Extension
@@ -310,4 +312,4 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | BlogToNFT | [website](https://blogtonft.com/) | BlogToNFT is for all the writers/bloggers who wish to create their own NFT. At BlogToNFT a blogger/writer will have to prove their ownership and after adding details they can easily publish NFT straightaway into the Blockchain which is also visible on opensea | v1.0.0 |
 | Hesabdaram | [website](https://landing.hesabdaram.ir) | Hesabdaram is an accounting social network | v2.7.0 |
 | Supplier Of Bamachoub | [website](https://supplier.bamachoub.com) | Management panel and seller panel of Bamachob market website | v2.7.5 |
-| gin-quasar-admin | [Github](https://github.com/Junvary/gin-quasar-admin), [Website](http://81.68.159.232/) | Free and Open source management system based on Quasar2 and Golang | v2.7.7 |
+| gin-quasar-admin | [Github](https://github.com/Junvary/gin-quasar-admin), [Website](http://81.68.159.232/) | A full-featured management system based on Quasar2,Vue3,Go,Gin,Gorm. | v2.10.1 |
