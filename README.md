@@ -150,6 +150,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 
 | Name | Links | Description | Quasar |
 | --- | --- | --- | --- |
+| Quasar Template | [github](https://github.com/mohitransubhe-supernatural/quasar-template), [website](https://quasar-template.netlify.app/) | Beautiful Quasar template for Vue 3 | v2.6.0 |
 | Readme Pro | [Github](https://github.com/mayur091193/readme-pro), [Website](https://readmepro.netlify.app/) | Readme Pro is an open-source readme and github profile generator written in Quasar Framework | v2.7.7 |
 | Quasar Admin Premium  | [website](https://quasar-admin-premium.netlify.app/) | Beautiful premium Quasar admin template for Vue 3 | v2.7.1 |
 | Tomatodo  | [github](https://github.com/emingenc/tomatodo),[website](https://tomatodo.web.app/),[android](https://play.google.com/store/apps/details?id=com.emdiapps.tomatodo)  | Pomodoro app that rewards with luck wheel after pomodoro sessions | v2.0.0 |
