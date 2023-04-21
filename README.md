@@ -167,7 +167,6 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Personal website template | [github](https://github.com/mayank091193/mayank-profile), [website](https://mayank-patel.netlify.app/#/) | Free template for personal website | v1.9.15 |
 | Quasar Typescript Admin Template| [github](https://github.com/dirkhe1051931999/quasar-typescript-admin-template) | 💫 💫 template for quasar admin with typescript 🌝 🌝 support pwa,electron,spa,Ionic | v0.0.1 |
 | Alighieri | [github](https://github.com/zuck/alighieri/), [website](https://zuck.github.io/alighieri) | A distraction-free writer tool | v1.15.4 |
-| P.volve | [website](https://my.pvolve.com) | [Video workout subscription](https://my.pvolve.com/preview), [landing pages](https://my.pvolve.com/offer/subway), also includes weight tracking, photo upload, etc. for subscribers | v0.15.9 |
 | Brotheld | [android](https://play.google.com/store/apps/details?id=de.sopamo.brotheld), [ios](https://itunes.apple.com/de/app/brotheld/id1193619132?l=de&ls=1&mt=8) | Brotheld (Bread Hero), a german app for hobby bakers | v0.14 |
 | MyClinic | [android](https://play.google.com/store/apps/details?id=today.myclinic.mobileapp&hl=en), [ios](https://itunes.apple.com/us/app/myclinic/id1311703491?ls=1&mt=8) | Application for displaying and managing medical clinic examination room status | v0.14 |
 | Weacast | [github](https://github.com/weacast/weacast), [website](https://weacast.github.io/weacast-docs/) | Open source platform to gather, expose and make use of weather forecast data | v0.13.10 |
@@ -176,12 +175,12 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | SHUhelper | [github](https://github.com/shuopensourcecommunity/SHUhelper), [website](https://www.shuhelper.cn)| Open source university online community and toolkits | v0.14.7 |
 | 2018 Quarterly Tax Estimator | [android](https://play.google.com/store/apps/details?id=com.codingfriend.quarterlytaxes), [iOS](https://itunes.apple.com/us/app/2018-quarterly-tax-estimator/id1360874746?ls=1&mt=8), [Mac App Store](https://itunes.apple.com/us/app/2018-quarterly-tax-estimator/id1342826706?ls=1&mt=12) | Estimates quarterly taxes and taxes to save per paycheck | v0.14 |
 | Go2See | [website](https://m.go2see.ru) | Russian online travel service | v0.14.7 |
-| Guitar Workshop | [website](https://guitarworkshop.digital) | E-commerce shop, library, streaming video player, real time chat | v0.15.9 |
+| FilmStyles | [website](https://www.filmstyl.es/) | E-commerce shop, library, streaming video player | v1.16.0 |
 | Karrot (Foodsaving Worldwide) | [github](https://github.com/yunity/karrot-frontend), [website](https://karrot.world) | A web-app to support foodsaving groups worldwide, with the goal to save our common resources as much as possible | v1.14.6 |
 | onvif-nvt-snapshot-vue-sample | [github](https://github.com/hawkeye64/onvif-nvt-snapshot-vue-sample) | An onvif-nvt (package) sample project for snapshots and PTZ using Vue 2.5 and Quasar 0.14.7 | v0.14.7 |
 | Finca Report | [website/android/ios](https://fincareport.com/) | Sistema de informacion para el cultivo de palma africana| v0.15.3 |
 | SoFoot | [android](https://play.google.com/store/apps/details?id=com.sofoot), [ios](https://itunes.apple.com/fr/app/so-foot/id591043947?mt=8) | SO FOOT is an iOS & Android mobile football news application, seen differently. With original and offbeat content, the app is based on real time and smart content feed to make it simple and accessible with a scroll. | v0.14.7 |
-| PaintTubeTV | [website](https://painttube.tv) | Shop, library, streaming video player, real time chat | v0.15.9 |
+| PaintTubeTV | [website](https://digital.painttube.tv) | Shop, library, streaming video player, real time chat | v1.16.0 |
 | MyBibou | [android](https://play.google.com/store/apps/details?id=io.benovea.mybibou&hl=fr), [ios](https://itunes.apple.com/fr/app/mybibou/id1319283569) | MyBibou is an iOS & Android mobile application that simplifies the life of parents for successful family outings. The app geolocates users on a map and give them relevant information based on their needs and situation. | v0.14.7 |
 | Budgex | [pwa](https://budgex-e481b.firebaseapp.com) | Budget and expense tracker | v0.15.1 |
 | Booly | [website](https://boolyapp.com/) | A people-matching tool | v0.14.6 |
@@ -201,7 +200,6 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Tigris | [github](https://github.com/jogral/tigris-desktop-ui) | Micro-learning for professionals | v0.13 |
 | Pilgrim and Wanderer's Songbook | [android](https://play.google.com/store/apps/details?id=com.maxprog.songbooks), [ios](https://itunes.apple.com/pl/app/%C5%9Bpiewnik-pielgrzyma-w%C4%99drowca/id1364666898?l=pl&mt=8) | Mobile Application Songbooks has been created for one of the biggest Protestant Church. | v0.15.12 |
 | dockJob | [github](https://github.com/rmetcalf9/dockJob), [docker hub](https://hub.docker.com/r/metcarob/dockjob/) | Job scheduler with a web UI - designed to run inside a container. | v0.15.5 |
-| Your Daily Walk | [website](https://yourdailywalk.com/) | Subscription ecommerce, workout video calendar, streaming video player, real time chat | v0.15.9 |
 | Chronocross | [android](https://play.google.com/store/apps/details?id=org.yevlabs.chronocross) | Productivity tool that combines Pomodoro Technique and Eisenhower Matrix. | v0.15.10 |
 | Jornal Pelicano | [android](https://play.google.com/store/apps/details?id=com.cordova.jornalpelicano&hl=pt) | Mobile application for a Navy Web Journal | v0.14.1 |
 | Vuenote | [github](https://github.com/ExNG/vuenote) | Vuenote is the simplest note app. | v0.15.10 |
@@ -212,6 +210,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | quasar-documentation++ | [github](https://github.com/slowaways/quasar-documentation-pp) | All-in-one Quasar Documentation | v0.16.0 |
 | Dolphin Note | [website](https://www.donote.info) | A Simple and Elegant markdown note application. | v0.15.14 |
 | Quicknote | [website](https://quick.donote.info) | A Simple and Elegant markdown quicknote DApp. | v0.15.14 |
+| Homespun | [website](https://homespun.com/) | E-commerce shop, video library, streaming video player, live chat | v1.16.0 |
 | T9N Manager | [website](http://t9n.ist) | Translation manager for developers | v0.16.0 |
 | Kicktrack | [website](https://kicktrack.app), [Android](https://play.google.com/store/apps/details?id=kicktrack.app), [iOS](https://itunes.apple.com/us/app/kicktrack/id1397163195?mt=8) | Foosball score keeper | v0.16.0 |
 | Musical Data | [website](https://musicaldata.com) | Access Spotify's data of your favorite music. | v0.16.0 |
