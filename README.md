@@ -319,6 +319,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | OIPIPE | [website](https://oipipe.com/) | Online Wholesale store. | v1.15.4 |
 | KeeperRx | [Website](https://www.keeperrx.com), [PWA](https://app.keeperrx.com) | Take control of your medical life!  Create medical profiles for the entire family. | 1.14.7 (as of 20210324) |
 | SINTASI | [Website](https://www.sintasi.com), [SPA](https://app.sintasi.com) | Dashboard for Clinic management system. | v1.15.7 |
+| TwinAPI | [Website](https://www.twinapi.com) | Digital Twin and Engineering Software Development Platform. Create scripts and convert to cloud Apps. | v1.15.2 |
 | FitclubFinland.fi | [Web/SSR](https://www.fitclubfinland.fi), [iOS](https://itunes.apple.com/fi/app/fitclubfinland/id1438673501?l=fi&mt=8), [Android](https://play.google.com/store/apps/details?id=com.nordlane.app_fitclubfinland_fi) | Finland's most popular fitness online course website. Apps are built with Capacitor.  | v1.15.5 |
 | Mission | [github](https://github.com/mission-poss), [SPA](https://mission-poss.github.io) | Mission of small games | v1.11.3+ |
 | Coloban | [Web/PWA](https://app.coloban.com), [Android](https://play.google.com/store/apps/details?id=org.cordova.coloban.app), [Windows/MacOS](https://www.coloban.com/download) | Collaborative task manager + Messsenger: Chat and calls to teammates, TODOs on the fly during conversation, Kanban, Calendar, Gantt, Eisenhower Offline mode, Multiplatform and many more! | v2|
