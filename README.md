@@ -69,6 +69,7 @@
 | [Impeccable Ninja](https://www.youtube.com/channel/UC9Vn7Ye-wJmH97IqPHIcSig) | [YouTube](https://www.youtube.com/watch?v=GVOsLNgS2Gg&feature=youtu.be) | Sign and align Cordova apps created with Vue and Quasar ||
 | [Patrick Monteiro](https://www.youtube.com/playlist?list=PLBjvYfV_TvwL7srfoBB0QxP1P-iJ5sQnc) | [YouTube serie](https://www.youtube.com/playlist?list=PLBjvYfV_TvwL7srfoBB0QxP1P-iJ5sQnc) | Quasar Framwork 1.0 course(pt-br) | v1.x |
 | [Patrick Monteiro](https://www.youtube.com/c/PatrickMonteiroEng) | [YouTube](https://youtube.com/playlist?list=PLBjvYfV_TvwJDPHU7VEANIa5vQz45xOJK) | How to Publish a PWA on Google Play | v1.x |
+| [Danny Connell](https://www.youtube.com/channel/UC6eR_ndNgaTeE5t2Ud4ZiHw) | [YouTube](https://www.youtube.com/watch?v=la-0ulfn0_M) | Create a Twitter Clone with Vue.js, Quasar Framework & Firebase for iOS, Android, Mac & Windows | v1.x |
 
 Do not forget to watch official [video tutorials](https://quasar.dev/video-tutorials).
 
