@@ -123,6 +123,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | [QWidgets](https://github.com/mayank091193/quasar-widgets) , [Docs and Examples](https://quasar-widgets.netlify.app/#/docs) | QWidgets(q-widgets) - An awesome set of beautiful Widgets made with love using Quasar Framework and Vue.js! | v1.1.0 |
 | [QStatistic](https://github.com/Junvary/quasar-app-extension-qstatistic) | QStatistic allows you to display data statistically. |
 | [QCascader](https://github.com/Junvary/quasar-app-extension-qcascader) | QCascader can be used to display and select tree structured data. |
+| [ssg](https://github.com/freddy38510/quasar-app-extension-ssg) | A Static Site Generator that supports Quasar v1 and v2 |
 
 # Other Community Components and Tools
 > For older Quasar versions or not supplied through a Quasar App Extension
