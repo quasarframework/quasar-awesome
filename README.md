@@ -68,6 +68,7 @@
 | [codeguru](https://www.youtube.com/channel/UCyNpa6WDH4i2lEznoju1lMg) | [YouTube serie](https://www.youtube.com/watch?v=qxn7VdC8iCI&list=PLAl8os33KyOVpzfYznpguV_5euzKJ626V) | Quasar framework - Building production web app using GraphQL, AWS Amplify, and Quasar ||
 | [Impeccable Ninja](https://www.youtube.com/channel/UC9Vn7Ye-wJmH97IqPHIcSig) | [YouTube](https://www.youtube.com/watch?v=GVOsLNgS2Gg&feature=youtu.be) | Sign and align Cordova apps created with Vue and Quasar ||
 | [Patrick Monteiro](https://www.youtube.com/playlist?list=PLBjvYfV_TvwL7srfoBB0QxP1P-iJ5sQnc) | [YouTube serie](https://www.youtube.com/playlist?list=PLBjvYfV_TvwL7srfoBB0QxP1P-iJ5sQnc) | Quasar Framwork 1.0 course(pt-br) | v1.x |
+| [Patrick Monteiro](https://www.youtube.com/c/PatrickMonteiroEng) | [YouTube](https://youtube.com/playlist?list=PLBjvYfV_TvwJDPHU7VEANIa5vQz45xOJK) | How to Publish a PWA on Google Play | v1.x |
 
 Do not forget to watch official [video tutorials](https://quasar.dev/video-tutorials).
 
@@ -324,3 +325,4 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Supplier Of Bamachoub | [website](https://supplier.bamachoub.com) | Management panel and seller panel of Bamachob market website | v2.7.5 |
 | gin-quasar-admin | [Github](https://github.com/Junvary/gin-quasar-admin), [Website](http://81.68.159.232/) | A full-featured management system based on Quasar2,Vue3,Go,Gin,Gorm. | v2.10.1 |
 | Find More Items | [website](https://www.findmoreitems.com) | Find More Items is a tool for frugal Amazon shoppers and gift hunters | v2.6.6 |
+| E-estoque | [TWA Google Play](https://play.google.com/store/apps/details?id=br.com.e_estoque.twa), [PWA](https://e-estoque.com.br/) | PWA posted on google play as TWA. A Simple, Offline Inventory System | v1.0.0 |
