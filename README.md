@@ -163,6 +163,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 
 | Name | Links | Description | Quasar |
 | --- | --- | --- | --- |
+| Charttt - image charts | [charts editor](https://editor.charttt.com) [website](https://charttt.com) | Image charts generator that you can embed into emails, blog posts, Slack, Notion, and more. Both the website and the editor are built on Quasar | v1.9.15 |
 | Quasar Template | [github](https://github.com/mohitransubhe-supernatural/quasar-template), [website](https://quasar-template.netlify.app/) | Beautiful Quasar template for Vue 3 | v2.6.0 |
 | PowerToys for OpenAI™ | [Github](https://github.com/robert-hoffmann/PowerToys4OpenAI), [Website](https://powertoys.i-technology.net) | PowerToys for OpenAI™ is a BEX extension for Chrome/Edge written in Quasar Framework, and using Dexie for storage | v2.11.10 |
 | Readme Pro | [Github](https://github.com/mayur091193/readme-pro), [Website](https://readmepro.netlify.app/) | Readme Pro is an open-source readme and github profile generator written in Quasar Framework | v2.7.7 |
