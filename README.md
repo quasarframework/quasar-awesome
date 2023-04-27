@@ -316,6 +316,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Project Management Application | [Web](http://giovannicosenza.free.fr/) | Project Management Application to track billable hours and budget spent across all projects. Automatic margin calculation and chart generation for reporting. | v1 |
 | mipa | [Github](https://github.com/collective-change/mipa), [PWA](https://mipa.collective-change.org/) | A strategic coordination app from [collective-change.org](https://collective-change.org/) to help the world achieve sustainablility by 2030. | v1.14.7 |
 | Neeto-Vue | [Github](https://github.com/TankNee/Neeto-Vue) | Yet another awesome wiz note client that was built by Quasar Framework and Electron. | v1.15.0 |
+| theBible | [Android](https://play.google.com/store/apps/details?id=ph.com.nightowlstudios.lesunomicon) | A simple, clean and minimalist offline bible app. | v1.15.0 |
 | CreateVidio | [github](https://github.com/newflight-co/createvid), [website](https://createvid.io) | Dynamic cloud-based video generation. | v1 |
 | Tutlo | [website](https://tutlo.ir) | Tutlo is online learning platform using BigBlueButton. | v1.14.2 |
 | OIPIPE | [website](https://oipipe.com/) | Online Wholesale store. | v1.15.4 |
