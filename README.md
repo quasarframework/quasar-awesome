@@ -151,6 +151,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Starter kit | [github](https://github.com/MilosPaunovic/quasar-v1-starter) | Starter kit for quickly lifting your project from the ground up; includes public pages (Login, Register, Reset Password) with Cypress testing setup, Router & VUEX are present with a lot more helpful stuff implemented. | v1 |
 | Starter kit | [github](https://github.com/MilosPaunovic/quasar-v2-starter) | Starter kit for quickly lifting your project from the ground up; includes public pages (Login, Register, Reset Password), Router & Pinia are present with a lot more helpful stuff implemented. | v2 |
 | OTA system | [github](https://github.com/MilosPaunovic/capacitor-updater) | Auto update system for mobile app, send update to users without app store review | v2 |
+| Quasar Firebase Template | [github](https://github.com/wiktorcie/quasar2-firebase-auth), [demo](https://xenodochial-clarke-616008.netlify.app/#/) | Email/google sign in, user profiles, password resets, photo uploads to Google Firebase | v2.0.3 |
 
 # Projects Using Quasar
 
