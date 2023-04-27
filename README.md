@@ -251,7 +251,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | mempal | [website](https://mempal.io) | An app that helps you to remember everything you read and learn. | v0.17.20 |
 | Agency «Day & Night» | [website](http://www.rent-poltava.com.ua/) | Apartment agency. | v1.0.0-beta |
 | Kawal Pemilu (PILPRES) | [android](https://play.google.com/store/apps/details?id=org.sholeh.kawalpemilu&rdid=org.sholeh.kawalpemilu) | Election Guard In Indonesia. | v1.0.0-beta.17 |
-| Cashier | [app](http://cashier.alensiljak.ml/), [source](https://gitlab.com/alensiljak/cashier) | An app for creating ledger/hledger transactions | 1.0.0.beta24 |
+| Cashier | [app](http://cashier.alensiljak.eu.org/), [source](https://github.com/alensiljak/cashier) | A personal finance app, companion for ledger/hledger | rolling |
 | Exorcism | [github](https://github.com/siamx/exorcism) | Desktop wallpaper manager | 1.0.0-rc.6 |
 | SunEngine | [github](https://github.com/sunengine/SunEngine), [website](https://sunengine.site) | CMS+ site engine with blog, articles and forum functionalities. Asp.Net Core on server side. | 1.2.x+ |
 | Timesheet | [github](https://github.com/valasek/timesheet), [website](http://timesheet.simplesw.net:8080/) | Self-hosted application to manage project reporting. Golang, Gin used on server. | 1.9.2 |
