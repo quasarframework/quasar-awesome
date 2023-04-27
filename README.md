@@ -320,3 +320,4 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Hesabdaram | [website](https://landing.hesabdaram.ir) | Hesabdaram is an accounting social network | v2.7.0 |
 | Supplier Of Bamachoub | [website](https://supplier.bamachoub.com) | Management panel and seller panel of Bamachob market website | v2.7.5 |
 | gin-quasar-admin | [Github](https://github.com/Junvary/gin-quasar-admin), [Website](http://81.68.159.232/) | A full-featured management system based on Quasar2,Vue3,Go,Gin,Gorm. | v2.10.1 |
+| Find More Items | [website](https://www.findmoreitems.com) | Find More Items is a tool for frugal Amazon shoppers and gift hunters | v2.6.6 |
