@@ -45,6 +45,7 @@
 
 - [Quasar Brazil - Telegram Channel](https://t.me/quasarframeworkbrasil) - *Similar with #brazil channel at [Official Discord](https://chat.quasar.dev)*
 - [Quasar Russia - Telegram Channel](https://t.me/quasar_ru) - *Similar with #russkiy channel at [Official Discord](https://chat.quasar.dev)*
+- [Quasar Spain - Telegram Channel](https://t.me/quasarframework_es) - *Similar with #spanish channel at [Official Discord](https://chat.quasar.dev)*
 
 ### Tutorials
 
@@ -89,6 +90,7 @@ Do not forget to watch official [video tutorials](https://quasar.dev/video-tutor
 | [Troy Moreland](https://github.com/34fame) | [Medium](https://levelup.gitconnected.com/add-dynamic-forms-to-your-vue-app-609de4005a2b) | Add Dynamic Forms to Your Vue App | ^1.13.0 |
 | [Patrick Monteiro](https://github.com/patrickmonteiro) | [Medium](https://medium.com/building-kovi/criando-um-pwa-com-framework-vue-js-e-quasar-6b7e1fbc743d) | Criando um PWA com Vue.js e Quasar(pt-br) | v1.x |
 | [Joel Olawanle](https://github.com/olawanlejoel) | [Smashing Magazine](https://www.smashingmagazine.com/2021/10/introduction-quasar-framework-cross-platform-applications/) | An Introduction To Quasar Framework: Building Cross-Platform Applications ||
+| [Tony Xu](https://github.com/tony-xlh) | [Article](https://www.dynamsoft.com/codepool/quasar-qr-code-scanner.html) | How to Build a Quasar QR Code Scanner with Capacitor | v1.x |
 
 Do not forget to read the official [blog](https://blog.quasar.dev/).
 
@@ -118,12 +120,15 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | [QsSelect](https://github.com/heartbeatLV/app-extension-qs-select) | A searchable QSelect with which accepts an url | v0.4.2 |
 | [QGoogleMap](https://github.com/mayur091193/q-google-map) , [Docs and Examples](https://q-google-map.netlify.app/) | QGoogleMap(q-google-map) - Quasar app extension to integrate Google Maps | v1.13.2 |
 | [QWidgets](https://github.com/mayank091193/quasar-widgets) , [Docs and Examples](https://quasar-widgets.netlify.app/#/docs) | QWidgets(q-widgets) - An awesome set of beautiful Widgets made with love using Quasar Framework and Vue.js! | v1.1.0 |
+| [QStatistic](https://github.com/Junvary/quasar-app-extension-qstatistic) | QStatistic allows you to display data statistically. |
+| [QCascader](https://github.com/Junvary/quasar-app-extension-qcascader) | QCascader can be used to display and select tree structured data. |
 
 # Other Community Components and Tools
 > For older Quasar versions or not supplied through a Quasar App Extension
 
 | Name | Links | Description | Quasar |
 | --- | --- | --- | --- |
+| Readme Pro | [github](https://github.com/mayur091193/readme-pro), [demo](https://readmepro.netlify.app/) | An easy and simple way to generate readme written in quasar framework  |  v2.7.7 |
 | Quasar Echarts Example | [github](https://github.com/pratik227/quasar-echarts), [demo](https://quasar-echarts-v5.netlify.app/) | Project using Quasar framework and Echarts 📊 📈 📉 |  v1.15.0 |
 | Quasar Geolocation Example | [github](https://github.com/tomers/quasar-geolocation-example), [demo](https://quasar-geolocation-example.surge.sh/) | Sample app to demonstrate usage of geolocation with Quasar Framework | v1.9.8 |
 | Quasar 3D Model | [github](https://github.com/patrickmonteiro/quasar-3d-model), [demo](http://quasar3d.surge.sh/) | Sample application with a 3D file renderer (.stl, .obj, .json, .dae, .ply, .gltf) | v1.1.2 |
@@ -140,11 +145,18 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Quasar Oh-my-zsh | [github](https://github.com/sajt/oh-my-zsh) | A plugin for Oh-my-zsh | v1.0.0 |
 | APIWrapper | [github](https://github.com/RobertoLangarica/quasar-app-extension-api-wrapper), [npm](https://www.npmjs.com/package/api-client-wrapper) | A package designed to wrap up the most common features of an api client implementation, with common features like: Vuex store integration, masive requests, homogeneous responses, concurrency... | v1 |
 | Quasar DevOps | [github](https://github.com/Qoyyuum/quasar-devops) | A repo dedicated to CI/CD for Quasar Framework | v1 |
+| Starter kit | [github](https://github.com/MilosPaunovic/quasar-v1-starter) | Starter kit for quickly lifting your project from the ground up; includes public pages (Login, Register, Reset Password) with Cypress testing setup, Router & VUEX are present with a lot more helpful stuff implemented. | v1 |
+| Starter kit | [github](https://github.com/MilosPaunovic/quasar-v2-starter) | Starter kit for quickly lifting your project from the ground up; includes public pages (Login, Register, Reset Password), Router & Pinia are present with a lot more helpful stuff implemented. | v2 |
+| OTA system | [github](https://github.com/MilosPaunovic/capacitor-updater) | Auto update system for mobile app, send update to users without app store review | v2 |
 
 # Projects Using Quasar
 
 | Name | Links | Description | Quasar |
 | --- | --- | --- | --- |
+| Quasar Template | [github](https://github.com/mohitransubhe-supernatural/quasar-template), [website](https://quasar-template.netlify.app/) | Beautiful Quasar template for Vue 3 | v2.6.0 |
+| PowerToys for OpenAI™ | [Github](https://github.com/robert-hoffmann/PowerToys4OpenAI), [Website](https://powertoys.i-technology.net) | PowerToys for OpenAI™ is a BEX extension for Chrome/Edge written in Quasar Framework, and using Dexie for storage | v2.11.10 |
+| Readme Pro | [Github](https://github.com/mayur091193/readme-pro), [Website](https://readmepro.netlify.app/) | Readme Pro is an open-source readme and github profile generator written in Quasar Framework | v2.7.7 |
+| Quasar Admin Premium  | [website](https://quasar-admin-premium.netlify.app/) | Beautiful premium Quasar admin template for Vue 3 | v2.7.1 |
 | Tomatodo  | [github](https://github.com/emingenc/tomatodo),[website](https://tomatodo.web.app/),[android](https://play.google.com/store/apps/details?id=com.emdiapps.tomatodo)  | Pomodoro app that rewards with luck wheel after pomodoro sessions | v2.0.0 |
 | GreaterWMS | [github](https://github.com/Singosgu/GreaterWMS),[website](https://production.56yhz.com/#/) | Open Source Warehouse Management System | v2.1.0 |
 | Gobazar.uz | [website](https://gobazar.uz) | The first big e-commerce website made with Vue.js/Quasar | v1 |
@@ -158,8 +170,9 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Quasar CRM Admin | [github](https://github.com/mayank091193/quasar-admin-crm), [website](https://quasar-admin-crm-template.netlify.com/) | A free and beautiful Quasar template for CRM needs. | v1.8.5 |
 | Personal website template | [github](https://github.com/mayank091193/mayank-profile), [website](https://mayank-patel.netlify.app/#/) | Free template for personal website | v1.9.15 |
 | Quasar Typescript Admin Template| [github](https://github.com/dirkhe1051931999/quasar-typescript-admin-template) | 💫 💫 template for quasar admin with typescript 🌝 🌝 support pwa,electron,spa,Ionic | v0.0.1 |
-| Alighieri | [github](https://github.com/zuck/alighieri/), [website](https://zuck.github.io/alighieri) | A distraction-free writer tool | v1.15.4 |
+| Negibox | [github](https://github.com/hugetiny/negibox) | All-in-one downloader based on ARIA2 | v1.9.6 |
 | P.volve | [website](https://my.pvolve.com) | [Video workout subscription](https://my.pvolve.com/preview), [landing pages](https://my.pvolve.com/offer/subway), also includes weight tracking, photo upload, etc. for subscribers | v0.15.9 |
+| Alighieri | [github](https://github.com/zuck/alighieri/), [website](https://zuck.github.io/alighieri) | A distraction-free writer tool | v1.15.4 |
 | Brotheld | [android](https://play.google.com/store/apps/details?id=de.sopamo.brotheld), [ios](https://itunes.apple.com/de/app/brotheld/id1193619132?l=de&ls=1&mt=8) | Brotheld (Bread Hero), a german app for hobby bakers | v0.14 |
 | MyClinic | [android](https://play.google.com/store/apps/details?id=today.myclinic.mobileapp&hl=en), [ios](https://itunes.apple.com/us/app/myclinic/id1311703491?ls=1&mt=8) | Application for displaying and managing medical clinic examination room status | v0.14 |
 | Weacast | [github](https://github.com/weacast/weacast), [website](https://weacast.github.io/weacast-docs/) | Open source platform to gather, expose and make use of weather forecast data | v0.13.10 |
@@ -169,11 +182,12 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | 2018 Quarterly Tax Estimator | [android](https://play.google.com/store/apps/details?id=com.codingfriend.quarterlytaxes), [iOS](https://itunes.apple.com/us/app/2018-quarterly-tax-estimator/id1360874746?ls=1&mt=8), [Mac App Store](https://itunes.apple.com/us/app/2018-quarterly-tax-estimator/id1342826706?ls=1&mt=12) | Estimates quarterly taxes and taxes to save per paycheck | v0.14 |
 | Go2See | [website](https://m.go2see.ru) | Russian online travel service | v0.14.7 |
 | Guitar Workshop | [website](https://guitarworkshop.digital) | E-commerce shop, library, streaming video player, real time chat | v0.15.9 |
+| FilmStyles | [website](https://www.filmstyl.es/) | E-commerce shop, library, streaming video player | v1.16.0 |
 | Karrot (Foodsaving Worldwide) | [github](https://github.com/yunity/karrot-frontend), [website](https://karrot.world) | A web-app to support foodsaving groups worldwide, with the goal to save our common resources as much as possible | v1.14.6 |
 | onvif-nvt-snapshot-vue-sample | [github](https://github.com/hawkeye64/onvif-nvt-snapshot-vue-sample) | An onvif-nvt (package) sample project for snapshots and PTZ using Vue 2.5 and Quasar 0.14.7 | v0.14.7 |
 | Finca Report | [website/android/ios](https://fincareport.com/) | Sistema de informacion para el cultivo de palma africana| v0.15.3 |
 | SoFoot | [android](https://play.google.com/store/apps/details?id=com.sofoot), [ios](https://itunes.apple.com/fr/app/so-foot/id591043947?mt=8) | SO FOOT is an iOS & Android mobile football news application, seen differently. With original and offbeat content, the app is based on real time and smart content feed to make it simple and accessible with a scroll. | v0.14.7 |
-| PaintTubeTV | [website](https://painttube.tv) | Shop, library, streaming video player, real time chat | v0.15.9 |
+| PaintTubeTV | [website](https://digital.painttube.tv) | Shop, library, streaming video player, real time chat | v1.16.0 |
 | MyBibou | [android](https://play.google.com/store/apps/details?id=io.benovea.mybibou&hl=fr), [ios](https://itunes.apple.com/fr/app/mybibou/id1319283569) | MyBibou is an iOS & Android mobile application that simplifies the life of parents for successful family outings. The app geolocates users on a map and give them relevant information based on their needs and situation. | v0.14.7 |
 | Budgex | [pwa](https://budgex-e481b.firebaseapp.com) | Budget and expense tracker | v0.15.1 |
 | Booly | [website](https://boolyapp.com/) | A people-matching tool | v0.14.6 |
@@ -193,7 +207,6 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Tigris | [github](https://github.com/jogral/tigris-desktop-ui) | Micro-learning for professionals | v0.13 |
 | Pilgrim and Wanderer's Songbook | [android](https://play.google.com/store/apps/details?id=com.maxprog.songbooks), [ios](https://itunes.apple.com/pl/app/%C5%9Bpiewnik-pielgrzyma-w%C4%99drowca/id1364666898?l=pl&mt=8) | Mobile Application Songbooks has been created for one of the biggest Protestant Church. | v0.15.12 |
 | dockJob | [github](https://github.com/rmetcalf9/dockJob), [docker hub](https://hub.docker.com/r/metcarob/dockjob/) | Job scheduler with a web UI - designed to run inside a container. | v0.15.5 |
-| Your Daily Walk | [website](https://yourdailywalk.com/) | Subscription ecommerce, workout video calendar, streaming video player, real time chat | v0.15.9 |
 | Chronocross | [android](https://play.google.com/store/apps/details?id=org.yevlabs.chronocross) | Productivity tool that combines Pomodoro Technique and Eisenhower Matrix. | v0.15.10 |
 | Jornal Pelicano | [android](https://play.google.com/store/apps/details?id=com.cordova.jornalpelicano&hl=pt) | Mobile application for a Navy Web Journal | v0.14.1 |
 | Vuenote | [github](https://github.com/ExNG/vuenote) | Vuenote is the simplest note app. | v0.15.10 |
@@ -204,6 +217,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | quasar-documentation++ | [github](https://github.com/slowaways/quasar-documentation-pp) | All-in-one Quasar Documentation | v0.16.0 |
 | Dolphin Note | [website](https://www.donote.info) | A Simple and Elegant markdown note application. | v0.15.14 |
 | Quicknote | [website](https://quick.donote.info) | A Simple and Elegant markdown quicknote DApp. | v0.15.14 |
+| Homespun | [website](https://homespun.com/) | E-commerce shop, video library, streaming video player, live chat | v1.16.0 |
 | T9N Manager | [website](http://t9n.ist) | Translation manager for developers | v0.16.0 |
 | Kicktrack | [website](https://kicktrack.app), [Android](https://play.google.com/store/apps/details?id=kicktrack.app), [iOS](https://itunes.apple.com/us/app/kicktrack/id1397163195?mt=8) | Foosball score keeper | v0.16.0 |
 | Musical Data | [website](https://musicaldata.com) | Access Spotify's data of your favorite music. | v0.16.0 |
@@ -242,7 +256,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | mempal | [website](https://mempal.io) | An app that helps you to remember everything you read and learn. | v0.17.20 |
 | Agency «Day & Night» | [website](http://www.rent-poltava.com.ua/) | Apartment agency. | v1.0.0-beta |
 | Kawal Pemilu (PILPRES) | [android](https://play.google.com/store/apps/details?id=org.sholeh.kawalpemilu&rdid=org.sholeh.kawalpemilu) | Election Guard In Indonesia. | v1.0.0-beta.17 |
-| Cashier | [app](http://cashier.alensiljak.ml/), [source](https://gitlab.com/alensiljak/cashier) | An app for creating ledger/hledger transactions | 1.0.0.beta24 |
+| Cashier | [app](http://cashier.alensiljak.eu.org/), [source](https://github.com/alensiljak/cashier) | A personal finance app, companion for ledger/hledger | rolling |
 | Exorcism | [github](https://github.com/siamx/exorcism) | Desktop wallpaper manager | 1.0.0-rc.6 |
 | SunEngine | [github](https://github.com/sunengine/SunEngine), [website](https://sunengine.site) | CMS+ site engine with blog, articles and forum functionalities. Asp.Net Core on server side. | 1.2.x+ |
 | Timesheet | [github](https://github.com/valasek/timesheet), [website](http://timesheet.simplesw.net:8080/) | Self-hosted application to manage project reporting. Golang, Gin used on server. | 1.9.2 |
@@ -304,4 +318,6 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Dadadash | [GitHub](https://github.com/daptin/dadadash) | Office suite with file browser, document editor, spreadsheet editor, calendar and data tables with CRUDX API's ready to deploy | v1.0.0 |
 | BlogToNFT | [website](https://blogtonft.com/) | BlogToNFT is for all the writers/bloggers who wish to create their own NFT. At BlogToNFT a blogger/writer will have to prove their ownership and after adding details they can easily publish NFT straightaway into the Blockchain which is also visible on opensea | v1.0.0 |
 | Hesabdaram | [website](https://landing.hesabdaram.ir) | Hesabdaram is an accounting social network | v2.7.0 |
+| Supplier Of Bamachoub | [website](https://supplier.bamachoub.com) | Management panel and seller panel of Bamachob market website | v2.7.5 |
+| gin-quasar-admin | [Github](https://github.com/Junvary/gin-quasar-admin), [Website](http://81.68.159.232/) | A full-featured management system based on Quasar2,Vue3,Go,Gin,Gorm. | v2.10.1 |
 | Find More Items | [website](https://www.findmoreitems.com) | Find More Items is a tool for frugal Amazon shoppers and gift hunters | v2.6.6 |
