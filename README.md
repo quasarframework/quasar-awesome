@@ -53,6 +53,7 @@
 
 | Author | Links | Description | Quasar |
 | --- | --- | --- | --- |
+| [donglin](https://space.bilibili.com/285906918) | [bilibili](https://www.bilibili.com/video/BV1pA4y197Zc/) | 中文的quasar入门教程,ts+vue3+quasar2+pinia (Chinese quasar introductory tutorial) | v2.0+ |
 | [Patrick Monteiro](https://github.com/patrickmonteiro) | [YouTube](https://www.youtube.com/playlist?list=PLBjvYfV_TvwJlOctQ49KiOrxrFwJGqAdr)| Introduction to the Quasar Framework | v0.17.18 |
 | Danny Connell | [YouTube](https://www.youtube.com/watch?v=iml3hDVboHk&t=287s)| Quasar Framework: Create a Vue js app & deploy to web, mobile app & desktop app in 30 minutes! | v0.17.20 |
 | Danny Connell | [YouTube](https://www.youtube.com/watch?v=opmng7llVJ0&list=PLAiDzIdBfy8iu_MZrq3IPuSFcRgCQ0iL0&index=1)| Quasar Framework V1 Course Preview: Create a Real-World, Cross-Platform App | v1.0.0-beta.19 |
