@@ -333,3 +333,4 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Find More Items | [website](https://www.findmoreitems.com) | Find More Items is a tool for frugal Amazon shoppers and gift hunters | v2.6.6 |
 | E-estoque | [TWA Google Play](https://play.google.com/store/apps/details?id=br.com.e_estoque.twa), [PWA](https://e-estoque.com.br/) | PWA posted on google play as TWA. A Simple, Offline Inventory System | v1.0.0 |
 | Subtitle Downloader | [github](https://github.com/mmarifat/__subtitle_downloader), [website](https://mmarifat.github.io/__subtitle_downloader) | A typescript enabled project to download subtitles of movies / tv-series / tv-shows using opensubtitleapi and optionally moviedb api | v1
+| hive.ausbit.dev | [website](https://hive.ausbit.dev), [github](https://github.com/ausbitbank/hive.ausbit.dev-src) | Hive blockchain explorer and toolkit for uncensorable social media & text/json storage | v1.9.6
