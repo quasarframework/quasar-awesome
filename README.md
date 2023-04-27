@@ -170,6 +170,8 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Quasar CRM Admin | [github](https://github.com/mayank091193/quasar-admin-crm), [website](https://quasar-admin-crm-template.netlify.com/) | A free and beautiful Quasar template for CRM needs. | v1.8.5 |
 | Personal website template | [github](https://github.com/mayank091193/mayank-profile), [website](https://mayank-patel.netlify.app/#/) | Free template for personal website | v1.9.15 |
 | Quasar Typescript Admin Template| [github](https://github.com/dirkhe1051931999/quasar-typescript-admin-template) | 💫 💫 template for quasar admin with typescript 🌝 🌝 support pwa,electron,spa,Ionic | v0.0.1 |
+| Negibox | [github](https://github.com/hugetiny/negibox) | All-in-one downloader based on ARIA2 | v1.9.6 |
+| P.volve | [website](https://my.pvolve.com) | [Video workout subscription](https://my.pvolve.com/preview), [landing pages](https://my.pvolve.com/offer/subway), also includes weight tracking, photo upload, etc. for subscribers | v0.15.9 |
 | Alighieri | [github](https://github.com/zuck/alighieri/), [website](https://zuck.github.io/alighieri) | A distraction-free writer tool | v1.15.4 |
 | Brotheld | [android](https://play.google.com/store/apps/details?id=de.sopamo.brotheld), [ios](https://itunes.apple.com/de/app/brotheld/id1193619132?l=de&ls=1&mt=8) | Brotheld (Bread Hero), a german app for hobby bakers | v0.14 |
 | MyClinic | [android](https://play.google.com/store/apps/details?id=today.myclinic.mobileapp&hl=en), [ios](https://itunes.apple.com/us/app/myclinic/id1311703491?ls=1&mt=8) | Application for displaying and managing medical clinic examination room status | v0.14 |
