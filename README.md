@@ -172,11 +172,13 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 
 | Name | Links | Description | Quasar |
 | --- | --- | --- | --- |
+| Quasar Minimalist Design  | [website](https://quasar-minimalist-design.netlify.app/) | Quasar Minimalist Design is a premium admin template that offers a range of features and functionalities. It is designed to cater to the needs of businesses and organisations that require a user-friendly and efficient dashboard.| v2.11.6 |
+| Quasar Admin Vue 3 | [github](https://github.com/pratik227/quasar-admin/tree/next), [website](https://next-quasar-admin.netlify.app/) | A Free and beautiful Quasar Admin template for Vue 3 | v2.6.0 |
 | Charttt - image charts | [charts editor](https://editor.charttt.com) [website](https://charttt.com) | Image charts generator that you can embed into emails, blog posts, Slack, Notion, and more. Both the website and the editor are built on Quasar | v1.9.15 |
 | Quasar Template | [github](https://github.com/mohitransubhe-supernatural/quasar-template), [website](https://quasar-template.netlify.app/) | Beautiful Quasar template for Vue 3 | v2.6.0 |
 | PowerToys for OpenAI™ | [Github](https://github.com/robert-hoffmann/PowerToys4OpenAI), [Website](https://powertoys.i-technology.net) | PowerToys for OpenAI™ is a BEX extension for Chrome/Edge written in Quasar Framework, and using Dexie for storage | v2.11.10 |
 | Readme Pro | [Github](https://github.com/mayur091193/readme-pro), [Website](https://readmepro.netlify.app/) | Readme Pro is an open-source readme and github profile generator written in Quasar Framework | v2.7.7 |
-| Quasar Admin Premium  | [website](https://quasar-admin-premium.netlify.app/) | Beautiful premium Quasar admin template for Vue 3 | v2.7.1 |
+| Quasar Admin Premium  | [website](https://quasar-admin-premium.netlify.app/) | Beautiful premium Quasar admin template for Vue 3 | v2.11.10 |
 | Tomatodo  | [github](https://github.com/emingenc/tomatodo),[website](https://tomatodo.web.app/),[android](https://play.google.com/store/apps/details?id=com.emdiapps.tomatodo)  | Pomodoro app that rewards with luck wheel after pomodoro sessions | v2.0.0 |
 | GreaterWMS | [github](https://github.com/Singosgu/GreaterWMS),[website](https://production.56yhz.com/#/) | Open Source Warehouse Management System | v2.1.0 |
 | Gobazar.uz | [website](https://gobazar.uz) | The first big e-commerce website made with Vue.js/Quasar | v1 |
@@ -185,7 +187,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Kudos - Company profile template | [github](https://github.com/mayank091193/vue-quasar-company-profile-website), [website](https://quasar-company-profile-template.netlify.app/) | Free template for company profile made using Quasar Framework and Vue.js! It is a fully responsive template which you can use for your company or may be for your own portfolio website. | v1.9.15 |
 | Expense Tracker | [github](https://github.com/rbretecher/expense-tracker), [website](https://demo-expense-tracker.herokuapp.com/) | A simple application to track expenses and split bills. | v2.3.2 |
 | Quasar Scrum | [github](https://github.com/mayank091193/quasar-scrum), [website](https://quasar-scrum.netlify.com/) | A Free Quasar Scrum Template : Agile process framework for managing complex tasks | v1.9.12 |
-| Quasar Admin | [github](https://github.com/pratik227/quasar-admin), [website](https://quasar-admin-demo.netlify.com/) | A Free and beautiful Quasar Admin template | v1.9.3 |
+| Quasar Admin | [github](https://github.com/pratik227/quasar-admin/tree/master), [website](https://quasar-admin-demo.netlify.com/) | A Free and beautiful Quasar Admin template | v1.9.3 |
 | Quasar Shopping | [github](https://github.com/mayur091193/quasar-shopping), [website](https://quasar-shopping.netlify.com) | Free and Open source eCommerce UI template written in Vue.js/Quasar | v1.9.3 |
 | Quasar CRM Admin | [github](https://github.com/mayank091193/quasar-admin-crm), [website](https://quasar-admin-crm-template.netlify.com/) | A free and beautiful Quasar template for CRM needs. | v1.8.5 |
 | Personal website template | [github](https://github.com/mayank091193/mayank-profile), [website](https://mayank-patel.netlify.app/#/) | Free template for personal website | v1.9.15 |
