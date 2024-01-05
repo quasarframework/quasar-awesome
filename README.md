@@ -174,6 +174,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 
 | Name | Links | Description | Quasar |
 | --- | --- | --- | --- |
+| Quasar Prime Admin Template  | [website](https://quasar-prime-admin-template.netlify.app/analytics) | Quasar Prime: Vue.js Admin Template – Powerfully Elegant, Ultimate Dashboard Solution! 🚀 | v2.14.2 |
 | Quasar Minimalist Design  | [website](https://quasar-minimalist-design.netlify.app/) | Quasar Minimalist Design is a premium admin template that offers a range of features and functionalities. It is designed to cater to the needs of businesses and organisations that require a user-friendly and efficient dashboard.| v2.11.6 |
 | Quasar Admin Vue 3 | [github](https://github.com/pratik227/quasar-admin/tree/next), [website](https://next-quasar-admin.netlify.app/) | A Free and beautiful Quasar Admin template for Vue 3 | v2.6.0 |
 | Charttt - image charts | [charts editor](https://editor.charttt.com) [website](https://charttt.com) | Image charts generator that you can embed into emails, blog posts, Slack, Notion, and more. Both the website and the editor are built on Quasar | v1.9.15 |
