@@ -174,6 +174,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 
 | Name | Links | Description | Quasar |
 | --- | --- | --- | --- |
+| Nekon.app  | [PWA](https://nekon.app/) | A powerful anime picture website with beautiful UI design. | v2.15.4 |
 | Quasar Prime Admin Template  | [website](https://quasar-prime-admin-template.netlify.app/analytics) | Quasar Prime: Vue.js Admin Template – Powerfully Elegant, Ultimate Dashboard Solution! 🚀 | v2.14.2 |
 | Quasar Minimalist Design  | [website](https://quasar-minimalist-design.netlify.app/) | Quasar Minimalist Design is a premium admin template that offers a range of features and functionalities. It is designed to cater to the needs of businesses and organisations that require a user-friendly and efficient dashboard.| v2.11.6 |
 | Quasar Admin Vue 3 | [github](https://github.com/pratik227/quasar-admin/tree/next), [website](https://next-quasar-admin.netlify.app/) | A Free and beautiful Quasar Admin template for Vue 3 | v2.6.0 |
