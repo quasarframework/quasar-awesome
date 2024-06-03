@@ -136,6 +136,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | [QCascader](https://github.com/Junvary/quasar-app-extension-qcascader) | QCascader can be used to display and select tree structured data. |
 | [ssg](https://github.com/freddy38510/quasar-app-extension-ssg) | A Static Site Generator that supports Quasar v1 and v2 |
 | [Hybrid Rendering](https://github.com/jirka124/quasar-hybrid-render/) | Extension allowing for easy use of SSR, CSR, SSG and ISR in your Quasar.js project. |
+| [Restboard](https://restboard.github.io/) | An application booster to quickly create admin panels from existing APIs |
 
 # Other Community Components and Tools
 > For older Quasar versions or not supplied through a Quasar App Extension
