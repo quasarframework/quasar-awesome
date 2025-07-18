@@ -1,0 +1,41 @@
+{
+  "name": "ton-jetton-devkit",
+  "version": "1.0.0",
+  "description": "TON Jetton Minter contract project with advanced admin features and auto-assistant support.",
+  "author": "Mohammad Reza Jalili Rad",
+  "license": "MIT",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "toncli run",
+    "build": "toncli build",
+    "deploy": "ts-node scripts/deploy.ts",
+    "verify": "ts-node scripts/verify.ts",
+    "test": "jest",
+    "lint": "eslint ./contracts --ext .fc",
+    "ai": "node ai-assistant/activate.js",
+    "postinstall": "node ai-assistant/activate.js"
+  },
+  "dependencies": {
+    "ton": "github:ton-blockchain/ton",
+    "ton-core": "github:ton-community/ton-core",
+    "ton-crypto": "github:ton-community/ton-crypto",
+    "ton-x": "github:ton-defi-org/ton-x",
+    "cross-fetch": "^4.0.0",
+    "dotenv": "^16.4.0"
+  },
+  "devDependencies": {
+    "toncli": "github:disintar/toncli",
+    "typescript": "^5.4.0",
+    "ts-node": "^10.9.1",
+    "jest": "^29.0.0",
+    "eslint": "^8.45.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "ton": {
+    "contracts": "./contracts",
+    "output": "./build"
+  }
+}

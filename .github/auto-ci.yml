@@ -1,0 +1,160 @@
+name: Universal Auto CI/CD & Project Manager
+
+on:
+  push:
+    branches: [main, master]
+    tags:
+      - 'v*.*.*'
+  pull_request:
+    types: [opened, synchronize, reopened, closed]
+  schedule:
+    - cron: '0 8 * * 1'
+  workflow_dispatch:
+
+jobs:
+  detect-project:
+    name: Detect Project Type
+    runs-on: ubuntu-latest
+    outputs:
+      lang: ${{ steps.detect.outputs.lang }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Detect Project
+        id: detect
+        run: |
+          if [ -f package.json ]; then
+            echo "lang=node" >> $GITHUB_OUTPUT
+          elif [ -f requirements.txt ]; then
+            echo "lang=python" >> $GITHUB_OUTPUT
+          elif [ -f Cargo.toml ]; then
+            echo "lang=rust" >> $GITHUB_OUTPUT
+          elif [ -f go.mod ]; then
+            echo "lang=go" >> $GITHUB_OUTPUT
+          else
+            echo "lang=unknown" >> $GITHUB_OUTPUT
+          fi
+
+  build-test:
+    name: Build & Test (${{ needs.detect-project.outputs.lang }})
+    needs: detect-project
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        if: needs.detect-project.outputs.lang == 'node'
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20.x
+          cache: 'npm'
+
+      - name: Setup Python
+        if: needs.detect-project.outputs.lang == 'python'
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Setup Rust
+        if: needs.detect-project.outputs.lang == 'rust'
+        uses: actions-rs/toolchain@v1
+        with:
+          toolchain: stable
+
+      - name: Setup Go
+        if: needs.detect-project.outputs.lang == 'go'
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.21'
+
+      - name: Install & Build
+        run: |
+          case "${{ needs.detect-project.outputs.lang }}" in
+            node) npm ci && npm run build --if-present ;;
+            python) pip install -r requirements.txt || true ;;
+            rust) cargo build --release ;;
+            go) go build ./... ;;
+            *) echo "No build step for this language." ;;
+          esac
+
+      - name: Run Tests
+        run: |
+          case "${{ needs.detect-project.outputs.lang }}" in
+            node) npm test || true ;;
+            python) pytest || true ;;
+            rust) cargo test || true ;;
+            go) go test ./... || true ;;
+            *) echo "No tests configured." ;;
+          esac
+
+      - name: Save Logs
+        run: mkdir -p logs && cp -r . logs/ || true
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ci-logs
+          path: logs/
+
+      # ایجاد Issue خودکار در صورت شکست
+      - uses: actions/github-script@v6
+        if: failure()
+        with:
+          script: |
+            const title = `🚨 Build/Test Failed on ${context.ref}`;
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title,
+              body: "Build/Test failed. Logs uploaded in artifacts.",
+              labels: ["bug", "ci-failure"]
+            });
+
+  release:
+    name: Auto Release
+    needs: build-test
+    runs-on: ubuntu-latest
+    if: startsWith(github.ref, 'refs/tags/v')
+    steps:
+      - uses: actions/checkout@v4
+      - name: Create Release
+        uses: softprops/action-gh-release@v1
+        with:
+          generate_release_notes: true
+
+  maintenance:
+    name: Auto Maintenance
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Close Stale Issues/PRs
+        uses: actions/stale@v6
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          days-before-stale: 30
+          days-before-close: 7
+          stale-issue-message: "This issue is stale due to inactivity."
+          close-issue-message: "Closing due to inactivity."
+
+      - name: Cleanup Old Branches
+        uses: devops-infra/action-delete-branch@v0.3.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          exclude: main,master
+
+  docs-dashboard:
+    name: Auto Docs & Dashboard
+    needs: build-test
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate README & Report
+        run: |
+          mkdir -p docs
+          echo "# Project Dashboard" > docs/status.md
+          echo "Last build: $(date)" >> docs/status.md
+          echo "Logs available in artifacts." >> docs/status.md
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs

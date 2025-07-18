@@ -1,0 +1,73 @@
+{
+  "abi": {
+    "ABI version": 2,
+    "functions": [
+      {
+        "name": "constructor",
+        "inputs": [
+          {
+            "name": "name",
+            "type": "string"
+          },
+          {
+            "name": "symbol",
+            "type": "string"
+          },
+          {
+            "name": "decimals",
+            "type": "uint8"
+          },
+          {
+            "name": "total_supply",
+            "type": "uint128"
+          },
+          {
+            "name": "admin_address",
+            "type": "address"
+          }
+        ],
+        "outputs": []
+      },
+      {
+        "name": "get_jetton_data",
+        "inputs": [],
+        "outputs": [
+          {
+            "name": "total_supply",
+            "type": "uint128"
+          },
+          {
+            "name": "decimals",
+            "type": "uint8"
+          },
+          {
+            "name": "admin_hash",
+            "type": "uint256"
+          }
+        ]
+      },
+      {
+        "name": "get_wallet_address",
+        "inputs": [
+          {
+            "name": "owner_hash",
+            "type": "uint256"
+          }
+        ],
+        "outputs": [
+          {
+            "name": "wallet_address",
+            "type": "uint256"
+          }
+        ]
+      }
+    ],
+    "events": [],
+    "data": []
+  },
+  "tvc": "t",
+  "code": {
+    "hex": "",
+    "cell_name": "0"
+  }
+}

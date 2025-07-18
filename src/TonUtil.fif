@@ -1,0 +1,232 @@
+"TonUtil.fif" include
+"Asm.fif" include
+
+// **---- اطلاعات قرارداد مستر Jetton DOGS (آدرس صحیح از JSON دوم) ----**
+
+// آدرس قرارداد مستر Jetton DOGS (آدرس صحیح از JSON دوم)
+<"0:afc49cb8786f21c87045b19ede78fc6b46c51048513f8e9a6d44060199c1bf0c"> constant ADDRESS_STR
+
+// **---- اطلاعات قرارداد از JSON اول (کد و داده - احتمالاً کد مستر) ----**
+
+// کد قرارداد (از بخش "code" در JSON اول - هگز کد شده)
+<"b5ee9c720102220100081d000114ff00f4a413f4bcf2c80b010201620203037ad001d0d3030171b0a301fa400120d74981010bbaf2e08820d70b0a208104ffbaf2d0898309baf2e088545053036f04f86102f862db3c5512db3cf2e0821e0405020120141503f6018e5b8020d7217021d749c21f953020d70b1fde208210178d4519ba8e1a30d31f018210178d4519baf2e081d33ffa00596c123113a0027fe082107bdd97deba8e19d31f0182107bdd97debaf2e081d33ffa00596c123113a0027fe0307fe07021d749c21f953020d70b1fde2082100f8a7ea5ba8f0530db3c6c1706070800a6c8f84301cc7f01ca0055205023810101cf000120d74981010bbaf2e08820d70b0a208104ffbaf2d0898309baf2e088cf160120d74981010bbaf2e08820d70b0a208104ffbaf2d0898309baf2e088cf16c9ed5400ced31f0182100f8a7ea5baf2e081d33ffa00fa400120d74981010bbaf2e08820d70b0a208104ffbaf2d0898309baf2e08801fa400120d74981010bbaf2e08820d70b0a208104ffbaf2d0898309baf2e08801d2000191d4926d01e2fa00d2000191d4926d01e2556003f432f8416f2410235f032881114d02c705f2f4f843542075db3c5c7059c87001cb017301cb017001cb0012ccccc9f900c87201cb017001cb0012ca07cbffc9d020d74981010bbaf2e08820d70b0a208104ffbaf2d0898309baf2e0885076708040702c48135097c85550db3cc910565e2202103610351034db3c7f17091204fee0208210178d4519ba8ff330db3c6c1632f8416f2410235f035360c705b38ed2f8435374db3c018200a6d4027059c87001cb017301cb017001cb0012ccccc9f900c87201cb017001cb0012ca07cbffc9d020d74981010bbaf2e08820d70b0a208104ffbaf2d0898309baf2e08812c705f2f49130e220c200925f05e30d7fe00a170b0c00c28210178d45195007cb1f15cb3f5003fa020120d74981010bbaf2e08820d70b0a208104ffbaf2d0898309baf2e088cf160120d74981010bbaf2e08820d70b0a208104ffbaf2d0898309baf2e088cf1601fa02216eb3957f01ca00cc947032ca00e200bcd31f018210178d4519baf2e081d33ffa00fa400120d74981010bbaf2e08820d70b0a208104ffbaf2d0898309baf2e08801fa400120d74981010bbaf2e08820d70b0a208104ffbaf2d0898309baf2e08801fa00d2000191d4926d01e2555001a4147350437006c8553082107362d09c5005cb1f13cb3f01fa020120d74981010bbaf2e08820d70b0a208104ffbaf2d0898309baf2e088cf16216eb3957f01ca00cc947032ca00e2c92550441443306d6ddb3c1202de208210595f07bcba8ed930d31f018210595f07bcbaf2e081d33ffa00fa400120d74981010bbaf2e08820d70b0a208104ffbaf2d0898309baf2e08801fa400120d74981010bbaf2e08820d70b0a208104ffbaf2d0898309baf2e0881443306c14db3c7fe08210946a98b6bae30230700d0e027a5bf8416f2481114d5383c705f2f45184a18200f5fc21c2fff2f443305239db3c8200a99e018209312d00a08208989680a012bcf2f4708040037f5433660f10014ed31f018210946a98b6baf2e081d33f0131c8018210aff90f5758cb1fcb3fc9f84201706ddb3c7f1100646c31fa400120d74981010bbaf2e08820d70b0a208104ffbaf2d0898309baf2e08830fa003171d721fa0031fa0030a703ab0001d2c8553082107bdd97de5005cb1f13cb3f01fa020120d74981010bbaf2e08820d70b0a208104ffbaf2d0898309baf2e088cf1601206e95307001cb018e1e20d74981010bbaf2e08820d70b0a208104ffbaf2d0898309baf2e088cf16e2c924441450331443306d6ddb3c12013a6d6d226eb3995b206ef2d0806f22019132e2102470030480425023db3c1201cac87101ca01500701ca007001ca02500520d74981010bbaf2e08820d70b0a208104ffbaf2d0898309baf2e088cf165003fa027001ca68236eb3917f93246eb3e2973333017001ca00e30d216eb39c7f01ca0001206ef2d08001cc95317001ca00e2c901fb001600987f01ca00c87001ca007001ca00246eb39d7f01ca0004206ef2d0805004cc9634037001ca00e2246eb39d7f01ca0004206ef2d0805004cc9634037001ca00e27001ca00027f01ca0002c958cc0211bfd816d9e6d9e361a4221a0201201c1d0118f8435312db3c3054633052301b00da02d0f404306d018200d8af018010f40f6fa1f2e087018200d8af22028010f417c801c8f400c901cc7001ca0040035920d74981010bbaf2e08820d70b0a208104ffbaf2d0898309baf2e088cf160120d74981010bbaf2e08820d70b0a208104ffbaf2d0898309baf2e088cf16c900b9bbbd182705cec3d5d2cae7b1e84ec39d64a851b6682709dd6352d2b647cb322d3af2dfdf1623982702055c01b80676394ce583aae4725b2c382709d974e5ab34ecb733a0e966d9466e8a482709dd1e003e5b3603c9fc83ab259aca21380201481e1f020378a020210075b26ee3435697066733a2f2f516d54397a5178655154525a43334b3672737141347655434e64383772756d62485a786f344156646a41794373528200213b92db3c5502db3c6c3182223000fbbeed44d0d20001801c0ed44d0d401f863d200018e48810101d700fa400120d7498"> constant CODE_HEX
+
+// داده قرارداد (از بخش "data" در JSON اول - هگز کد شده)
+<"482709dd6352d2b647cb322d3af2dfdf1623982702055c01b80676394ce583aae4725b2c382709d974e5ab34ecb733a0e966d9466e8a482709dd1e003e5b3603c9fc83ab259aca21380201481e1f020378a020210075b26ee3435697066733a2f2f516d54397a5178655154525a43334b3672737141347655434e64383772756d62485a786f344156646a41794373528200213b92db3c5502db3c6c3182223000fbbeed44d0d20001801c0ed44d0d401f863d200018e48810101d700fa400120d7498"> constant DATA_HEX
+
+// تعداد ارقام اعشار توکن (از JSON دوم)
+ constant TOKEN_DECIMALS
+
+// **---- پیام "redeem tokens" (نمونه از اطلاعات اضافی) ----**
+
+// Opcode پیام Jetton Notify برای "redeem tokens" (از تحلیل اطلاعات اضافی)
+<"7362d09c"> constant JETTON_NOTIFY_OPCODE
+
+// متن کامنت برای پیام "redeem tokens" (از تحلیل اطلاعات اضافی)
+<"🎉 Redeeming tokens"> constant REDEEM_TEXT_COMMENT
+
+// تابع اصلی برای تعامل با قرارداد
+() main = {
+
+  // 1. نمایش اطلاعات قرارداد (برای اطمینان از درستی آدرس و کد)
+  ADDRESS_STR dup ."Contract Address: " dup . cr
+  CODE_HEX dup ."Contract Code (HEX): " dup . cr
+  DATA_HEX dup ."Contract Data (HEX): " dup . cr
+  TOKEN_DECIMALS dup ."Token Decimals: " . cr
+
+  // 2. ساختن سلول آدرس قرارداد
+  ADDRESS_STR parse_address constant CONTRACT_ADDRESS
+
+  // 3. ساختن سلول کد قرارداد
+  CODE_HEX constant CONTRACT_CODE
+
+  // 4. ساختن سلول داده قرارداد
+  DATA_HEX constant CONTRACT_DATA
+
+  // 5. ساختن پیام "redeem tokens" به صورت TextComment Payload برای Jetton Notify
+
+  // ساختن بدنه پیام (body) برای پیام Jetton Notify
+  <b{
+    32 u,                  // query_id: 0
+    1000000000000000 u64,    // amount: 1,000,000,000,000,000 (1 واحد با 9 رقم اعشار)
+    <"0:4818f679ede118884806590b9b705a00fa6aa0cf7009d4b3d128ff263b031c88"> parse_address  // sender: آدرس کیف پول شما
+    1 1 b,                // forward_payload: is_right = true
+    <b{
+      "🎉 Redeeming tokens"  // TextComment payload با متن "🎉 Redeeming tokens"
+    }> c,                // value: TextComment payload
+  }> constant REDEEM_MESSAGE_BODY
+
+  // ساختن پیام داخلی (internal message) برای ارسال به قرارداد
+  CREATE_MESSAGE2 msg
+  <b{
+    CONTRACT_ADDRESS addr,  // dst: آدرس قرارداد
+    0 Gram,              // value: مقدار TON برای ارسال (صفر - فقط ارسال پیام)
+    1 0 0 0 0 0 0 0 0 0 0 0  // flags:  flags: ihr_disabled+bounce+forward_fee_recipient = 1+2+32 = 35 = 0x23 (معادل 1 0 0 0 1 1 در بیت‌ها)
+    REDEEM_MESSAGE_BODY body, // body: بدنه پیام "redeem tokens"
+    }>
+  SETMSGCONT msg  // تنظیم محتوای پیام
+
+  // 6. ارسال پیام به قرارداد (مستندات TonUtil.fif را ببینید)
+  SENDRAWMSG 3 // mode 3: ignore errors, Sender pays fees
+
+  // 7. نمایش پیام برای کاربر
+  . "Redeem message sent. Check transaction in explorer." cr
+
+}
+
+"TonUtil.fif" include
+"Asm.fif" include
+
+// **---- تنظیمات قرارداد ----**
+
+// آدرس مالک اولیه قرارداد مستر (آدرس کیف پول شما یا آدرس مسئول قرارداد)
+<"0:4818f679ede118884806590b9b705a00fa6aa0cf7009d4b3d128ff263b031c88"> constant INITIAL_OWNER_ADDRESS_STR
+
+// کد قرارداد کیف پول Jetton 
+<"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" constant JETTON_WALLET_CODE_HEX
+
+// метадата Jetton (قابل تنظیم - اطلاعات توکن DOGS را از JSON سوم استفاده کنید)
+<"Dogs"> constant JETTON_NAME
+<"DOGS"> constant JETTON_SYMBOL
+ constant JETTON_DECIMALS
+<"https://cdn.dogs.dev/dogs.png"> constant JETTON_IMAGE_URL
+
+// **---- ثابت های Opcode پیام ها ----**
+
+// Opcode برای پیام mint (ضرب توکن)
+<0x00000001> constant MINT_OPCODE
+// Opcode برای پیام burn (سوزاندن توکن)
+<0x00000002> constant BURN_OPCODE
+// Opcode برای پیام تغییر مالک قرارداد مستر
+<0x00000003> constant CHANGE_OWNER_OPCODE
+// Opcode برای درخواست метадата
+<0x00000004> constant GET_JETTON_DATA_OPCODE
+// Opcode برای درخواست آدرس کیف پول جتتون برای یک آدرس مشخص
+<0x2fcb2bc9> constant GET_WALLET_ADDRESS_OPCODE
+
+// **---- توابع کمکی ----**
+
+// تابع برای تبدیل رشته آدرس به سلول آدرس
+(str) parse_address = {
+  str constant addr_str
+  addr_str parse_address
+};
+
+// تابع برای ارسال پیام داخلی
+(message, mode) send_internal_message = {
+  message SETMSGCONT
+  SENDRAWMSG mode
+};
+
+// **---- بخش ذخیره سازی داده قرارداد ----**
+
+// ساختار داده قرارداد مستر Jetton
+(int_balance, cell_owner_address, cell_jetton_wallet_code, cell_jetton_metadata, int_total_supply) 
+  jetton_master_data = {
+    int_balance = int_balance;        // موجودی قرارداد مستر (معمولا صفر برای مستر)
+    cell_owner_address = cell_owner_address;  // آدرس مالک قرارداد مستر
+    cell_jetton_wallet_code = cell_jetton_wallet_code; // کد قرارداد کیف پول Jetton
+    cell_jetton_metadata = cell_jetton_metadata;   // метадата Jetton
+    int_total_supply = int_total_supply;      // مجموع عرضه کل توکن
+  };
+
+// تابع برای بارگیری داده های قرارداد از ذخیره سازی
+() load_data = {
+  // بارگیری از ذخیره سازی
+   контракт_balance dup
+   контракт_owner_address  dup
+   контракт_jetton_wallet_code dup
+   контракт_jetton_metadata dup
+   контракт_total_supply
+  jetton_master_data
+};
+
+// تابع برای ذخیره داده های قرارداد در ذخیره سازی
+( tuple ) save
+
+"TonUtil.fif" include
+"Asm.fif" include
+
+// **---- تنظیمات قرارداد ----**
+
+// آدرس مالک اولیه قرارداد مستر (آدرس کیف پول شما یا آدرس مسئول قرارداد)
+<"0:4818f679ede118884806590b9b705a00fa6aa0cf7009d4b3d128ff263b031c88"> constant INITIAL_OWNER_ADDRESS_STR
+
+// کد قرارداد کیف پول Jetton 
+<"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" constant JETTON_WALLET_CODE_HEX
+
+// метадата Jetton (اطلاعات توکن DOGS را از JSON سوم استفاده کنید)
+<"Dogs"> constant JETTON_NAME
+<"DOGS"> constant JETTON_SYMBOL
+ constant JETTON_DECIMALS
+<"https://cdn.dogs.dev/dogs.png"> constant JETTON_IMAGE_URL
+
+// **---- ثابت های Opcode پیام ها ----**
+
+// Opcode برای پیام mint (ضرب توکن)
+<0x00000001> constant MINT_OPCODE
+// Opcode برای پیام burn (سوزاندن توکن)
+<0x00000002> constant BURN_OPCODE
+// Opcode برای پیام تغییر مالک قرارداد مستر
+<0x00000003> constant CHANGE_OWNER_OPCODE
+// Opcode برای درخواست метадата
+<0x00000004> constant GET_JETTON_DATA_OPCODE
+// Opcode برای درخواست آدرس کیف پول جتتون برای یک آدرس مشخص
+<0x2fcb2bc9> constant GET_WALLET_ADDRESS_OPCODE
+
+// **---- توابع کمکی ----**
+
+// تابع برای تبدیل رشته آدرس به سلول آدرس
+(str) parse_address = {
+  str constant addr_str
+  addr_str parse_address
+};
+
+// تابع برای ارسال پیام داخلی
+(message, mode) send_internal_message = {
+  message SETMSGCONT
+  SENDRAWMSG mode
+};
+
+// **---- بخش ذخیره سازی داده قرارداد ----**
+
+// ساختار داده قرارداد مستر Jetton
+(int_balance, cell_owner_address, cell_jetton_wallet_code, cell_jetton_metadata, int_total_supply)
+  jetton_master_data = {
+    int_balance = int_balance;        // موجودی قرارداد مستر (معمولاً صفر برای مستر)
+    cell_owner_address = cell_owner_address;  // آدرس مالک قرارداد مستر
+    cell_jetton_wallet_code = cell_jetton_wallet_code; // کد قرارداد کیف پول Jetton
+    cell_jetton_metadata = cell_jetton_metadata;   // метадата Jetton
+    int_total_supply = int_total_supply;      // مجموع عرضه کل توکن
+  };
+
+// تابع برای بارگیری داده‌های قرارداد از ذخیره سازی
+() load_data = {
+  // بارگیری از ذخیره سازی
+  контракт_balance load_int
+  контракт_owner_address load_ref
+  контракт_jetton_wallet_code load_ref
+  контракт_jetton_metadata load_ref
+  контракт_total_supply load_int
+  jetton_master_data
+};
+
+// تابع برای ذخیره داده‌های قرارداد در ذخیره سازی
+( tuple ) save_data = {
+  // جداسازی مقادیر از tuple
+  jetton_master_data{ int_balance, cell_owner_address, cell_jetton_wallet_code, cell_jetton_metadata, int_total_supply} = tuple unwrap;
+
+  // ذخیره در ذخیره سازی
+;; Opcode های استاندارد TEP-74 برای Jetton
+
+namespace jetton {
+    const transfer_opcode = 0x0f8a7ea5;  ;; Opcode برای پیام انتقال
+    const internal_transfer_opcode = 0x178d4519; ;; Opcode برای پیام انتقال داخلی
+    const burn_opcode = 0x595f07bc;      ;; Opcode برای پیام سوزاندن
+    const transfer_notification_opcode = 0x7362d09c; ;; Opcode برای اعلان انتقال
+    const burn_notification_opcode = 0x7bdd97de;     ;; Opcode برای اعلان سوزاندن
+    const excesses_opcode = 0xd432f841;       ;; Opcode برای مازاد TON
+    const get_wallet_address_opcode = 0x2fcb2bc9; ;; Opcode برای درخواست آدرس کیف پول جتتون
+    const get_jetton_data_opcode = 0x00000004;    ;; Opcode برای درخواست اطلاعات جتتون
+}
+  int_balance контрак
