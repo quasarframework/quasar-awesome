@@ -101,6 +101,7 @@ Do not forget to watch official [video tutorials](https://quasar.dev/video-tutor
 | [Patrick Monteiro](https://github.com/patrickmonteiro) | [Medium](https://medium.com/building-kovi/criando-um-pwa-com-framework-vue-js-e-quasar-6b7e1fbc743d) | Criando um PWA com Vue.js e Quasar(pt-br) | v1.x |
 | [Joel Olawanle](https://github.com/olawanlejoel) | [Smashing Magazine](https://www.smashingmagazine.com/2021/10/introduction-quasar-framework-cross-platform-applications/) | An Introduction To Quasar Framework: Building Cross-Platform Applications ||
 | [Tony Xu](https://github.com/tony-xlh) | [Article](https://www.dynamsoft.com/codepool/quasar-qr-code-scanner.html) | How to Build a Quasar QR Code Scanner with Capacitor | v1.x |
+| [S. M. Shakil](https://github.com/smShakil) | [Medium](https://medium.com/@smshakil.kuet/unleashing-the-full-stack-power-with-quasar-framework-building-pwa-ssr-and-api-driven-apps-31d1f4208aeb) | Unleashing the Full-Stack Potentiality of Quasar Framework: Building PWA, SSR, and API-Driven Apps ||
 
 Do not forget to read the official [blog](https://blog.quasar.dev/).
 
@@ -108,6 +109,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 
 | Name | Description |
 | --- | --- |
+| [storagedirective](https://www.npmjs.com/package/quasar-app-extension-storagedirective) | Storagedirective is an app extension kit only, that adds a custom Vue directive to make `v-model` vars easy persistent |
 | [qmodeltd](https://www.npmjs.com/package/quasar-app-extension-qmodeltd) | QModelTd is an UI app extension for Quasar that simplifies the usage of editable or selectable QTd |
 | [remote-dev-tools](https://github.com/bloodf/quasar-remote-dev-tools) | Vue remote devtools for Cordova and Electron apps made with Quasar |
 | [alpaca-forms](https://github.com/221B-io/quasar-alpaca-form-builder#readme) | Alpaca form builder built for Quasar |
@@ -124,7 +126,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | [QHierarchy](https://github.com/pratik227/quasar-qhierarchy) | QHierarchy is a Quasar App Extension. It allows you to display data in hierarchy structure on your page. |
 | [QDraggableTree](https://github.com/mayank091193/quasar-draggable-tree) | QDraggableTree is a Quasar Framework app extension that allows you to drag and drop the nodes in the Quasar QTree |
 | [APIWrapper](https://github.com/RobertoLangarica/quasar-app-extension-api-wrapper) | An out of the box API client that wrap [axios](https://github.com/axios/axios) with common features like: Vuex store integration, masive requests, homogeneous responses, concurrency...|
-| Quasar Tiptap | [github](https://github.com/donotebase/quasar-tiptap), [demo](https://donotebase.github.io/quasar-tiptap) | A modern WYSIWYG rich-text editor built on top of tiptap and Quasar Framework for Vue.js. | v1.9.14 |
+| Quasar Tiptap [github](https://github.com/donotebase/quasar-tiptap), [demo](https://donotebase.github.io/quasar-tiptap) | A modern WYSIWYG rich-text editor built on top of tiptap and Quasar Framework for Vue.js. | v1.9.14 |
 | [QFilterConfigurator](https://github.com/heartbeatLV/app-extension-q-filter-configurator) | An easy filter viewer | v1.0.7 |
 | [QDatePicker](https://github.com/heartbeatLV/app-extension-q-date-picker) | A date selector (single/period) with the comparison functionality | v1.0.0-rc.1 |
 | [QsSelect](https://github.com/heartbeatLV/app-extension-qs-select) | A searchable QSelect with which accepts an url | v0.4.2 |
@@ -136,6 +138,8 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | [QCascader](https://github.com/Junvary/quasar-app-extension-qcascader) | QCascader can be used to display and select tree structured data. |
 | [ssg](https://github.com/freddy38510/quasar-app-extension-ssg) | A Static Site Generator that supports Quasar v1 and v2 |
 | [Hybrid Rendering](https://github.com/jirka124/quasar-hybrid-render/) | Extension allowing for easy use of SSR, CSR, SSG and ISR in your Quasar.js project. |
+| [Custom Extra Icons](https://github.com/vladyslav-mikhieiev/quasar-app-extension-custom-extra-icons) | A Quasar Framework extension that allows you to convert SVG icons into a [Quasar-compatible format](https://quasar.dev/vue-components/icon#svg-icon-format). Once converted, your icons work just like any other Quasar icon, which means you can control their size and color using Quasar's components with built-in props and classes. |
+| [Restboard](https://restboard.github.io/) | An application booster to quickly create admin panels from existing APIs |
 
 # Other Community Components and Tools
 > For older Quasar versions or not supplied through a Quasar App Extension
@@ -155,7 +159,8 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Quasar QRCode Reader | [github](https://github.com/patrickmonteiro/quasar-qrcode-reader), [demo](https://quasar-qrcode-reader.surge.sh/#/) | A simple Javascript-only QRCode generator and reader (no dependency on cordova). Great for web and PWA solutions. | v1.0.6 |
 | Quasar Speech API | [github](https://github.com/patrickmonteiro/quasar-speech-api), [demo](https://quasarspeechapi.surge.sh/#/) | Example project using Speech Web API to transcribe speech into text and synthesize text into speech. | v1.0.6 |
 | QInputEx Component | [github](https://github.com/snowyu/qinputex) | The Advance Input Component for Quasar is used as single-line input box for date, time, password, color, select etc. | v1.0.0-beta.1 |
-| Quasar Snippets | [github](https://github.com/Abdelaziz18003/vscode-quasar-snippets), [Marketplace](https://marketplace.visualstudio.com/items?itemName=abdelaziz18003.quasar-snippets) | Quasar components' snippets for VSCode that can increase your productivity working on Quasar projects. | v0.17.x |
+| Quasar Snippets | [github](https://github.com/Abdelaziz18003/vscode-quasar-snippets), [Marketplace](https://marketplace.visualstudio.com/items?itemName=abdelaziz18003.quasar-snippets) | Quasar components' snippets for VSCode that can increase your productivity working on Quasar projects. | v2.17.x |
+| Common Intellisense | [github](https://github.com/common-intellisense/common-intellisense), [Marketplace](https://marketplace.visualstudio.com/items?itemName=simonhe.common-intellisense) | A VS Code extension that provides better intellisense to Quasar developers. | v2 |
 | Quasar Steem Beneficiaries | [github](https://github.com/irelandscape/qv-steem-beneficiaries)<br/>[npm](https://www.npmjs.com/package/qv-steem-beneficiaries) | A Quasar/Vue component for easily adding beneficiaries support to your Steem dapp. | v0.17.16 |
 | Quasar calendar | [github](https://github.com/stormseed/quasar-calendar) | A full calendar display in multiple formats that accepts event data and display it in month, week, multi-day, single day and agenda views | v0.15.6 |
 | Laqu-l | [github](https://github.com/laqul/laqul/) | A complete starter kit that allows you create amazing apps that look native thanks to the Quasar Framework. Powered by an API developed in Laravel Framework using the easy GraphQL queries language. And ready to use the Google Firebase features. | v0.15.10 |
@@ -169,12 +174,17 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Starter kit | [github](https://github.com/MilosPaunovic/quasar-v2-starter) | Starter kit for quickly lifting your project from the ground up; includes public pages (Login, Register, Reset Password), Router & Pinia are present with a lot more helpful stuff implemented. | v2 |
 | OTA system | [github](https://github.com/Cap-go/capacitor-updater) | Auto update system for mobile app, send update to users without app store review | v2 |
 | Quasar Firebase Template | [github](https://github.com/wiktorcie/quasar2-firebase-auth), [demo](https://xenodochial-clarke-616008.netlify.app/#/) | Email/google sign in, user profiles, password resets, photo uploads to Google Firebase | v2.0.3 |
+| @simsustech/quasar-components | [github](https://github.com/simsustech/quasar-components), [npm](https://www.npmjs.com/package/@simsustech/quasar-components) | High level components for Quasar Framework. | v2.17+ |
+| unocss-preset-quasar | [github](https://github.com/simsustech/unocss-preset-quasar), [npm](https://www.npmjs.com/package/unocss-preset-quasar) | UnoCSS preset for Quasar Framework | v2.17+ |
+| zova-quasar | [github](https://github.com/cabloy/zova/tree/main/zova-ui-quasar) | A vue3 framework with ioc container. With the support of ioc container, defining reactive states no longer needs `ref/reactive`, nor `ref.value` | v2.16.4 |
 | Starter kit | [github](https://github.com/bekaku/quasar-starter-template), [Demo](https://bekaku.github.io/quasar-starter/#/) | Starter kit., Customized Quasar to be clean UI | v2 |
 
 # Projects Using Quasar
 
 | Name | Links | Description | Quasar |
 | --- | --- | --- | --- |
+| sickDiary - healthcare app | [website](https://sickdiary.biqz.net)  | A diary app for sickness and managing medicines. Standalone app for Linux, Mac, Win and Android. All made with Quasar | v2.17.7 |
+| Nekon.app  | [PWA](https://nekon.app/) | A powerful anime picture website with beautiful UI design. | v2.15.4 |
 | Quasar Prime Admin Template  | [website](https://quasar-prime-admin-template.netlify.app/analytics) | Quasar Prime: Vue.js Admin Template – Powerfully Elegant, Ultimate Dashboard Solution! 🚀 | v2.14.2 |
 | Quasar Minimalist Design  | [website](https://quasar-minimalist-design.netlify.app/) | Quasar Minimalist Design is a premium admin template that offers a range of features and functionalities. It is designed to cater to the needs of businesses and organisations that require a user-friendly and efficient dashboard.| v2.11.6 |
 | Quasar Admin Vue 3 | [github](https://github.com/pratik227/quasar-admin/tree/next), [website](https://next-quasar-admin.netlify.app/) | A Free and beautiful Quasar Admin template for Vue 3 | v2.6.0 |
@@ -240,7 +250,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Realworld Conduit | [github](https://github.com/geoidesic/realworld-quasar/) | Medium.com clone | v0.15.10 |
 | vue-quasar-admin | [website](http://jaycewu.coding.me/vue-quasar-admin),[github](https://github.com/wjkang/vue-quasar-admin) | admin-dashboard | v0.15.14 |
 | letsbutterfly(tm) | [pwa](https://app.letsbutterfly.com) | Real estate platform in your pocket. https://letsbutterfly.com | v0.15.10 |
-| quasar-documentation++ | [github](https://github.com/slowaways/quasar-documentation-pp) | All-in-one Quasar Documentation | v0.16.0 |
+| Docsector Reader | [github](https://github.com/docsector/docsector-reader), [npm](https://www.npmjs.com/package/@docsector/docsector-reader) | Documentation rendering engine built with Vue 3, Quasar v2 and Vite. Transform Markdown into beautiful, navigable documentation sites. Successor of quasar-documentation++ | v2.18.6 |
 | Dolphin Note | [website](https://www.donote.info) | A Simple and Elegant markdown note application. | v0.15.14 |
 | Quicknote | [website](https://quick.donote.info) | A Simple and Elegant markdown quicknote DApp. | v0.15.14 |
 | Homespun | [website](https://homespun.com/) | E-commerce shop, video library, streaming video player, live chat | v1.16.0 |
@@ -362,4 +372,10 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | golfity | [iOS](https://apps.apple.com/es/app/golfity-track-your-golf-stats/id6447656695?l=en-GB), [Android](https://apps.apple.com/es/app/golfity-track-your-golf-stats/id6447656695?l=en-GB), [PWA](https://app.golfity.com/) | The best tool to track your golf scores like a pro player | v2.15.1
 | Agrobays Agrofoods | [iOS](https://apps.apple.com/ng/app/agrobays-agrofoods/id6463464628), [Android](https://play.google.com/store/apps/details?id=org.greysoft.agrobays.app), [PWA](https://app.agrobays.com/) | Save and book weekly delivery of the best Fruits & Veggies | v2.15.4
 | 5minutes | [Android](https://play.google.com/store/apps/details?id=org.greysoft.fiveminutes.app), [PWA](https://app.5minutes.ng/) | A mentor-mentee learning platform where mentors share content that is consumable in no more than 5minutes | v2.15.4
-| Taskyon | [website](https://taskyon.xyntopia.com), [github](https://www.github.com/xyntopia/taskyon) | A Chatbot App which supports many AI models, among them OpenAI/ChatGPT/3/4 and LLama2. It also gves you the ability to define your own tools in the frontend and has several tools pre-configured such as python & javascript code execution, webbrowser tool and information retrieval | v2 |
+| Taskyon | [website](https://taskyon.xyntopia.com), [github](https://www.github.com/xyntopia/taskyon) | A Chatbot App which supports many AI models, among them OpenAI/ChatGPT/3/4 and LLama2. It also gves you the ability to define your own tools in the frontend and has several tools pre-configured such as python & javascript code execution, webbrowser tool and information retrieval | v2
+| Petboarding | [website](https://www.petboarding.app), [demo](https://demo.petboarding.app), [github](https://github.com/simsustech/petboarding) | Easy, fast and reliable pet boarding booking system. | v2.17+ |
+| SlimFact | [website](https://www.slimfact.app), [demo](https://demo.slimfact.app), [github](https://github.com/simsustech/slimfact) | Streamlined invoicing made easy. | v2.17+ |
+| Time to Money Calculator | [github](https://github.com/zikju/time-to-money-calculatortime), [website](https://time2money.zq.lt/), [chrome extension](https://chromewebstore.google.com/detail/time-to-money-calculator/hmlelnagnhidpaifchocofnbikmpipmb?hl=en) | A simple calculator for freelancers to calculate their earnings based on hours and minutes worked. | v2.16.0 |
+| QChatGPT | [github](https://github.com/timamus/QChatGPT) | QChatGPT is a versatile client ChatGPT built with Quasar Framework, supporting Linux, Windows, Mac, Android, and iOS. It offers requests using your ChatGPT API key, local data storage for stable operation, and real-time support. It includes additional features like syntax highlighting for over 20 programming languages, image generation via Dalle 3, and advanced search and chat grouping functionalities. | v2.16.4 |
+| Waxtor | [Website](https://www.waxtor.com), [PWA](https://app.waxtor.com) | Vinyl record collection manager | v1.2.1
+| Numo App | [webapp](https://app.numo-app.com/), [android](https://play.google.com/store/apps/details?id=com.numoapp.numo.app), [ios](https://apps.apple.com/de/app/numo/id6451087523), [samples](https://numo-app.com/features#terminliste) | An App with Laravel backend for sport clubs or groups to organize their teams. The app is only available after registration, but lots of [sample](https://numo-app.com/features#terminliste) videos are available on the website | v2 |
