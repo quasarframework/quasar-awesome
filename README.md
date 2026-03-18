@@ -101,6 +101,7 @@ Do not forget to watch official [video tutorials](https://quasar.dev/video-tutor
 | [Patrick Monteiro](https://github.com/patrickmonteiro) | [Medium](https://medium.com/building-kovi/criando-um-pwa-com-framework-vue-js-e-quasar-6b7e1fbc743d) | Criando um PWA com Vue.js e Quasar(pt-br) | v1.x |
 | [Joel Olawanle](https://github.com/olawanlejoel) | [Smashing Magazine](https://www.smashingmagazine.com/2021/10/introduction-quasar-framework-cross-platform-applications/) | An Introduction To Quasar Framework: Building Cross-Platform Applications ||
 | [Tony Xu](https://github.com/tony-xlh) | [Article](https://www.dynamsoft.com/codepool/quasar-qr-code-scanner.html) | How to Build a Quasar QR Code Scanner with Capacitor | v1.x |
+| [S. M. Shakil](https://github.com/smShakil) | [Medium](https://medium.com/@smshakil.kuet/unleashing-the-full-stack-power-with-quasar-framework-building-pwa-ssr-and-api-driven-apps-31d1f4208aeb) | Unleashing the Full-Stack Potentiality of Quasar Framework: Building PWA, SSR, and API-Driven Apps ||
 
 Do not forget to read the official [blog](https://blog.quasar.dev/).
 
