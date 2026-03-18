@@ -136,6 +136,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | [QCascader](https://github.com/Junvary/quasar-app-extension-qcascader) | QCascader can be used to display and select tree structured data. |
 | [ssg](https://github.com/freddy38510/quasar-app-extension-ssg) | A Static Site Generator that supports Quasar v1 and v2 |
 | [Hybrid Rendering](https://github.com/jirka124/quasar-hybrid-render/) | Extension allowing for easy use of SSR, CSR, SSG and ISR in your Quasar.js project. |
+| [Restboard](https://restboard.github.io/) | An application booster to quickly create admin panels from existing APIs |
 
 # Other Community Components and Tools
 > For older Quasar versions or not supplied through a Quasar App Extension
@@ -169,11 +170,13 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Starter kit | [github](https://github.com/MilosPaunovic/quasar-v2-starter) | Starter kit for quickly lifting your project from the ground up; includes public pages (Login, Register, Reset Password), Router & Pinia are present with a lot more helpful stuff implemented. | v2 |
 | OTA system | [github](https://github.com/Cap-go/capacitor-updater) | Auto update system for mobile app, send update to users without app store review | v2 |
 | Quasar Firebase Template | [github](https://github.com/wiktorcie/quasar2-firebase-auth), [demo](https://xenodochial-clarke-616008.netlify.app/#/) | Email/google sign in, user profiles, password resets, photo uploads to Google Firebase | v2.0.3 |
+| zova-quasar | [github](https://github.com/cabloy/zova/tree/main/zova-ui-quasar) | A vue3 framework with ioc container. With the support of ioc container, defining reactive states no longer needs `ref/reactive`, nor `ref.value` | v2.16.4 |
 
 # Projects Using Quasar
 
 | Name | Links | Description | Quasar |
 | --- | --- | --- | --- |
+| Nekon.app  | [PWA](https://nekon.app/) | A powerful anime picture website with beautiful UI design. | v2.15.4 |
 | Quasar Prime Admin Template  | [website](https://quasar-prime-admin-template.netlify.app/analytics) | Quasar Prime: Vue.js Admin Template – Powerfully Elegant, Ultimate Dashboard Solution! 🚀 | v2.14.2 |
 | Quasar Minimalist Design  | [website](https://quasar-minimalist-design.netlify.app/) | Quasar Minimalist Design is a premium admin template that offers a range of features and functionalities. It is designed to cater to the needs of businesses and organisations that require a user-friendly and efficient dashboard.| v2.11.6 |
 | Quasar Admin Vue 3 | [github](https://github.com/pratik227/quasar-admin/tree/next), [website](https://next-quasar-admin.netlify.app/) | A Free and beautiful Quasar Admin template for Vue 3 | v2.6.0 |
@@ -239,7 +242,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Realworld Conduit | [github](https://github.com/geoidesic/realworld-quasar/) | Medium.com clone | v0.15.10 |
 | vue-quasar-admin | [website](http://jaycewu.coding.me/vue-quasar-admin),[github](https://github.com/wjkang/vue-quasar-admin) | admin-dashboard | v0.15.14 |
 | letsbutterfly(tm) | [pwa](https://app.letsbutterfly.com) | Real estate platform in your pocket. https://letsbutterfly.com | v0.15.10 |
-| quasar-documentation++ | [github](https://github.com/slowaways/quasar-documentation-pp) | All-in-one Quasar Documentation | v0.16.0 |
+| Docsector Reader | [github](https://github.com/docsector/docsector-reader), [npm](https://www.npmjs.com/package/@docsector/docsector-reader) | Documentation rendering engine built with Vue 3, Quasar v2 and Vite. Transform Markdown into beautiful, navigable documentation sites. Successor of quasar-documentation++ | v2.18.6 |
 | Dolphin Note | [website](https://www.donote.info) | A Simple and Elegant markdown note application. | v0.15.14 |
 | Quicknote | [website](https://quick.donote.info) | A Simple and Elegant markdown quicknote DApp. | v0.15.14 |
 | Homespun | [website](https://homespun.com/) | E-commerce shop, video library, streaming video player, live chat | v1.16.0 |
@@ -361,5 +364,8 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | golfity | [iOS](https://apps.apple.com/es/app/golfity-track-your-golf-stats/id6447656695?l=en-GB), [Android](https://apps.apple.com/es/app/golfity-track-your-golf-stats/id6447656695?l=en-GB), [PWA](https://app.golfity.com/) | The best tool to track your golf scores like a pro player | v2.15.1
 | Agrobays Agrofoods | [iOS](https://apps.apple.com/ng/app/agrobays-agrofoods/id6463464628), [Android](https://play.google.com/store/apps/details?id=org.greysoft.agrobays.app), [PWA](https://app.agrobays.com/) | Save and book weekly delivery of the best Fruits & Veggies | v2.15.4
 | 5minutes | [Android](https://play.google.com/store/apps/details?id=org.greysoft.fiveminutes.app), [PWA](https://app.5minutes.ng/) | A mentor-mentee learning platform where mentors share content that is consumable in no more than 5minutes | v2.15.4
-| Taskyon | [website](https://taskyon.xyntopia.com), [github](https://www.github.com/xyntopia/taskyon) | A Chatbot App which supports many AI models, among them OpenAI/ChatGPT/3/4 and LLama2. It also gves you the ability to define your own tools in the frontend and has several tools pre-configured such as python & javascript code execution, webbrowser tool and information retrieval | v2 |
+| Taskyon | [website](https://taskyon.xyntopia.com), [github](https://www.github.com/xyntopia/taskyon) | A Chatbot App which supports many AI models, among them OpenAI/ChatGPT/3/4 and LLama2. It also gves you the ability to define your own tools in the frontend and has several tools pre-configured such as python & javascript code execution, webbrowser tool and information retrieval | v2
 | Time to Money Calculator | [github](https://github.com/zikju/time-to-money-calculatortime), [website](https://time2money.zq.lt/), [chrome extension](https://chromewebstore.google.com/detail/time-to-money-calculator/hmlelnagnhidpaifchocofnbikmpipmb?hl=en) | A simple calculator for freelancers to calculate their earnings based on hours and minutes worked. | v2.16.0 |
+| QChatGPT | [github](https://github.com/timamus/QChatGPT) | QChatGPT is a versatile client ChatGPT built with Quasar Framework, supporting Linux, Windows, Mac, Android, and iOS. It offers requests using your ChatGPT API key, local data storage for stable operation, and real-time support. It includes additional features like syntax highlighting for over 20 programming languages, image generation via Dalle 3, and advanced search and chat grouping functionalities. | v2.16.4 |
+| Waxtor | [Website](https://www.waxtor.com), [PWA](https://app.waxtor.com) | Vinyl record collection manager | v1.2.1
+| Numo App | [webapp](https://app.numo-app.com/), [android](https://play.google.com/store/apps/details?id=com.numoapp.numo.app), [ios](https://apps.apple.com/de/app/numo/id6451087523), [samples](https://numo-app.com/features#terminliste) | An App with Laravel backend for sport clubs or groups to organize their teams. The app is only available after registration, but lots of [sample](https://numo-app.com/features#terminliste) videos are available on the website | v2 |
