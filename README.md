@@ -177,6 +177,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | @simsustech/quasar-components | [github](https://github.com/simsustech/quasar-components), [npm](https://www.npmjs.com/package/@simsustech/quasar-components) | High level components for Quasar Framework. | v2.17+ |
 | unocss-preset-quasar | [github](https://github.com/simsustech/unocss-preset-quasar), [npm](https://www.npmjs.com/package/unocss-preset-quasar) | UnoCSS preset for Quasar Framework | v2.17+ |
 | zova-quasar | [github](https://github.com/cabloy/zova/tree/main/zova-ui-quasar) | A vue3 framework with ioc container. With the support of ioc container, defining reactive states no longer needs `ref/reactive`, nor `ref.value` | v2.16.4 |
+| Starter kit | [github](https://github.com/bekaku/quasar-starter-template), [Demo](https://bekaku.github.io/quasar-starter/#/) | Starter kit., Customized Quasar to be clean UI | v2 |
 
 # Projects Using Quasar
 
