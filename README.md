@@ -138,6 +138,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | [QCascader](https://github.com/Junvary/quasar-app-extension-qcascader) | QCascader can be used to display and select tree structured data. |
 | [ssg](https://github.com/freddy38510/quasar-app-extension-ssg) | A Static Site Generator that supports Quasar v1 and v2 |
 | [Hybrid Rendering](https://github.com/jirka124/quasar-hybrid-render/) | Extension allowing for easy use of SSR, CSR, SSG and ISR in your Quasar.js project. |
+| [Custom Extra Icons](https://github.com/vladyslav-mikhieiev/quasar-app-extension-custom-extra-icons) | A Quasar Framework extension that allows you to convert SVG icons into a [Quasar-compatible format](https://quasar.dev/vue-components/icon#svg-icon-format). Once converted, your icons work just like any other Quasar icon, which means you can control their size and color using Quasar's components with built-in props and classes. |
 | [Restboard](https://restboard.github.io/) | An application booster to quickly create admin panels from existing APIs |
 
 # Other Community Components and Tools
