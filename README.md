@@ -239,7 +239,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Realworld Conduit | [github](https://github.com/geoidesic/realworld-quasar/) | Medium.com clone | v0.15.10 |
 | vue-quasar-admin | [website](http://jaycewu.coding.me/vue-quasar-admin),[github](https://github.com/wjkang/vue-quasar-admin) | admin-dashboard | v0.15.14 |
 | letsbutterfly(tm) | [pwa](https://app.letsbutterfly.com) | Real estate platform in your pocket. https://letsbutterfly.com | v0.15.10 |
-| quasar-documentation++ | [github](https://github.com/slowaways/quasar-documentation-pp) | All-in-one Quasar Documentation | v0.16.0 |
+| Docsector Reader | [github](https://github.com/docsector/docsector-reader), [npm](https://www.npmjs.com/package/@docsector/docsector-reader) | Documentation rendering engine built with Vue 3, Quasar v2 and Vite. Transform Markdown into beautiful, navigable documentation sites. Successor of quasar-documentation++ | v2.18.6 |
 | Dolphin Note | [website](https://www.donote.info) | A Simple and Elegant markdown note application. | v0.15.14 |
 | Quicknote | [website](https://quick.donote.info) | A Simple and Elegant markdown quicknote DApp. | v0.15.14 |
 | Homespun | [website](https://homespun.com/) | E-commerce shop, video library, streaming video player, live chat | v1.16.0 |
@@ -363,4 +363,4 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | 5minutes | [Android](https://play.google.com/store/apps/details?id=org.greysoft.fiveminutes.app), [PWA](https://app.5minutes.ng/) | A mentor-mentee learning platform where mentors share content that is consumable in no more than 5minutes | v2.15.4
 | Taskyon | [website](https://taskyon.xyntopia.com), [github](https://www.github.com/xyntopia/taskyon) | A Chatbot App which supports many AI models, among them OpenAI/ChatGPT/3/4 and LLama2. It also gves you the ability to define your own tools in the frontend and has several tools pre-configured such as python & javascript code execution, webbrowser tool and information retrieval | v2
 | Waxtor | [Website](https://www.waxtor.com), [PWA](https://app.waxtor.com) | Vinyl record collection manager | v1.2.1
-
+| Numo App | [webapp](https://app.numo-app.com/), [android](https://play.google.com/store/apps/details?id=com.numoapp.numo.app), [ios](https://apps.apple.com/de/app/numo/id6451087523), [samples](https://numo-app.com/features#terminliste) | An App with Laravel backend for sport clubs or groups to organize their teams. The app is only available after registration, but lots of [sample](https://numo-app.com/features#terminliste) videos are available on the website | v2 |
