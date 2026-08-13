@@ -382,3 +382,4 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | QuasarUI  | [website](https://www.quasarui.com/) | QuasarUI: Premium components ( 400 + ) and templates ( 2 ) for Quasar framework. More components and templates are coming soon | v2.17.2 |
 | PileaX AI  | [website](https://pileax.ai/), [github](https://github.com/pileax-ai/pileax) | All-in-one AI KnowledgeBase. 🍀  | v2.6.0 |
 | World-Meeting | [website](https://world-meeting.app/) | Private browser meetings with real-time voice translation, translated voice, live subtitles, guest links, and screen sharing. | v2.16.0 |
+| Atlasbasket | [website](https://atlasbasket.gr/) | Official platform of the Atlasbasket organization for its basketball leagues and tournaments, featuring teams, players, fixtures, results, standings, statistics, and match news. | v2.24.0 |
