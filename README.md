@@ -116,7 +116,6 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | [draggable](https://github.com/mesqueeb/quasar-app-extension-draggable) | A Quasar extension that makes elements draggable and movable with keyboard. |
 | [swipe-to-close](https://github.com/mesqueeb/quasar-app-extension-swipe-to-close/) | A Quasar Framework app extension that allows you to close dialogs by swiping. |
 | [qdatetimepicker](https://github.com/TobyMosque/app-extension-qdatetimepicker#readme) | QDatetimePicker for Quasar |
-| [qribbon](https://github.com/webnoob/app-extension-qribbon) | Customisable ribbons with a component builder. Allows ribbons at the top, corners, bottom etc. |
 | [http-authentication](https://github.com/stefanvanherwijnen/quasar-app-extension-http-authentication) | HTTP authentication using the Vuex store with basic login, registration and password reset pages. |
 | [system-environment-variables](https://github.com/marcorivm/quasar-app-extension-system-environment-variables) | Loading of system environment variables for deploying on CI environment. |
 | [easy-forms](https://quasar-easy-forms.web.app) | A component to easily generate (Quasar) forms by only defining a "schema" object. |
@@ -179,6 +178,9 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | zova-quasar | [github](https://github.com/cabloy/zova/tree/main/zova-ui-quasar) | A vue3 framework with ioc container. With the support of ioc container, defining reactive states no longer needs `ref/reactive`, nor `ref.value` | v2.16.4 |
 | Starter kit | [github](https://github.com/bekaku/quasar-starter-template), [Demo](https://bekaku.github.io/quasar-starter/#/) | Starter kit., Customized Quasar to be clean UI | v2 |
 | Poveste | [github](https://github.com/poveste-dev/poveste), [docs](https://poveste.dev) | Interactive component playgrounds — write stories beside your components and browse them with controls, generated source and a11y checks | v2.24+ |
+| Quasar Extras SVG Icons | [github](https://github.com/hawkeye64/quasar-extras-svg-icons), [docs](https://quasar-extras-svg-icons.netlify.app/) | Additional SVG icon sets packaged as tree-shakeable exports with TypeScript declarations for QIcon, QBtn and other Quasar components. | v2 |
+| Icon Explorer | [github](https://github.com/hawkeye64/iconexplorer.app), [website](https://iconexplorer.app/) | Search and preview icons from Quasar Extras and Quasar Extras SVG Icons, collect icons in a library, and copy imports, SVGs and Quasar component snippets. | v2.32.3 |
+| md-plugins | [github](https://github.com/md-plugins/md-plugins), [docs](https://md-plugins.netlify.app/) | Markdown-it and Vite plugins for documentation sites with Markdown routes, live Vue examples, static search and static site generation, plus Q-Press integration for Quasar. | v2 |
 
 # Projects Using Quasar
 
