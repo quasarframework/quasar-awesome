@@ -182,6 +182,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Quasar Extras SVG Icons | [github](https://github.com/hawkeye64/quasar-extras-svg-icons), [docs](https://quasar-extras-svg-icons.netlify.app/) | Additional SVG icon sets packaged as tree-shakeable exports with TypeScript declarations for QIcon, QBtn and other Quasar components. | v2 |
 | Icon Explorer | [github](https://github.com/hawkeye64/iconexplorer.app), [website](https://iconexplorer.app/) | Search and preview icons from Quasar Extras and Quasar Extras SVG Icons, collect icons in a library, and copy imports, SVGs and Quasar component snippets. | v2.32.3 |
 | md-plugins | [github](https://github.com/md-plugins/md-plugins), [docs](https://md-plugins.netlify.app/) | Markdown-it and Vite plugins for documentation sites with Markdown routes, live Vue examples, static search and static site generation, plus Q-Press integration for Quasar. | v2 |
+| OtaKit | [github](https://github.com/OtaKit/otakit), [website](https://otakit.app) | Open-source (MIT) live updates for Quasar Capacitor apps — ship JS/HTML/CSS without app store review, hosted or self-hosted | v2 |
 
 # Projects Using Quasar
 
